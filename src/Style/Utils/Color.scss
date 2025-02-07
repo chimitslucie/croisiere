@@ -1,0 +1,29 @@
+$primary: #E7AF2A;
+$secondary: #3270A0;
+$white: #FFFFFF;
+$darkblue: #17354D;
+$nav: #9ED5FF;
+
+.navBackground {
+    background-color: $nav;
+}
+
+.active {
+    color: $primary;
+}
+
+.textSecondary {
+    color: $secondary;
+}
+
+h1 {
+    color: $primary;
+}
+
+h1 span {
+    color: $white;
+}
+
+h2, h3, h4, h5, h6 {
+    color: $darkblue;
+}
