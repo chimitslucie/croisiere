@@ -1,0 +1,631 @@
+{
+  "etapes": [
+    {
+      "id": "1",
+      "image": "/croisiere-app/assets/home/etapes/barcelone.webp",
+      "date": "le 25 mai",
+      "ville": "barcelone",
+      "text": "On pourra descendre du bateau à partir de 8h et il faudra revenir à 17h30 pour un départ du bateau à 18h"
+    },
+    {
+      "id": "2",
+      "image": "/croisiere-app/assets/home/etapes/smeralda.webp",
+      "date": "le 26 mai",
+      "ville": "journée en mer",
+      "text": "Durant cette journée, on naviguera vers la mer des Baléares. On pourra profiter de toute les activités que propose le Sméralda."
+    },
+    {
+      "id": "3",
+      "image": "/croisiere-app/assets/home/etapes/cagliari.jpg",
+      "date": "le 27 mai",
+      "ville": "cagliari",
+      "text": "On pourra descendre du bateau à partir de 7h30 et il faudra revenir à 16h pour un départ du bateau à 16h30"
+    },
+    {
+      "id": "4",
+      "image": "/croisiere-app/assets/home/etapes/naples.jpg",
+      "date": "le 28 mai",
+      "ville": "naples",
+      "text": "On pourra descendre du bateau à partir de 9h et il faudra revenir à 18h30 pour un départ du bateau à 19h"
+    },
+    {
+      "id": "5",
+      "image": "/croisiere-app/assets/home/etapes/Civitavecchia.webp",
+      "date": "le 29 mai",
+      "ville": "civitavecchia / rome",
+      "text": "On pourra descendre du bateau à partir de 8h et il faudra revenir à 18h pour un départ du bateau à 18h30"
+    },
+    {
+      "id": "6",
+      "image": "/croisiere-app/assets/home/etapes/gênes.webp",
+      "date": "le 30 mai",
+      "ville": "gênes",
+      "text": "On pourra descendre du bateau à partir de 8h30 et il faudra revenir à 16h30 pour un départ du bateau à 17h"
+    },
+    {
+      "id": "7",
+      "image": "/croisiere-app/assets/home/etapes/marseille.jpeg",
+      "date": "le 31 mai",
+      "ville": "marseille",
+      "text": "La croisière s'achève, le bateau arrivera à 9h avec la descente de tous les voyageurs"
+    }
+  ],
+  "animations": [
+    {
+      "time": "le 25 mai de 23h30 à 00h",
+      "activité": "mer d'étoiles",
+      "text": "En haute mer, dans la mer des Baléares, on pourra admirer étoiles et planètes. Le commandant nous guidera avec son récit. On peut télécharger l'appli Stellarium pour identifier les constellations.",
+      "image": "/croisiere-app/Assets/home/animations/1.jpg"
+    },
+    {
+      "time": "le 26 mai de 00h à 00h30",
+      "activité": "mer d'étoiles",
+      "text": "En haute mer, dans la mer des Baléares, on pourra admirer étoiles et planètes. Le commandant nous guidera avec son récit. On peut télécharger l'appli Stellarium pour identifier les constellations.",
+      "image": "/croisiere-app/Assets/home/animations/2.wepb"
+    },
+    {
+      "time": "le 28 mai de 6h30 à 7h30",
+      "activité": "baie de capri",
+      "subtitle": "“petit-déjeuner capriote”",
+      "text": "Devant le spectacle des Faraglioni à l'aube. On pourra savourer un café napolitain. Admirons Capri tandis que le navire ralentit pour une vue à couper le souffle, tout en dégustant une torta caprese.",
+      "image": "/croisiere-app/Assets/home/animations/3.webp"
+    },
+    {
+      "time": "le 29 mai de 23h à 00h",
+      "activité": "sanctuaire des cétacés",
+      "subtitle": "“spectacle de lumières”",
+      "text": "Plongeons dans le monde mystérieux des créatures marines. Un fascinant spectacle de lumières nous enveloppera dans l'obscurité de la nuit. Grâce à des projections à couper le souffle, vivons une expérience inoubliable.",
+      "image": "/croisiere-app/Assets/home/animations/4.jpg"
+    }
+  ],
+  "divertissements": [
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/aquapark.png",
+      "name": "aquapark",
+      "pont": "pont 17 à 19",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/lido-caracalla.webp",
+      "name": "lido caracalla",
+      "pont": "pont 16",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/spiaggia-beach-club.jpg",
+      "name": "la spiaggia beach club",
+      "pont": "pont 16 à 17",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/piazza-di-spagna.jpg",
+      "name": "piazzi di spagna",
+      "pont": "pont 16 à 18",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/piazza-travere.webp",
+      "name": "piazza travere",
+      "pont": "pont 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/colosseo.jpg",
+      "name": "colosseo",
+      "pont": "pont 6 à 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/sanremo-theatre.jpg",
+      "name": "sanremo théâtre",
+      "pont": "pont 6 à 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/mito-disco.webp",
+      "name": "mito disco",
+      "pont": "pont 6 à 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/laguna-casino.jpg",
+      "name": "laguna casino",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/code-museum.webp",
+      "name": "code museo",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/vr-space.jpg",
+      "name": "vr space",
+      "pont": "pont 6",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/salle-d-arcade.jpg",
+      "name": "salle d'arcade",
+      "pont": "pont 16",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/squok-baby-club.jpg",
+      "name": "squok baby area",
+      "pont": "pont 16",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/divertissements/squok-club.jpg",
+      "name": "squok area",
+      "pont": "pont 16",
+      "text": ""
+    }
+  ],
+  "restaurants": [
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/1.jpg",
+      "name": "la colombina restaurant",
+      "pont": "pont 5",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/2.jpg",
+      "name": "grand bar mastroanni",
+      "pont": "pont 6",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/3.jpg",
+      "name": "caffè vergnano 1882",
+      "pont": "pont 6",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/4.jpg",
+      "name": "arlecchino restaurant",
+      "pont": "pont 6",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/5.webp",
+      "name": "quelli della notte jazz club",
+      "pont": "pont 6",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/6.jpg",
+      "name": "il meneghino restaurant",
+      "pont": "pont 6",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/7.jpeg",
+      "name": "bar il mattino",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/8.webp",
+      "name": "sushino at costa",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/9.jpg",
+      "name": "campari bar",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/10.webp",
+      "name": "bar laguna",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/11.jpg",
+      "name": "il cielo in una stranza piano bar",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/12.jpg",
+      "name": "il rugantino restaurant",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/13.jpg",
+      "name": "bar superba",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/14.webp",
+      "name": "bellavista restaurant",
+      "pont": "pont 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/15.webp",
+      "name": "bar sport",
+      "pont": "pont 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/16.webp",
+      "name": "archipelago",
+      "pont": "pont 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/17.jpg",
+      "name": "osteria frescobaldi",
+      "pont": "pont 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/18.jpg",
+      "name": "frescobaldi wine expérience",
+      "pont": "pont 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/19.jpg",
+      "name": "gelateria amarillo",
+      "pont": "pont 8 et 17",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/20.jpg",
+      "name": "food lab",
+      "pont": "pont 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/21.jpg",
+      "name": "teppanyaki restaurant",
+      "pont": "pont 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/22.jpg",
+      "name": "pummid'oro pizzeria",
+      "pont": "pont 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/23.jpeg",
+      "name": "ferrari spazio bollicine",
+      "pont": "pont 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/24.jpg",
+      "name": "la sagra dei sapori",
+      "pont": "pont 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/25.jpg",
+      "name": "the salty beach street food",
+      "pont": "pont 16",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/26.png",
+      "name": "bar sole",
+      "pont": "pont 16",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/27.jpg",
+      "name": "bar la cascata",
+      "pont": "pont 16",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/28.jpg",
+      "name": "family restaurant",
+      "pont": "pont 16",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/29.jpg",
+      "name": "nutella at costa",
+      "pont": "pont 17",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/30.jpg",
+      "name": "aperol spritz bar",
+      "pont": "pont 16",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/31.jpg",
+      "name": "kiki poke",
+      "pont": "pont 17",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/32.webp",
+      "name": "green healthy food",
+      "pont": "pont 18",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/33.jpg",
+      "name": "settimo cielo bar",
+      "pont": "pont 18",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/restos/34.jpg",
+      "name": "bar orizzonte",
+      "pont": "pont 18",
+      "text": ""
+    }
+  ],
+  "sport": [
+    {
+      "image": "/croisiere-app/Assets/bateau/sport/solarium.jpg",
+      "name": "solarium",
+      "pont": "pont 17, 18 et 19",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/sport/piscine-settimo-cielo.jpg",
+      "name": "piscine settimo cielo",
+      "pont": "pont 18",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/sport/volare-skywalk.jpg",
+      "name": "volare skywalk",
+      "pont": "pont 18",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/sport/espace-sport.jpg",
+      "name": "espace sport",
+      "pont": "pont 18",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/sport/espace-beauté.png",
+      "name": "espace beauté",
+      "pont": "pont 16",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/sport/beauty-spa-solemio.webp",
+      "name": "beauty spa solemio",
+      "pont": "pont 16",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/sport/gym.jpg",
+      "name": "gym",
+      "pont": "pont 16",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/sport/lungomare.webp",
+      "name": "lungomare riviera",
+      "pont": "pont 8",
+      "text": ""
+    }
+  ],
+  "boutique": [
+    {
+      "image": "/croisiere-app/Assets/bateau/boutiques/my-moments-photo-store.png",
+      "name": "my moments photo store",
+      "pont": "pont 6",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/boutiques/galleria-shop.png",
+      "name": "galleria shops",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/boutiques/iris-studio.png",
+      "name": "iris studio",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/boutiques/area-shopping.png",
+      "name": "area shopping il mercatino",
+      "pont": "pont 8",
+      "text": ""
+    }
+  ],
+  "autre": [
+    {
+      "image": "/croisiere-app/Assets/bateau/autres/smoking-area.jpg",
+      "name": "smoking area",
+      "pont": "pont 8, 17, 18 et 19",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/autres/international.webp",
+      "name": "international info point",
+      "pont": "pont 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/autres/c-dream.webp",
+      "name": "c-dream",
+      "pont": "pont 7 et 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/autres/carte.jpg",
+      "name": "enregistrement cartes de crédits",
+      "pont": "pont 3, 6, 7 et 8",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/autres/reception.jpg",
+      "name": "recption",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/autres/club.jpg",
+      "name": "c/club point",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/autres/inert.jpg",
+      "name": "internet & app info point",
+      "pont": "pont 7",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/autres/mytour.jpg",
+      "name": "services d'excursion mytour",
+      "pont": "pont 6",
+      "text": ""
+    },
+    {
+      "image": "/croisiere-app/Assets/bateau/autres/hopital.jpg",
+      "name": "hopital",
+      "pont": "pont 3",
+      "text": ""
+    }
+  ],
+  "barcelone": [
+    {
+      "voir": [
+        {
+          "image": "/croisiere-app/Assets/etapes/barcelone/voir/1.jpg",
+          "name": "sagrada familia",
+          "text": "",
+          "temps": "",
+          "lien": ""
+        }
+      ],
+      "excursion": [
+        {
+          "image": "/croisiere-app/Assets/etapes/barcelone/excursion/",
+          "name": "",
+          "text": "",
+          "lien": ""
+        }
+      ]
+    }
+  ],
+  "cagliari": [
+    {
+      "voir": [
+        {
+          "image": "/croisiere-app/Assets/etapes/cagliari/voir/",
+          "name": "",
+          "text": "",
+          "temps": "",
+          "lien": ""
+        }
+      ],
+      "excursion": [
+        {
+          "image": "/croisiere-app/Assets/etapes/cagliari/excusion/",
+          "name": "",
+          "text": "",
+          "lien": ""
+        }
+      ]
+    }
+  ],
+  "naples": [
+    {
+      "voir": [
+        {
+          "image": "/croisiere-app/Assets/etapes/naples/voir/",
+          "name": "",
+          "text": "",
+          "temps": "",
+          "lien": ""
+        }
+      ],
+      "excursion": [
+        {
+          "image": "/croisiere-app/Assets/etapes/naples/excusion/",
+          "name": "",
+          "text": "",
+          "lien": ""
+        }
+      ]
+    }
+  ],
+  "civitavecchia": [
+    {
+      "voir": [
+        {
+          "image": "/croisiere-app/Assets/etapes/civitavecchia/voir/",
+          "name": "",
+          "text": "",
+          "temps": "",
+          "lien": ""
+        }
+      ],
+      "excursion": [
+        {
+          "image": "/croisiere-app/Assets/etapes/civitavecchia/excusion/",
+          "name": "",
+          "text": "",
+          "lien": ""
+        }
+      ]
+    }
+  ],
+  "genes": [
+    {
+      "voir": [
+        {
+          "image": "/croisiere-app/Assets/etapes/genes/voir/",
+          "name": "",
+          "text": "",
+          "temps": "",
+          "lien": ""
+        }
+      ],
+      "excursion": [
+        {
+          "image": "/croisiere-app/Assets/etapes/genes/excusion/",
+          "name": "",
+          "text": "",
+          "lien": ""
+        }
+      ]
+    }
+  ],
+  "marseille": [
+    {
+      "voir": [
+        {
+          "image": "/croisiere-app/Assets/etapes/marseille/voir/",
+          "name": "",
+          "text": "",
+          "temps": "",
+          "lien": ""
+        }
+      ],
+      "excursion": [
+        {
+          "image": "/croisiere-app/Assets/etapes/marseille/excusion/",
+          "name": "",
+          "text": "",
+          "lien": ""
+        }
+      ]
+    }
+  ]
+}
