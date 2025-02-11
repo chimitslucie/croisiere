@@ -24,6 +24,18 @@ h1 span {
     color: $white;
 }
 
-h2, h3, h4, h5, h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
     color: $darkblue;
+}
+
+li {
+    color: $darkblue;
+
+    @media (max-width: 992px) {
+        color: $white;
+    }
 }

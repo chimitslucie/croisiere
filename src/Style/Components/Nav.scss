@@ -1,0 +1,165 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 7px 0;
+    position: relative;
+    z-index: 3;
+    vertical-align: baseline;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    @media (max-width: 992px) {
+        display: none;
+        position: absolute;
+        right: 5px;
+        top: 15px;
+    }
+
+    &List {
+        display: flex;
+        align-items: center;
+
+        @media (max-width: 992px) {
+            align-items: start;
+            background-color: $nav;
+            border-radius: 5px;
+            flex-direction: column;
+            padding: 30px 20px;
+        }
+    }
+
+    &Item {
+        margin-right: 45px;
+        transition: color 0.5s;
+        position: relative;
+
+        @media (max-width: 992px) {
+            margin-bottom: 20px;
+            margin-right: 0;
+        }
+
+        &:last-child {
+            margin-right: 0;
+        }
+
+        &:hover {
+            color: $primary;
+
+            & .subnavList {
+                display: block;
+            }
+
+            & .icon {
+                transform: rotate(180deg);
+            }
+        }
+
+        & .icon {
+            transition: transform 0.5s;
+
+            @media (max-width: 992px) {
+                display: none;
+            }
+        }
+    }
+
+    &Toggle {
+        cursor: pointer;
+        display: none;
+        height: 30px;
+        position: absolute;
+        right: 1.5rem;
+        top: 49%;
+        transform: translateY(-50%);
+        width: 29px;
+        z-index: 1000;
+
+        @media (max-width: 992px) {
+            display: block;
+        }
+    }
+
+    &Toggle .navToggle:hover {
+        color: $white;
+    }
+
+    &ToggleBar {
+        background-color: $white;
+        border-radius: 4px;
+        display: block;
+        height: 4px;
+        margin-top: -1px;
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transition: all 0.3s ease;
+        width: 100%;
+    }
+
+    &Toggle.toCross .navToggleBar {
+        background-color: $darkblue;
+    }
+
+    &Toggle.toCross .navToggleBarTop {
+        transform: translate(0) rotate(45deg);
+    }
+
+    &Toggle.toCross .navToggleBarMiddle {
+        opacity: 0;
+    }
+
+    &Toggle.toCross .navToggleBarBottom {
+        transform: translate(0) rotate(-45deg);
+    }
+
+    &ToggleBar.navToggleBarTop {
+        transform: translateY(-10px);
+    }
+
+    &ToggleBar.navToggleBarBottom {
+        transform: translateY(10px);
+    }
+
+    &.navOpen {
+        display: block;
+    }
+
+}
+
+.subnavList {
+    display: none;
+    position: absolute;
+    width: 210px;
+    padding: 15px 10px;
+    top: 100%;
+    left: -30%;
+
+    @media (max-width: 992px) {
+        display: block;
+        padding: 15px 0 5px 30px;
+        position: static;
+        width: auto;
+    }
+}
+
+.subnavItem {
+    transition: color 0.3s;
+    margin-bottom: 10px;
+
+    @media (max-width: 992px) {
+        margin-bottom: 15px;
+    }
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+
+    &:hover {
+        color: $primary;
+    }
+}
