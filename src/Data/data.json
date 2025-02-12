@@ -2,14 +2,14 @@
   "etapes": [
     {
       "id": "1",
-      "image": "/assets/home/etapes/barcelone.webp",
+      "image": "/assets/home/etapes/barcelone.jpg",
       "date": "le 25 mai",
       "ville": "barcelone",
       "text": "On pourra descendre du bateau à partir de 8h et il faudra revenir à 17h30 pour un départ du bateau à 18h"
     },
     {
       "id": "2",
-      "image": "/assets/home/etapes/smeralda.webp",
+      "image": "/assets/home/etapes/smeralda.jpg",
       "date": "le 26 mai",
       "ville": "journée en mer",
       "text": "Durant cette journée, on naviguera vers la mer des Baléares. On pourra profiter de toute les activités que propose le Sméralda."
@@ -30,21 +30,21 @@
     },
     {
       "id": "5",
-      "image": "/assets/home/etapes/Civitavecchia.webp",
+      "image": "/assets/home/etapes/Civitavecchia.jpg",
       "date": "le 29 mai",
       "ville": "civitavecchia / rome",
       "text": "On pourra descendre du bateau à partir de 8h et il faudra revenir à 18h pour un départ du bateau à 18h30"
     },
     {
       "id": "6",
-      "image": "/assets/home/etapes/gênes.webp",
+      "image": "/assets/home/etapes/gêne.jpg",
       "date": "le 30 mai",
       "ville": "gênes",
       "text": "On pourra descendre du bateau à partir de 8h30 et il faudra revenir à 16h30 pour un départ du bateau à 17h"
     },
     {
       "id": "7",
-      "image": "/assets/home/etapes/marseille.jpeg",
+      "image": "/assets/home/etapes/marseille.jpg",
       "date": "le 31 mai",
       "ville": "marseille",
       "text": "La croisière s'achève, le bateau arrivera à 9h avec la descente de tous les voyageurs"
@@ -61,14 +61,14 @@
       "time": "le 26 mai de 00h à 00h30",
       "activité": "mer d'étoiles",
       "text": "En haute mer, dans la mer des Baléares, on pourra admirer étoiles et planètes. Le commandant nous guidera avec son récit. On peut télécharger l'appli Stellarium pour identifier les constellations.",
-      "image": "/Assets/home/animations/2.wepb"
+      "image": "/Assets/home/animations/2.jpg"
     },
     {
       "time": "le 28 mai de 6h30 à 7h30",
       "activité": "baie de capri",
       "subtitle": "“petit-déjeuner capriote”",
       "text": "Devant le spectacle des Faraglioni à l'aube. On pourra savourer un café napolitain. Admirons Capri tandis que le navire ralentit pour une vue à couper le souffle, tout en dégustant une torta caprese.",
-      "image": "/Assets/home/animations/3.webp"
+      "image": "/Assets/home/animations/3.jpg"
     },
     {
       "time": "le 29 mai de 23h à 00h",
