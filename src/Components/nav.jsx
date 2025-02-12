@@ -24,7 +24,7 @@ function Nav() {
             <nav className={`nav ${showNav ? "navOpen" : ""}`}>
                 <ul className="navList">
                     <li className="navItem">
-                        <Link to={"/"} className="navLink  textUppercase textBold active">
+                        <Link to={"/"} className="navLink  textUppercase textBold">
                             accueil
                         </Link>
                     </li>
