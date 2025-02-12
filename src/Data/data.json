@@ -53,26 +53,26 @@
   "animations": [
     {
       "time": "le 25 mai de 23h30 à 00h",
-      "activité": "mer d'étoiles",
+      "activite": "mer d'étoiles",
       "text": "En haute mer, dans la mer des Baléares, on pourra admirer étoiles et planètes. Le commandant nous guidera avec son récit. On peut télécharger l'appli Stellarium pour identifier les constellations.",
       "image": "/Assets/home/animations/1.jpg"
     },
     {
       "time": "le 26 mai de 00h à 00h30",
-      "activité": "mer d'étoiles",
+      "activite": "mer d'étoiles",
       "text": "En haute mer, dans la mer des Baléares, on pourra admirer étoiles et planètes. Le commandant nous guidera avec son récit. On peut télécharger l'appli Stellarium pour identifier les constellations.",
       "image": "/Assets/home/animations/2.jpg"
     },
     {
       "time": "le 28 mai de 6h30 à 7h30",
-      "activité": "baie de capri",
+      "activite": "baie de capri",
       "subtitle": "“petit-déjeuner capriote”",
       "text": "Devant le spectacle des Faraglioni à l'aube. On pourra savourer un café napolitain. Admirons Capri tandis que le navire ralentit pour une vue à couper le souffle, tout en dégustant une torta caprese.",
       "image": "/Assets/home/animations/3.jpg"
     },
     {
       "time": "le 29 mai de 23h à 00h",
-      "activité": "sanctuaire des cétacés",
+      "activite": "sanctuaire des cétacés",
       "subtitle": "“spectacle de lumières”",
       "text": "Plongeons dans le monde mystérieux des créatures marines. Un fascinant spectacle de lumières nous enveloppera dans l'obscurité de la nuit. Grâce à des projections à couper le souffle, vivons une expérience inoubliable.",
       "image": "/Assets/home/animations/4.jpg"
