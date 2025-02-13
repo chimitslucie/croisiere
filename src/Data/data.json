@@ -1,49 +1,42 @@
 {
   "etapes": [
     {
-      "id": "1",
       "image": "/assets/home/etapes/barcelone.jpg",
       "date": "le 25 mai",
       "ville": "barcelone",
       "text": "On pourra descendre du bateau à partir de 8h et il faudra revenir à 17h30 pour un départ du bateau à 18h"
     },
     {
-      "id": "2",
       "image": "/assets/home/etapes/smeralda.jpg",
       "date": "le 26 mai",
       "ville": "journée en mer",
       "text": "Durant cette journée, on naviguera vers la mer des Baléares. On pourra profiter de toute les activités que propose le Sméralda."
     },
     {
-      "id": "3",
       "image": "/assets/home/etapes/cagliari.jpg",
       "date": "le 27 mai",
       "ville": "cagliari",
       "text": "On pourra descendre du bateau à partir de 7h30 et il faudra revenir à 16h pour un départ du bateau à 16h30"
     },
     {
-      "id": "4",
       "image": "/assets/home/etapes/naples.jpg",
       "date": "le 28 mai",
       "ville": "naples",
       "text": "On pourra descendre du bateau à partir de 9h et il faudra revenir à 18h30 pour un départ du bateau à 19h"
     },
     {
-      "id": "5",
       "image": "/assets/home/etapes/Civitavecchia.jpg",
       "date": "le 29 mai",
       "ville": "civitavecchia / rome",
       "text": "On pourra descendre du bateau à partir de 8h et il faudra revenir à 18h pour un départ du bateau à 18h30"
     },
     {
-      "id": "6",
       "image": "/assets/home/etapes/gêne.jpg",
       "date": "le 30 mai",
       "ville": "gênes",
       "text": "On pourra descendre du bateau à partir de 8h30 et il faudra revenir à 16h30 pour un départ du bateau à 17h"
     },
     {
-      "id": "7",
       "image": "/assets/home/etapes/marseille.jpg",
       "date": "le 31 mai",
       "ville": "marseille",
