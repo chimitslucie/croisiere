@@ -73,13 +73,13 @@
   ],
   "divertissements": [
     {
-      "image": "/Assets/bateau/divertissements/aquapark.png",
+      "image": "/Assets/bateau/divertissements/aquapark.jpg",
       "name": "aquapark",
       "pont": "pont 17 à 19",
       "text": "Il contient plusieurs toboggans permettant aux enfants et aux adultes de s'offrir des sensations fortes. Les tubes lumineux aspirent les amateurs de glissades dans un tourbillon de virages amusants."
     },
     {
-      "image": "/Assets/bateau/divertissements/lido-caracalla.webp",
+      "image": "/Assets/bateau/divertissements/lido-caracalla.jpg",
       "name": "lido caracalla",
       "pont": "pont 16",
       "text": "Espace en plein air avec une vue sur la mer, des jeux d'équipe et un baby-foot, des piscines et un bar."
@@ -97,7 +97,7 @@
       "text": "Un grand toboggan sur l'eau avec une vue sur le sillage du bateau. L'endroit idéal pour les jeux avec animation."
     },
     {
-      "image": "/Assets/bateau/divertissements/piazza-travere.webp",
+      "image": "/Assets/bateau/divertissements/piazza-tratevere.jpg",
       "name": "piazza trastevere",
       "pont": "pont 8",
       "text": "Petite place où l'on peut se détendre en prenant un café, un chocolat chaud ou déguster une glace. Tout au fond, un mur LED géant montre des vues des grandes places italiennes. Elles changent tous les jours et les lumières changent selon l'heure de la journée."
@@ -115,7 +115,7 @@
       "text": "Chaque soir des spectacles grandioses vous attendent. En fin de soirée, il se transforme en Mito Disco."
     },
     {
-      "image": "/Assets/bateau/divertissements/mito-disco.webp",
+      "image": "/Assets/bateau/divertissements/mito-disco.jpg",
       "name": "mito disco",
       "pont": "pont 6 à 7",
       "text": "Pour ceux qui aiment danser, le mito disco est le dernier rendez-vous de la journée. vous pourrez danser et faire la fête sur la mer."
@@ -127,7 +127,7 @@
       "text": "Les classiques du casino comme la roulette, le blackjack, le poker, les machines à sous et de nombreux jeux électroniques de dernière génération. Réservé aux adultes de plus de 18 ans."
     },
     {
-      "image": "/Assets/bateau/divertissements/code-museum.webp",
+      "image": "/Assets/bateau/divertissements/code-museum.jpg",
       "name": "code museo",
       "pont": "pont 7",
       "text": "Ce musée en mer, d'une superficie de 400m² présente le meilleur du design italien en matière de mode, transport ou encore cinéma."
@@ -185,7 +185,7 @@
       "text": "Les repas seront servis sous forme de buffet. Le service à table est réservé uniquement aux membres gold et platinium. Vous pourrez y déguster un large choix de plats préparés chaque jour par les chefs."
     },
     {
-      "image": "/Assets/bateau/restos/5.webp",
+      "image": "/Assets/bateau/restos/5.jpg",
       "name": "quelli della notte jazz club",
       "pont": "pont 6",
       "text": "L'endroit idéal pour les amateurs de jazz avec musique et danse le soir."
@@ -198,13 +198,13 @@
       "text": "Le petit-déjeuner et le déjeuner sont servis sous forme de buffet. Le dîner vous aurez un menu à la carte et servi à table."
     },
     {
-      "image": "/Assets/bateau/restos/7.jpeg",
+      "image": "/Assets/bateau/restos/7.jpg",
       "name": "bar il mattino",
       "pont": "pont 7",
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
     },
     {
-      "image": "/Assets/bateau/restos/8.webp",
+      "image": "/Assets/bateau/restos/8.jpg",
       "name": "sushino at costa",
       "pont": "pont 7",
       "status": "payant",
@@ -217,7 +217,7 @@
       "text": "Ce bar à thème propose un large choix de cocktails originaux avec des produits de la marque Campari."
     },
     {
-      "image": "/Assets/bateau/restos/10.webp",
+      "image": "/Assets/bateau/restos/10.jpg",
       "name": "bar laguna",
       "pont": "pont 7",
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
@@ -242,20 +242,20 @@
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
     },
     {
-      "image": "/Assets/bateau/restos/14.webp",
+      "image": "/Assets/bateau/restos/14.jpg",
       "name": "bellavista restaurant",
       "pont": "pont 8",
       "status": "payant sur réservation",
       "text": "Menu Gourmet avec des plats spéciaux raffinés du chefs exécutif, dans un cadre exclusif et offrant un excellent service"
     },
     {
-      "image": "/Assets/bateau/restos/15.webp",
+      "image": "/Assets/bateau/restos/15.jpg",
       "name": "bar sport",
       "pont": "pont 8",
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
     },
     {
-      "image": "/Assets/bateau/restos/16.webp",
+      "image": "/Assets/bateau/restos/16.jpg",
       "name": "archipelago",
       "pont": "pont 8",
       "status": "payant sur réservation",
@@ -302,7 +302,7 @@
       "text": "Une pizza 100% italienne préparée sur place avec des ingrédients de première qualité et une pâte à levée lente préparée au levain."
     },
     {
-      "image": "/Assets/bateau/restos/23.jpeg",
+      "image": "/Assets/bateau/restos/23.jpg",
       "name": "ferrari spazio bollicine",
       "pont": "pont 8",
       "text": "A la carte, on trouve l'ensemble de la gamme prestigieuse des vins pétillants Ferrari. Ils s'y servent également des plats légers pour accompagner les apéritifs et les verres de fin de soirée."
@@ -322,7 +322,7 @@
       "text": "Les vraies saveurs de la street food… au bord de la piscine."
     },
     {
-      "image": "/Assets/bateau/restos/26.png",
+      "image": "/Assets/bateau/restos/26.jpg",
       "name": "bar sole",
       "pont": "pont 16",
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
@@ -361,7 +361,7 @@
       "text": "Restaurant de Poke Bowl, inspiré de la cuisine traditionnelle hawaïenne."
     },
     {
-      "image": "/Assets/bateau/restos/32.webp",
+      "image": "/Assets/bateau/restos/32.jpg",
       "name": "green healthy food",
       "pont": "pont 18",
       "status": "payant",
@@ -406,13 +406,13 @@
       "text": "Le terrain multisport où sont organisées toutes sortes de tournois en équipe, du football, du volley-ball, du basket ou du tennis."
     },
     {
-      "image": "/Assets/bateau/sport/espace-beauté.png",
+      "image": "/Assets/bateau/sport/espace-beauté.jpg",
       "name": "espace beauté",
       "pont": "pont 16",
       "text": "Dans ce salon, vous y trouverez manucure, pédicure, maquillage, salon de coiffure, barbier, blanchiment dentaire GoSMILE."
     },
     {
-      "image": "/Assets/bateau/sport/beauty-spa-solemio.webp",
+      "image": "/Assets/bateau/sport/beauty-spa-solemio.jpg",
       "name": "beauty spa solemio",
       "pont": "pont 16",
       "text": "Un espace pour vous détendre avec hammam, sauna, bain à remous ainsi que la possibilité de vous faire masser."
@@ -424,7 +424,7 @@
       "text": "Vous pourrez garder la forme dans la salle de sport équipée des dernières machines."
     },
     {
-      "image": "/Assets/bateau/sport/lungomare.webp",
+      "image": "/Assets/bateau/sport/lungomare.jpg",
       "name": "lungomare riviera",
       "pont": "pont 8",
       "text": "L'endroit idéal pour marcher le long du pont."
@@ -432,31 +432,31 @@
   ],
   "boutique": [
     {
-      "image": "/Assets/bateau/boutiques/my-moments-photo-store.png",
+      "image": "/Assets/bateau/boutiques/my-moments-photo-store.jpg",
       "name": "my moments photo store",
       "pont": "pont 6",
       "text": "Tirages, photos numériques, magnets, gadgets originaux et bien d'autres articles."
     },
     {
-      "image": "/Assets/bateau/boutiques/galleria-shop.png",
+      "image": "/Assets/bateau/boutiques/galleria-shop.jpg",
       "name": "galleria shops",
       "pont": "pont 7",
       "text": "A bord, vous avez la possibilité d'acheter de beaux cadeaux mais aussi tout ce dont vous pourriez avoir besoin."
     },
     {
-      "image": "/Assets/bateau/boutiques/galleria-shop.png",
+      "image": "/Assets/bateau/boutiques/galleria-shop.jpg",
       "name": "costa shop",
       "pont": "pont 7",
       "text": "Des souvenirs aux grandes marques, il y en a pour tous les goûts. Choisissez parmi mille occasions pour faire ou vous offrir un cadeau."
     },
     {
-      "image": "/Assets/bateau/boutiques/iris-studio.png",
+      "image": "/Assets/bateau/boutiques/iris-studio.jpg",
       "name": "iris studio",
       "pont": "pont 7",
       "text": "Une photo artistique de l'iris en haute résolution qui capte l'essence de votre regard, révélant les nuances et les détails cachés au centre de l'œil."
     },
     {
-      "image": "/Assets/bateau/boutiques/area-shopping.png",
+      "image": "/Assets/bateau/boutiques/area-shopping.jpg",
       "name": "area shopping il mercatino",
       "pont": "pont 8",
       "text": "A bord, vous avez la possibilité d'acheter de beaux cadeaux mais aussi tout ce dont vous pourriez avoir besoin."
@@ -470,13 +470,13 @@
       "text": "L'endroit pour que les fumeurs puissent se retrouver et fumer leur cigarette. Ce sont les seuls endroits pour fumer."
     },
     {
-      "image": "/Assets/bateau/autres/international.webp",
+      "image": "/Assets/bateau/autres/international.jpg",
       "name": "international info point",
       "pont": "pont 8",
       "text": "Besoin d'aide dans votre langue maternelle."
     },
     {
-      "image": "/Assets/bateau/autres/c-dream.webp",
+      "image": "/Assets/bateau/autres/c-dream.jpg",
       "name": "c-dream",
       "pont": "pont 7 et 8",
       "text": "Le service de conseil gratuit où vous pouvez acheter votre prochaine croisière."
