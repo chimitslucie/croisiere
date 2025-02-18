@@ -36,15 +36,26 @@
     }
 }
 
-#home {
-    & .hero {
-        background: linear-gradient(rgba(0, 0, 0, 40%), rgba(0, 0, 0, 40%), rgba(0, 0, 0, 0%)),
-            url('../../Assets/Img/home/hero.webp');
-        background-repeat: no-repeat;
-        background-size: cover;
+#home .hero {
+    background: linear-gradient(rgba(0, 0, 0, 40%), rgba(0, 0, 0, 40%), rgba(0, 0, 0, 0%)),
+        url('../../Assets/Img/home/hero.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
 
-        @media (max-width: 1690px) {
-            background-position-x: 35%;
-        }
+    @media (max-width: 1690px) {
+        background-position-x: 35%;
+    }
+}
+
+#bateau .hero {
+    background: linear-gradient(rgba(0, 0, 0, 40%), rgba(0, 0, 0, 40%), rgba(0, 0, 0, 0%)),
+        url('../../Assets/Img/bateau/hero.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 85%;
+
+    &Content {
+        top: 25%;
+        right: 45%;
     }
 }

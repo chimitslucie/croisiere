@@ -1,0 +1,16 @@
+.intro {
+    text-align: center;
+    padding: 100px 0;
+
+    &Text {
+        font-size: 30px;
+
+        @media (max-width: 768px) {
+            font-size: 20px;
+        }
+    }
+}
+
+#bateau .intro {
+    padding-bottom: 30px;
+}
