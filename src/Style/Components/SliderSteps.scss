@@ -1,0 +1,133 @@
+.sliderSteps {
+
+    &Card {
+        height: 500px;
+        position: relative;
+        border-radius: 15px;
+        background: linear-gradient(to right, black -70%, transparent);
+        width: 90%;
+        margin: 0 auto;
+        display: block;
+
+        @media (max-width: 768px) {
+            width: 100%;
+            background: linear-gradient(to right, black -35%, transparent);
+            height: 380px;
+        }
+
+        & .image {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+            border-radius: 15px;
+            position: absolute;
+            z-index: -5;
+        }
+
+        &Text {
+            padding: 79px 29px;
+
+            @media (max-width: 768px) {
+                padding-top: 40px;
+            }
+        }
+
+        & .text {
+            color: $white;
+            font-size: 24px;
+            max-width: 400px;
+
+            @media (max-width: 768px) {
+                width: 250px;
+                font-size: 20px;
+            }
+        }
+    }
+}
+
+.date {
+    font-size: 24px;
+    color: $white;
+}
+
+.city {
+    color: $white;
+    font-size: 32px;
+    font-weight: 500;
+    margin: 18px 0 90px 0;
+
+    @media (max-width: 768px) {
+        margin-bottom: 50px;
+    }
+}
+
+.slick-dots {
+
+    & li button:hover::before {
+        opacity: 60%;
+    }
+
+    & li button::before {
+        font-size: 20px;
+        color: $secondary;
+        opacity: 60%;
+        line-height: 40px;
+    }
+
+    & li.slick-active button::before {
+        color: $primary;
+        opacity: 100%;
+    }
+}
+
+.custom-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+    cursor: pointer;
+    font-size: 50px;
+    color: $secondary;
+    opacity: 60%;
+
+    &:hover {
+        color: $primary;
+        opacity: 100%;
+    }
+}
+
+.next {
+    right: -3%;
+
+    @media (max-width: 1200px) {
+        right: -5%;
+    }
+
+    @media (max-width: 1060px) {
+        right: -4%;
+    }
+}
+
+.prev {
+    left: -3%;
+
+    @media (max-width: 1200px) {
+        left: -5%;
+    }
+
+    @media (max-width: 1060px) {
+        left: -4%;
+    }
+
+}
+
+.slick-list {
+    @media (max-width: 768px) {
+        width: 450px;
+        margin: 0 auto;
+    }
+
+    @media (max-width: 500px) {
+        width: 100%;
+    }
+}
