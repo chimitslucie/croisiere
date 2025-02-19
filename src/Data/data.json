@@ -76,7 +76,7 @@
       "image": "/Assets/bateau/divertissements/aquapark.jpg",
       "name": "aquapark",
       "pont": "pont 17 à 19",
-      "text": "Il contient plusieurs toboggans permettant aux enfants et aux adultes de s'offrir des sensations fortes. Les tubes lumineux aspirent les amateurs de glissades dans un tourbillon de virages amusants."
+      "text": "Il contient plusieurs toboggans permettant aux enfants et aux adultes de s'offrir des sensations fortes."
     },
     {
       "image": "/Assets/bateau/divertissements/lido-caracalla.jpg",
@@ -88,25 +88,25 @@
       "image": "/Assets/bateau/divertissements/spiaggia-beach-club.jpg",
       "name": "la spiaggia beach club",
       "pont": "pont 16 à 17",
-      "text": "Une piscine centrale couverte d'eau salée. Cet espace décoré comme une station balnéaire, installée sous un dôme transparent qui laisse passer les rayons du soleil permet de l'utiliser en toute saison."
+      "text": "Une piscine d'eau salée centrale couverte. Cet espace installé sous un dôme transparent qui laisse passer les rayons du soleil."
     },
     {
       "image": "/Assets/bateau/divertissements/piazza-di-spagna.jpg",
       "name": "piazzi di spagna",
       "pont": "pont 16 à 18",
-      "text": "Un grand toboggan sur l'eau avec une vue sur le sillage du bateau. L'endroit idéal pour les jeux avec animation."
+      "text": "Un grand escalier sur l'eau avec une vue sur le sillage du bateau. L'endroit idéal pour les jeux avec animation."
     },
     {
       "image": "/Assets/bateau/divertissements/piazza-tratevere.jpg",
       "name": "piazza trastevere",
       "pont": "pont 8",
-      "text": "Petite place où l'on peut se détendre en prenant un café, un chocolat chaud ou déguster une glace. Tout au fond, un mur LED géant montre des vues des grandes places italiennes. Elles changent tous les jours et les lumières changent selon l'heure de la journée."
+      "text": "Petite place où l'on peut se détendre. Tout au fond, un mur LED géant montre des vues des grandes places italiennes."
     },
     {
       "image": "/Assets/bateau/divertissements/colosseo.jpg",
       "name": "colosseo",
       "pont": "pont 6 à 8",
-      "text": "Il se trouve au cœur du navire, c'est dans cet espace que sont présentés les meilleurs spectacles proposés à bord. A toute heure de la journée, les écrans lumineux placés sur les murs et au niveau du dôme racontent une nouvelle histoire en rapport avec l'escale du jour."
+      "text": "C'est dans cet espace que sont présentés les meilleurs spectacles proposés à bord. Toute la journée, les écrans lumineux racontent une nouvelle histoire en rapport avec l'escale du jour."
     },
     {
       "image": "/Assets/bateau/divertissements/sanremo-theatre.jpg",
@@ -118,13 +118,13 @@
       "image": "/Assets/bateau/divertissements/mito-disco.jpg",
       "name": "mito disco",
       "pont": "pont 6 à 7",
-      "text": "Pour ceux qui aiment danser, le mito disco est le dernier rendez-vous de la journée. vous pourrez danser et faire la fête sur la mer."
+      "text": "Le mito disco est le dernier rendez-vous de la journée. vous pourrez danser et faire la fête sur la mer."
     },
     {
       "image": "/Assets/bateau/divertissements/laguna-casino.jpg",
       "name": "laguna casino",
       "pont": "pont 7",
-      "text": "Les classiques du casino comme la roulette, le blackjack, le poker, les machines à sous et de nombreux jeux électroniques de dernière génération. Réservé aux adultes de plus de 18 ans."
+      "text": "Casino avec tout les classiques et de nombreux jeux électroniques de dernière génération. Réservé aux adultes de plus de 18 ans."
     },
     {
       "image": "/Assets/bateau/divertissements/code-museum.jpg",
@@ -148,7 +148,7 @@
       "image": "/Assets/bateau/divertissements/squok-baby-club.jpg",
       "name": "squok baby area",
       "pont": "pont 16",
-      "text": "Un espace dédié au divertissement des familles avec des enfants de 0 à 6 ans. Les petits auront l'occasion de s'amuser avec leurs parents dans une salle qui leur est entièrement dédiée. "
+      "text": "Un espace dédié au divertissementdes enfants de 0 à 6 ans. Ils auront l'occasion de s'amuser avec leurs parents dans une salle dédiée. "
     },
     {
       "image": "/Assets/bateau/divertissements/squok-club.jpg",
