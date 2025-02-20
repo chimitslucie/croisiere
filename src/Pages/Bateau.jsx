@@ -1,5 +1,120 @@
+import Hero from "../Components/hero";
+import Intro from "../Components/Intro";
+import Title from "../Components/Title";
+import datas from "../Data/data.json";
+import Card from "../Components/Card";
+import Slider from "react-slick";
+import SliderRestaurant from "../Components/SliderRestaurant";
+
 function Bateau() {
 
+    const settings = {
+        dots: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        fade: false,
+        arrows: false,
+        responsive: [
+            {
+                breakpoint: 1400,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                },
+            },
+            {
+                breakpoint: 992,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                },
+            },
+        ]
+    }
+
+    return (
+        <div id="bateau">
+            <Hero title="le bateau" />
+            <Intro
+                text=" Le Costa Smeralda a été construit en 2019. 
+                        Il est l'un des plus gros bateau de la flotte Costa mesurant 337m de long avec une capacité d'accueil de plus de 6500 passagers.
+                        Il contient 20 ponts, 2612 cabines, 13 piscines et jaccuzzi, 11 restaurants et snack-bar et 19 bar & lounge."
+            />
+            <div className="information">
+                <div className="container">
+                    <p className="informationText textSecondary">
+                        Information: un sèche cheveux est fourni dans chaque cabine.
+                    </p>
+                </div>
+            </div>
+            <section className="entertainment">
+                <div className="container">
+                    <Title title="les divertissements" />
+                    <div className="entertainmentContent">
+                        {
+                            datas.divertissements.map((divertissement, index) => (
+                                <div className="entertainmentCard" key={index}>
+                                    <div className="entertainmentCardContent">
+                                        <h3 className="entertainmentCardTitle textUppercase textBold">{divertissement.name}</h3>
+                                        <p className="entertainmentCardPont textUppercase textSemibold">{divertissement.pont}</p>
+                                        <p className="entertainmentCardText textBold">{divertissement.text}</p>
+                                    </div>
+                                    <img src={divertissement.image} className="entertainmentCardImg" />
+                                </div>
+                            ))
+                        }
+                    </div>
+                </div>
+            </section>
+            <section className="restaurant">
+                <div className="container">
+                    <Title title="les restaurants et bar" />
+                    <SliderRestaurant />
+                </div>
+            </section>
+            <section className="sport">
+                <div className="container">
+                    <Title title="sports et bien-être" />
+                    <div className="sportContent">
+                        {datas.sports.map((sport, index) => (
+                            <Card key={index} src={sport.image} title={sport.name} pont={sport.pont} text={sport.text} />
+                        ))}
+                    </div>
+                </div>
+            </section>
+            <section className="shop">
+                <div className="container">
+                    <Title title="boutiques" />
+                    <div className="shopContent">
+                        {datas.boutiques.map((boutique, index) => (
+                            <Card key={index} src={boutique.image} title={boutique.name} pont={boutique.pont} text={boutique.text} />
+                        ))}
+                    </div>
+                </div>
+            </section>
+            <section className="other">
+                <div className="container">
+                    <Title title="autres" />
+                    <div className="otherContent">
+                        <Slider {...settings}>
+                            {datas.autres.map((autre, index) => (
+                                <div className="otherSlider" key={index}>
+                                    <img src={autre.image} className="otherSliderImage" />
+                                    <div className="otherSliderContent">
+                                        <h3 className="otherSliderContentTitle textUppercase textDarkblue">{autre.name}</h3>
+                                        <p className="otherSliderContentPont textUppercase textDarkblue textLight">{autre.pont}</p>
+                                        <p className="otherSliderContentText textSecondary">{autre.text}</p>
+                                    </div>
+                                </div>
+                            ))}
+                        </Slider>
+                    </div>
+                </div>
+            </section>
+        </div>
+    )
 }
 
 export default Bateau

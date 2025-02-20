@@ -1,0 +1,209 @@
+#bateau {
+    & .information {
+        padding-bottom: 100px;
+
+        @media (max-width: 768px) {
+            margin-bottom: 50px;
+        }
+
+        &Text {
+            font-size: 30px;
+
+            @media (max-width: 768px) {
+                font-size: 20px;
+            }
+        }
+    }
+
+    & .entertainment {
+
+        &Content {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: repeat(5, 1fr);
+            grid-column-gap: 30px;
+            grid-row-gap: 50px;
+            padding: 100px 0;
+
+            @media (max-width: 1200px) {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            @media (max-width: 768px) {
+                grid-template-columns: repeat(1, 1fr);
+                padding: 50px 0;
+            }
+        }
+
+        &Card {
+            width: 100%;
+            height: 350px;
+            position: relative;
+            border-radius: 10px;
+            background: radial-gradient(circle, rgba(0, 0, 0, 50%), rgba(0, 0, 0, 45%), rgba(0, 0, 0, 75%));
+
+            &Content {
+                padding: 25px 20px;
+            }
+
+            &Title {
+                color: $white;
+                font-size: 35px;
+            }
+
+            &Pont {
+                color: $white;
+                font-size: 28px;
+                margin: 8px 0 30px 0;
+            }
+
+            &Text {
+                color: $white;
+                font-size: 20px;
+            }
+
+            &Img {
+                height: 100%;
+                width: 100%;
+                object-fit: cover;
+                border-radius: 15px;
+                position: absolute;
+                z-index: -5;
+                top: 0;
+            }
+        }
+    }
+
+    & .sportContent {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 40px;
+        grid-row-gap: 50px;
+        padding: 100px 0;
+
+        @media (max-width: 1200px) {
+            grid-template-columns: repeat(3, 1fr);
+        }
+
+        @media (max-width: 992px) {
+            grid-template-columns: repeat(2, 1fr);
+            padding: 50px 0;
+        }
+
+        @media (max-width: 768px) {
+            grid-template-columns: repeat(1, 1fr);
+        }
+    }
+
+    & .shopContent {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-column-gap: 40px;
+        grid-row-gap: 50px;
+        padding: 100px 0;
+
+
+        @media (max-width: 1400px) {
+            grid-template-columns: repeat(4, 1fr);
+        }
+
+        @media (max-width: 1200px) {
+            grid-template-columns: repeat(3, 1fr);
+        }
+
+        @media (max-width: 992px) {
+            grid-template-columns: repeat(2, 1fr);
+            padding: 50px 0;
+        }
+
+        @media (max-width: 768px) {
+            grid-template-columns: repeat(1, 1fr);
+        }
+
+        & .card img {
+            height: 190px;
+
+            @media (max-width: 768px) {
+                height: 250px;
+            }
+        }
+    }
+
+    & .otherContent {
+        padding: 100px 0;
+
+        @media (max-width: 768px) {
+            padding: 50px 0;
+        }
+    }
+
+    & .otherSlider {
+        border: 1px solid rgba(50, 112, 160, 25%);
+        background-color: $white;
+        border-radius: 15px;
+        display: flex !important;
+        width: 480px !important;
+        height: 350px;
+
+        @media (max-width: 1600px) {
+            width: 415px !important;
+        }
+
+        @media (max-width: 1400px) {
+            width: 500px !important;
+        }
+
+        @media (max-width: 1200px) {
+            width: 420px !important;
+        }
+
+        @media (max-width: 992px) {
+            width: 100% !important;
+            height: 280px;
+        }
+
+        @media (max-width: 768px) {
+            height: 350px;
+        }
+
+        @media (max-width: 480px) {
+            flex-direction: column;
+        }
+
+        @media (max-width: 400px) {
+            height: 400px;
+        }
+
+        &Image {
+            border-top-left-radius: 15px;
+            border-bottom-left-radius: 15px;
+            width: 215px;
+            object-fit: cover;
+
+            @media (max-width: 480px) {
+                width: 100%;
+                border-top-right-radius: 15px;
+                border-bottom-left-radius: 0;
+                height: 150px;
+            }
+        }
+
+        &Content {
+            padding: 20px 20px;
+
+            &Title {
+                font-size: 20px;
+            }
+
+            &Pont {
+                font-size: 18px;
+                margin: 5px 0 15px 0;
+            }
+
+            &Text {
+                font-size: 16px;
+            }
+        }
+    }
+}

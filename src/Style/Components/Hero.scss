@@ -54,8 +54,17 @@
     background-size: cover;
     background-position-y: 85%;
 
+    @media (max-width: 1200px) {
+        background-position-x: 35%;
+    }
+
     &Content {
         top: 25%;
         right: 45%;
+
+        @media (max-width: 768px) {
+            top: 35%;
+            right: 35%;
+        }
     }
 }
