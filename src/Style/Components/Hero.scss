@@ -95,3 +95,46 @@
     }
 
 }
+
+#cagliari .hero {
+    background: linear-gradient(rgba(0, 0, 0, 40%), rgba(0, 0, 0, 40%), rgba(0, 0, 0, 0%)),
+        url('../../Assets/Img/etapes/cagliari.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    &Content {
+        top: 20%;
+        right: 50%;
+
+        @media (max-width: 768px) {
+            top: 25%;
+            right: 60%;
+        }
+    }
+
+}
+
+#naples .hero {
+    background: linear-gradient(rgba(0, 0, 0, 40%), rgba(0, 0, 0, 40%), rgba(0, 0, 0, 0%)),
+        url('../../Assets/Img/etapes/naples.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 50%;
+
+    &Content {
+        top: 20%;
+        right: 50%;
+
+        @media (max-width: 768px) {
+            top: 35%;
+            right: 20%;
+        }
+
+        @media (max-width: 570px) {
+            top: 33%;
+            right: 5%;
+            left: auto;
+        }
+    }
+}
+
