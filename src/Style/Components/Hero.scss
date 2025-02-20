@@ -137,3 +137,41 @@
         }
     }
 }
+
+#civitavecchia .hero {
+    background: linear-gradient(rgba(0, 0, 0, 40%), rgba(0, 0, 0, 40%), rgba(0, 0, 0, 0%)),
+        url('../../Assets/Img/etapes/civitavecchia.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    &Content {
+        top: 20%;
+        right: 50%;
+
+        @media (max-width: 1200px) {
+            right: 30%;
+        }
+
+        @media (max-width: 992px) {
+            right: 5%;
+        }
+
+        @media (max-width: 570px) {
+            top: 35%;
+        }
+    }
+
+    &Title {
+        @media (max-width: 570px) {
+           font-size: 40px;
+        }
+
+        @media (max-width: 480px) {
+            font-size: 30px;
+        }
+
+        @media (max-width: 360px) {
+            font-size: 25px;
+        }
+    }
+}
