@@ -380,7 +380,7 @@
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
     }
   ],
-  "sport": [
+  "sports": [
     {
       "image": "/Assets/bateau/sport/solarium.jpg",
       "name": "solarium",
@@ -430,7 +430,7 @@
       "text": "L'endroit idéal pour marcher le long du pont."
     }
   ],
-  "boutique": [
+  "boutiques": [
     {
       "image": "/Assets/bateau/boutiques/my-moments-photo-store.jpg",
       "name": "my moments photo store",
@@ -462,7 +462,7 @@
       "text": "A bord, vous avez la possibilité d'acheter de beaux cadeaux mais aussi tout ce dont vous pourriez avoir besoin."
     }
   ],
-  "autre": [
+  "autres": [
     {
       "image": "/Assets/bateau/autres/smoking-area.jpg",
       "name": "smoking area",
