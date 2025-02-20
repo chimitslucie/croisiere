@@ -1,6 +1,7 @@
 import Hero from "../Components/hero";
 import Intro from "../Components/Intro";
 import Title from "../Components/Title";
+import datas from "../Data/data.json";
 
 function Barcelone() {
     return (
