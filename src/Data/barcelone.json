@@ -1,0 +1,174 @@
+{
+  "voirs": [
+    {
+      "image": "/Assets/etapes/barcelone/voir/1jpg",
+      "name": "sagrada familia",
+      "price": "Entrée générale: 26€, entrée avec visite guidée: 30€, entrée avec accès aux tours: 40€",
+      "temps": "en voiture 28min, en transport 45min, à pieds 2h45",
+      "text": "La Sagrada Família, chef-d'œuvre inachevée d'Antoni Gaudí, est une basilique emblématique de Barcelone mêlant art nouveau et architecture gothique. Ses façades sculptées et ses tours élancées en font un monument unique inscrit au patrimoine mondial de l'UNESCO. Toujours en construction, elle devrait être achevée d'ici 2026, marquant le centenaire de la mort de Gaudí.",
+      "lien": "https://sagradafamilia.org/"
+    },
+    {
+      "image": "/Assets/etapes/barcelone/voir/2jpg",
+      "name": "parc güell",
+      "price": "Entrée: 18€",
+      "temps": "en voiture 29min, en transport 1h12min, à pieds 2h11",
+      "text": "Le parc Güell, conçu par Antoni Gaudí, est un espace emblématique de Barcelone alliant nature et architecture moderniste. Ses mosaïques colorées, ses formes organiques et sa célèbre salamandre en céramique en font un lieu unique classé au patrimoine mondial de l'UNESCO. Offrant une vue panoramique sur la ville, il incarne l'imaginaire créatif de Gaudí.",
+      "lien": "https://parkguell.barcelona/"
+    }
+  ],
+  "excursions": [
+    {
+      "image": "/Assets/etapes/barcelone/excursion/1.jpg",
+      "name": "costa goround, 1 billet pour le centre ville",
+      "time": "8h",
+      "price": "13€ par adulte",
+      "text": "Explorer à votre rythme avec notre bus Costa GoRound. Il vous attend sous le bateau et vous emmène directement au centre de Barcelone pour vous faire découvrir les attractions les plus emblématiques. Déplacez-vous en toute liberté et profitez de la ville jusqu'à la dernière minute: le bus vous ramènera à bord au bon moment",
+      "plus": "Au port de Barcelone, vous montez à bord de notre bus Costa GoRound et partez à la découverte des merveilles de la ville. Arrêt prévu: World Trade Center. De là, vous êtes à environ 5 min de marches des Ramblas, où vous serez immergé dans l'effervescence de la ville. Ne manquez pas le marché de la Boqueria, le plus emblématique de la ville. Vous êtes à proximité du Barrio Gotico avec ses rues étroites et ses places pittoresques. Bien d'autres choses vous attendent, à vous de décider ce que vous souhaitez visiter.",
+      "info": "L'excursion ne prévoit pas de guide.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=325960826&ICode=04Q5&date=2025-05-25&previousCategory=true"
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/2.jpg",
+      "name": "costa goround, 1 billet multi-arrêt",
+      "time": "8h",
+      "price": "19€ par adulte",
+      "text": "Montez et descendez quand vous voulez et explorez à votre rythme avec notre bus Costa GoRound. Il vous attend sous le bateau et vous emmène directement au centre de Barcelone pour vous faire découvrir les attractions les plus emblématiques. Déplacez-vous en toute liberté entre les arrêts prévus et profitez de la ville jusqu'à la dernière minute : le bus vous ramènera à bord au bon moment. Costa GoRound est le moment le plus pratique, souple et sûr d'explorer la ville en toute liberté.",
+      "plus": "Au port de Barcelone, vous montez à bord de notre bus Costa GoRound et partez à la découverte de la ville. Les arrêts prévus sont les suivants: World Trade Center. Vous vous trouvez au Port Vell de Barcelone d'où vous pouvez facilement explorer les environs, notamment les Ramblas et le quartier Barrio Gotico avec sa magnifique cathédrale. La Monumental, où se trouve la Sagrada Familia. Casa de les Punxes (Passeig de Gracia), vous êtes dans une des rues les plus célèbres de Barcelone. C'est ici qu'entre les magasins et boutiques, on retrouve des chefs-d'œuvre de Gaudì comme la Casa Batlló et la Casa Milà (la Pedrera).",
+      "info": "L'excursion ne prévoit pas de guide.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=325960827&ICode=04Q6&date=2025-05-25&previousCategory=true"
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/3.jpg",
+      "name": "",
+      "time": "",
+      "price": "",
+      "horaire": "",
+      "text": "",
+      "plus": "",
+      "info": "",
+      "lien": ""
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/4.jpg",
+      "name": "",
+      "time": "",
+      "price": "",
+      "horaire": "",
+      "text": "",
+      "plus": "",
+      "info": "",
+      "lien": ""
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/5.jpg",
+      "name": "",
+      "time": "",
+      "price": "",
+      "horaire": "",
+      "text": "",
+      "plus": "",
+      "info": "",
+      "lien": ""
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/6.jpg",
+      "name": "",
+      "time": "",
+      "price": "",
+      "horaire": "",
+      "text": "",
+      "plus": "",
+      "info": "",
+      "lien": ""
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/7.jpg",
+      "name": "",
+      "time": "",
+      "price": "",
+      "horaire": "",
+      "text": "",
+      "plus": "",
+      "info": "",
+      "lien": ""
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/8.jpg",
+      "name": "",
+      "time": "",
+      "price": "",
+      "horaire": "",
+      "text": "",
+      "plus": "",
+      "info": "",
+      "lien": ""
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/9.jpg",
+      "name": "",
+      "time": "",
+      "price": "",
+      "horaire": "",
+      "text": "",
+      "plus": "",
+      "info": "",
+      "lien": ""
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/10.jpg",
+      "name": "",
+      "time": "",
+      "price": "",
+      "horaire": "",
+      "text": "",
+      "plus": "",
+      "info": "",
+      "lien": ""
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/11.jpg",
+      "name": "",
+      "time": "",
+      "price": "",
+      "horaire": "",
+      "text": "",
+      "plus": "",
+      "info": "",
+      "lien": ""
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/12.jpg",
+      "name": "",
+      "time": "",
+      "price": "",
+      "horaire": "",
+      "text": "",
+      "plus": "",
+      "info": "",
+      "lien": ""
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/13.jpg",
+      "name": "",
+      "time": "",
+      "price": "",
+      "horaire": "",
+      "text": "",
+      "plus": "",
+      "info": "",
+      "lien": ""
+    },
+    {
+      "image": "/Assets/etapes/barcelone/excursion/14.jpg",
+      "name": "",
+      "time": "",
+      "price": "",
+      "horaire": "",
+      "text": "",
+      "plus": "",
+      "info": "",
+      "lien": ""
+    }
+  ]
+}
