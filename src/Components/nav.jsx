@@ -63,11 +63,6 @@ function Nav() {
                                     Gênes
                                 </Link>
                             </li>
-                            <li className="subnavItem">
-                                <Link to={"/Marseille"} className="subnavLink  textUppercase textBold">
-                                    Marseille
-                                </Link>
-                            </li>
                         </ul>
                     </li>
                 </ul>

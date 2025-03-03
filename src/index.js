@@ -9,7 +9,6 @@ import Cagliari from "./Pages/Cagliari";
 import Naples from "./Pages/Naples";
 import Civitavecchia from "./Pages/Civitavecchia";
 import Genes from "./Pages/Genes";
-import Marseille from "./Pages/Marseille";
 import "./Style/Main.scss";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -24,7 +23,6 @@ root.render(
         <Route exact path="/Naples" element={<Naples />} />
         <Route exact path="/Civitavecchia" element={<Civitavecchia />} />
         <Route exact path="/Gênes" element={<Genes />} />
-        <Route exact path="/Marseille" element={<Marseille />} />
       </Routes>
     </HashRouter>
   </React.StrictMode>
