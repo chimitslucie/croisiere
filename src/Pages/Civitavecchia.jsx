@@ -12,6 +12,13 @@ function Civitavecchia() {
                 son ambiance maritime Admirez la majestueuse Forteresse Michel-Ange, témoin de l'histoire. Entre plages dorées et vestiges antiques 
                 fascinants. Chaque recoin respire l'authenticité italienne. Entre culture, gastronomie et dolce vita, une escapade inoubliable vous attend."
             />
+            <div className="information">
+                <div className="container">
+                    <p className="informationText textSecondary">
+                        Information: En prévision du Jubiler de 2025, de nombreux monuments peuvent être en cours de rénovation et donc non visibles.
+                    </p>
+                </div>
+            </div>
             <section className="visit">
                 <div className="container">
                     <Title title="à voir, à visiter" />
