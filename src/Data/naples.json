@@ -1,11 +1,124 @@
 {
   "voir": [
     {
-      "image": "/Assets/etapes/naples/voir/",
-      "name": "",
-      "text": "",
-      "temps": "",
-      "lien": ""
+      "image": "/Assets/etapes/naples/voir/1.jpg",
+      "name": "Centre historique de Naples",
+      "price": "Accès libre",
+      "temps": "de 11min en voiture, 20min en transport, 27min à pieds",
+      "text": "Le centre historique de Naples, classé au patrimoine mondial de l’UNESCO, est un véritable labyrinthe de ruelles animées, de monuments et d’églises baroques. Il abrite des sites emblématiques comme Spaccanapoli, le Duomo et le monastère de Santa Chiara. Ce quartier vibrant est le cœur de l’âme napolitaine, mêlant histoire, culture et traditions.",
+      "lien": "https://visiternaples.it/centre-historique-de-naples/"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/2.jpg",
+      "name": "Duomo di Napoli",
+      "price": "Accès cathédrale gratuit, chapelle de san gennaro + musée tesoro di san gennaro 13€, chapelle de san gennaro + musée tesoro di san gennaro + museo filangieri 15€",
+      "temps": "de 17min en voiture, 29min en transport, 34min à pieds",
+      "text": "Le Duomo di Napoli, ou Cathédrale de Santa Maria Assunta, est l’édifice religieux le plus important de Naples. Mélange de styles gothique, baroque et néogothique, il abrite la Chapelle de San Gennaro, où se déroule le célèbre miracle de la liquéfaction du sang du saint patron de la ville. Ce lieu emblématique est un incontournable pour découvrir l’histoire et la spiritualité napolitaines.",
+      "lien": "https://visiternaples.fr/cathedrale-de-naples.html"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/3.jpg",
+      "name": "Chapelle Sansevero",
+      "price": "Entrée 10€",
+      "temps": "de 14min en voiture, 20min en transport, 20min à pieds",
+      "text": "La Chapelle Sansevero est un joyau baroque de Naples, célèbre pour ses sculptures fascinantes, dont le Christ Voilé, chef-d’œuvre de marbre au réalisme saisissant. Ce lieu mystique abrite également des œuvres chargées de symbolisme et d’énigmes ésotériques. Située en plein cœur du centre historique, elle est une visite incontournable pour les amateurs d’art et de mystère.",
+      "lien": "https://www.museosansevero.it/"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/4.jpg",
+      "name": "Castel dell’Ovo",
+      "price": "Accès libre",
+      "temps": "de 19min en voiture, 31min en transport, 34min à pieds",
+      "text": "Le Castel dell’Ovo est la plus ancienne forteresse de Naples, située sur l’îlot de Megaride, offrant une vue imprenable sur la baie. Son nom, qui signifie Château de l’Œuf, provient d’une légende selon laquelle un œuf magique y serait caché, garantissant la stabilité de la ville. Ce site historique emblématique est un lieu idéal pour une promenade entre mer et histoire.",
+      "lien": "https://visiternaples.fr/casteldellovo.html"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/5.jpg",
+      "name": "Musée Archéologique National de Naples",
+      "price": "Entrée 18€",
+      "temps": "de 20min en voiture, 23min en transport, 38min à pieds",
+      "text": "Le Musée Archéologique National de Naples est l’un des plus importants au monde pour l’art antique. Il abrite une exceptionnelle collection de fresques, mosaïques et objets issus de Pompéi et Herculanum, ainsi que des sculptures gréco-romaines. Incontournable pour les passionnés d’histoire, il offre une plongée fascinante dans l’Antiquité.",
+      "lien": "https://museoarcheologiconapoli.it/"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/6.jpg",
+      "name": "Palais Royal de Naples",
+      "price": "Entrée 10€",
+      "temps": "de 14min en voiture, 18min en transport, 19min à pieds",
+      "text": "Le Palais Royal de Naples est une somptueuse résidence historique située sur la Piazza del Plebiscito. Ancienne demeure des souverains espagnols et bourbons, il dévoile des salles richement décorées, une bibliothèque impressionnante et un majestueux escalier d’honneur. Ce lieu emblématique témoigne du faste royal et de l’histoire de Naples",
+      "lien": "https://www.naples.fr/palais-royal-naples"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/7.jpg",
+      "name": "Église du Gesù Nuovo",
+      "price": "Accès libre",
+      "temps": "de 15min en voiture, 25min en transport, 27min à pieds",
+      "text": "L'église du Gesù Nuovo est l’une des plus impressionnantes de Naples, reconnaissable à sa façade en pierre bosselée d’un ancien palais Renaissance. Son intérieur somptueux, riche en fresques, marbres et dorures, est un chef-d'œuvre du baroque napolitain. Elle abrite également la tombe de Saint Joseph Moscati, médecin canonisé, vénéré par de nombreux fidèles.",
+      "lien": "https://visiternaples.fr/gesu-nuovo.html"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/8.jpg",
+      "name": "Castel Nuovo",
+      "price": "Entrée 6€",
+      "temps": "de 13min en voiture, 15min à pieds",
+      "text": "Le Castel Nuovo, aussi appelé Maschio Angioino, est l’un des symboles de Naples. Cette imposante forteresse médiévale, construite au XIIIe siècle par les Angevins, se distingue par son impressionnante arc de triomphe en marbre. Aujourd’hui, il abrite le musée civique, où l’on peut explorer des salles historiques, des fresques et profiter d’une vue panoramique sur le golfe de Naples.",
+      "lien": "https://visiternaples.it/castel-nuovo/"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/9.jpg",
+      "name": "Basilique Santa Chiara de Naples",
+      "price": "Entrée 7e",
+      "temps": "de 15min en voiture, 24min en transport, 27min à pieds",
+      "text": "La Basilique Santa Chiara de Naples est un magnifique complexe religieux gothique du XIVe siècle. Elle est célèbre pour son cloître aux majoliques, orné de carreaux de faïence colorés représentant des scènes bucoliques. L’église abrite également les tombes de rois angevins et offre une atmosphère paisible au cœur de la ville animée.",
+      "lien": "https://visiternaples.fr/santa-chiara.html"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/10.jpg",
+      "name": "piazza del Plebiscito",
+      "price": "Accès libre",
+      "temps": "de 19min en voiture, 23min à pieds",
+      "text": "La Piazza del Plebiscito est la plus grande et l’une des plus emblématiques places de Naples. Entourée par la majestueuse Basilique San Francesco di Paola et le Palais Royal, elle est un lieu incontournable pour admirer l’architecture et l’histoire de la ville. Son vaste espace en fait un point de rencontre prisé des habitants et des visiteurs.",
+      "lien": "https://visiternaples.fr/piazza-del-plebiscito.html"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/11.jpg",
+      "name": "Vomero",
+      "price": "Accès libre",
+      "temps": "de 31min en voiture, 28min en transport, 52min à pieds",
+      "text": "Vomero est un quartier élégant de Naples, perché sur une colline, offrant de magnifiques vues panoramiques sur la ville et le Vésuve. Il abrite des sites emblématiques comme la Chartreuse de San Martino et le Castel Sant’Elmo. Avec ses rues animées, ses boutiques, ses cafés et son ambiance plus tranquille que le centre historique, c'est un quartier idéal pour une balade et une pause gourmande.",
+      "lien": "https://www.vanupied.com/naples/quartier-naples/quartier-du-vomero-a-naples-panorama-et-modernite.html"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/12.jpg",
+      "name": "Pompéi",
+      "price": "Entrée 22€",
+      "temps": "de 25min en voiture, 59min en transport",
+      "text": "Pompéi est l’un des sites archéologiques les plus fascinants au monde, figé dans le temps depuis l’éruption du Vésuve en 79 apr. J.-C. Ses rues pavées, ses villas ornées de fresques et ses temples offrent un aperçu unique de la vie romaine antique. Classée au patrimoine mondial de l’UNESCO, cette cité mythique est une visite incontournable près de Naples.",
+      "lien": "https://pompeiisites.org/"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/13.jpg",
+      "name": "Herculanum",
+      "price": "Entrée 13€",
+      "temps": "de 23min en voiture, 1h1 en transport, 2h35 à pieds",
+      "text": "Herculanum est une ancienne cité romaine ensevelie par l’éruption du Vésuve en 79 apr. J.-C., tout comme Pompéi. Mieux préservée grâce aux coulées de boue volcanique, elle révèle des maisons luxueuses, des mosaïques intactes et des objets du quotidien figés dans le temps. Ce site archéologique offre une immersion fascinante dans la vie romaine antique.",
+      "lien": "https://ercolano.cultura.gov.it/"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/14.jpg",
+      "name": "Vésuve",
+      "price": "Accès au cratère 11€",
+      "temps": "de 38min en voiture, 2h56 en transport",
+      "text": "Le Vésuve est l’un des volcans les plus célèbres au monde, tristement connu pour avoir enseveli Pompéi et Herculanum en 79 apr. J.-C. Toujours actif, il est possible d’en gravir le sommet pour admirer une vue spectaculaire sur la baie de Naples. Ce site naturel et historique fascinant offre une expérience unique entre science et paysages grandioses.",
+      "lien": "https://www.vesuvioexpress.it/"
+    },
+    {
+      "image": "/Assets/etapes/naples/voir/16.jpg",
+      "name": "Capri",
+      "price": "Aller-retour pour deux environ 100€",
+      "temps": "d'environ 1h en ferry",
+      "text": "Capri est une île mythique du golfe de Naples, réputée pour ses paysages spectaculaires, ses eaux turquoise et son ambiance élégante. Parmi ses incontournables, on trouve la Grotte Bleue, les Faraglioni, et la charmante Piazzetta. Avec ses sentiers panoramiques, ses boutiques de luxe et sa cuisine raffinée, Capri est une destination à la fois naturelle et glamour.",
+      "lien": "https://visitercapri.it/ https://www.naples.fr/capri#:~:text=La%20liaison%20par%20ferry%20entre,la%20journ%C3%A9e%20et%20la%20compagnie). https://www.directferries.fr/naples_capri_ferry.htm#:~:text=Sur%20la%20route%20Naples%20%E2%80%93%20Capri,Capri%20est%20de%2056%20minutes."
     }
   ],
   "excursion": [
