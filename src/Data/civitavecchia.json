@@ -1,145 +1,329 @@
 {
   "voir": [
     {
-      "image": "/Assets/etapes/civitavecchia/voir/",
-      "name": "",
-      "text": "",
-      "temps": "",
-      "lien": ""
+      "image": "/Assets/etapes/civitavecchia/voir/1.jpg",
+      "name": "Colisée et Forum Romain",
+      "price": "Entrée 18€",
+      "temps": "de 1h21 en voiture, 1h35 en transport",
+      "text": "Le Colisée est l’amphithéâtre le plus célèbre de Rome, témoin des combats de gladiateurs et des spectacles de l’Antiquité. Juste à côté, le Forum Romain était le cœur politique et social de la Rome antique, abritant temples, basiliques et marchés. Ensemble, ces sites emblématiques offrent une immersion fascinante dans l’histoire romaine.",
+      "lien": "https://www.coopculture.it/it/"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/2.jpg",
+      "name": "Musée du Vatican et Chapelle Sixtine",
+      "price": "Entrée 20€",
+      "temps": "de 1h10 en voiture, 1h57 en transport",
+      "text": "Les Musées du Vatican forment un vaste complexe abritant des collections inestimables d’art et d’antiquités accumulées par les papes. Le clou de la visite est la Chapelle Sixtine, célèbre pour le plafond magnifiquement décoré de fresques signées Michel-Ange et le Jugement Dernier. Véritable témoignage du génie de la Renaissance, ce site exceptionnel attire des millions de visiteurs chaque année, émerveillés par sa richesse culturelle et artistique.",
+      "lien": "https://tickets.museivaticani.va/home"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/3.jpg",
+      "name": "Basilique Saint-Pierre",
+      "price": "Entrée 7€",
+      "temps": "de 1h15 en voiture, 1h23 en transport",
+      "text": "La Basilique Saint-Pierre est le cœur spirituel du Vatican et l’une des églises les plus majestueuses au monde. Chef-d'œuvre de la Renaissance, elle abrite la célèbre Pietà de Michel-Ange et un impressionnant dôme conçu par Bramante et achevé par Michel-Ange. Ce lieu emblématique, centre du catholicisme, offre aussi une vue panoramique incroyable depuis son sommet.",
+      "lien": "https://www.basilicasanpietro.va/fr"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/4.jpg",
+      "name": "Galerie Borghèse",
+      "price": "Entrée 13€",
+      "temps": "de 1h25 en voiture, 1h40 en transport",
+      "text": "La Galerie Borghèse est l’un des plus beaux musées de Rome, située au cœur de la Villa Borghese. Elle abrite une exceptionnelle collection d’œuvres de maîtres comme Caravage, Raphaël et Titien, ainsi que les sublimes sculptures du Bernin. Ce joyau artistique, entouré de magnifiques jardins, offre une immersion unique dans l’art et l’histoire.",
+      "lien": "https://galleriaborghese.beniculturali.it/"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/5.jpg",
+      "name": "Panthéon",
+      "price": "Entrée 12€",
+      "temps": "de 1h19 en voiture, 1h45 en transport",
+      "text": "Le Panthéon de Rome est l’un des monuments antiques les mieux préservés, célèbre pour son impressionnante coupole percée d’un oculus. Construit au Ier siècle, il fut d’abord un temple dédié à tous les dieux avant de devenir une église chrétienne. Son architecture grandiose et son atmosphère mystique en font un incontournable de la capitale italienne.",
+      "lien": "https://pantheonrometicket.com/?lang=fr&gad_source=1&gclid=Cj0KCQjwm7q-BhDRARIsACD6-fUdfCjBA9sQpcDxAbMsYMR1NZe_xuGofbSGqrHlybBoPctEiKNvLswaAlKUEALw_wcB"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/6.jpg",
+      "name": "Château Saint-Ange",
+      "price": "Entrée 16€",
+      "temps": "de 1h14 en voiture, 1h38 en transport",
+      "text": "Le Château Saint-Ange est une imposante forteresse située sur les rives du Tibre à Rome. Construit initialement comme mausolée pour l’empereur Hadrien, il a ensuite servi de refuge aux papes grâce à un passage secret reliant le Vatican. Aujourd’hui, il offre une vue panoramique sur la ville et plonge les visiteurs dans son histoire fascinante.",
+      "lien": "http://castelsantangelo.beniculturali.it/"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/7.jpg",
+      "name": "Thermes de Caracalla",
+      "price": "Entrée à partir de 36€",
+      "temps": "de 1h11 en voiture, 1h42 en transport",
+      "text": "Les Thermes de Caracalla sont l’un des plus grands complexes de bains publics de la Rome antique, construits au IIIe siècle. Autrefois luxueusement décorés de mosaïques et de marbres, ils pouvaient accueillir jusqu’à 1 600 baigneurs. Aujourd’hui en ruines, ils témoignent encore de la grandeur et de l’ingéniosité des Romains.",
+      "lien": "https://www.tiqets.com/fr/billets-les-thermes-de-caracalla-l145479/?partner=romesitefr"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/8.jpg",
+      "name": "Musée du Capitole",
+      "price": "Entrée 16€",
+      "temps": "de 1h16 en voiture, 1h41 en transport",
+      "text": "Les Musées du Capitole sont les plus anciens musées publics du monde, fondés en 1471 sur la Piazza del Campidoglio à Rome. Ils abritent une riche collection de sculptures antiques, dont la célèbre Louve capitoline, ainsi que des peintures de maîtres comme Le Caravage et Titien. Ce lieu incontournable offre aussi une vue imprenable sur le Forum Romain.",
+      "lien": "https://www.visitonsrome.com/musees-capitole"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/9.jpg",
+      "name": "Villa d’Hadrien à Tivoli",
+      "price": "Entrée 12€",
+      "temps": "de 1h43 en voiture, 2h49 en transport",
+      "text": "La Villa d’Hadrien, située à Tivoli, est une somptueuse résidence impériale construite au IIe siècle par l’empereur Hadrien. Inspirée de l’architecture grecque et égyptienne, elle comprend des palais, des thermes et des jardins luxuriants. Classée au patrimoine mondial de l’UNESCO, elle témoigne du raffinement et de la grandeur de Rome antique.",
+      "lien": "https://villae.cultura.gov.it/fr/les-lieux/villa-dhadrien/"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/10.jpg",
+      "name": "Galerie Nationale d’Art Moderne",
+      "price": "Entrée 15€",
+      "temps": "de 1h21 en voiture, 1h54 en transport",
+      "text": "La Galerie nationale d'art moderne de Rome abrite la plus grande collection d’art italien des XIXe et XXe siècles. Elle présente des œuvres de maîtres tels que Canova, Klimt, Modigliani et De Chirico, ainsi que des mouvements comme le futurisme et l’impressionnisme. Située près de la Villa Borghese, elle est un incontournable pour les amateurs d’art moderne et contemporain.",
+      "lien": "https://lagallerianazionale.com/"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/11.jpg",
+      "name": "Fort Michelangelo",
+      "price": "Accès extérieur libre",
+      "temps": "de 4min en voiture, 19min en transport, 19min à pieds",
+      "text": "Le Fort Michelangelo est une imposante forteresse située à Civitavecchia, construite au XVIe siècle pour protéger le port des invasions. Son architecture massive, en partie conçue par Michel-Ange, en fait un symbole de la ville. Aujourd’hui, il demeure un site historique fascinant offrant un aperçu du passé maritime et militaire de la région.",
+      "lien": "https://www.portofrome.it/forte-michelangelo/?lang=fr"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/12.jpg",
+      "name": "Terme della Ficoncella (Bains thermaux)",
+      "price": "Entrée 6€ la demi-journée, 10€ la journée complète",
+      "temps": "de 17min en voiture, 1h6 en transport, 1h42 à pieds",
+      "text": "Les Terme della Ficoncella, situées près de Civitavecchia, sont des sources thermales naturelles connues depuis l’époque romaine. Leurs eaux riches en minéraux, aux vertus thérapeutiques, offrent une expérience relaxante en pleine nature. Peu fréquentées par les touristes, elles constituent une escapade idéale pour profiter des bienfaits des bains chauds.",
+      "lien": "https://civitavecchia.portmobility.it/it/terme-della-ficoncella"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/13.jpg",
+      "name": "Marché traditionnel de Civitavecchia",
+      "price": "Accès libre",
+      "temps": "de 9min en voiture, 25min en transport, 25min à pieds",
+      "text": "Le marché traditionnel de Civitavecchia est un lieu authentique où l’on découvre les saveurs locales. Situé en plein centre-ville, il propose des produits frais tels que poissons, fruits, légumes et spécialités italiennes. Animé et coloré, c’est l’endroit idéal pour s’immerger dans la culture gastronomique de la région.",
+      "lien": "http://www.portofrome.it/le-marche/?lang=fr"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/14.jpg",
+      "name": "Cathédrale de Civitavecchia",
+      "price": "Accès libre",
+      "temps": "de 13min en voiture, 27min en transport, 29min à pieds",
+      "text": "La Cathédrale San Francesco d’Assisi est l’église principale de Civitavecchia, située sur la Piazza Vittorio Emanuele II. Construite au XVIIe siècle sur un ancien couvent franciscain, elle arbore une élégante façade néoclassique. À l’intérieur, son atmosphère sobre et paisible en fait un lieu de recueillement et de découverte du patrimoine religieux local.",
+      "lien": "https://civitavecchia.portmobility.it/en/civitavecchia-cathedral"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/15.jpg",
+      "name": "La promenade du front de mer (Viale Garibaldi)",
+      "price": "Accès libre",
+      "temps": "de 12min en voiture, 22min en transport, 22min à pieds",
+      "text": "La Viale Garibaldi est l’une des avenues principales de Civitavecchia, bordée d’arbres et de cafés animés. Idéale pour une promenade, elle relie le centre-ville au front de mer et offre un cadre agréable pour flâner. C’est un lieu de vie apprécié des habitants et des visiteurs pour son ambiance détendue et ses commerces.",
+      "lien": "https://www.portofrome.it/la-promenade-de-civitavecchia-viale-garibaldi-viale-thaon-de-revel-et-marina/?lang=fr"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/16.jpg",
+      "name": "Musée Archéologique National de Civitavecchia",
+      "price": "Entrée 5€",
+      "temps": "de 12min en voiture, 22min en transport, 22min à pieds",
+      "text": "Le Musée Archéologique National de Civitavecchia expose des vestiges de l’époque étrusque et romaine, retraçant l’histoire de la région. Installé dans un ancien bâtiment du XVIIIe siècle, il abrite des statues, des céramiques et d'objets provenant des anciennes colonies voisines. Ce musée est un incontournable pour les passionnés d’archéologie et d’histoire maritime.",
+      "lien": "https://www.tripadvisor.fr/Attraction_Review-g194743-d4104943-Reviews-Museo_Archeologico_Nazionale_Civitavecchia-Civitavecchia_Province_of_Rome_Lazio.html"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/17.jpg",
+      "name": "La plage de Civitavecchia (Spiaggia la Marina)",
+      "price": "Accès libre",
+      "temps": "de 11min en voiture, 22min en transport, 22min à pieds",
+      "text": "La plage de Civitavecchia offre un agréable espace de détente en bord de mer, à proximité du port. Composée de sable et de galets, elle est idéale pour une pause avant ou après une visite de la ville. Avec ses cafés et restaurants en front de mer, c’est un lieu parfait pour profiter du soleil et déguster des spécialités locales."
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/18.jpg",
+      "name": "Porto di Civitavecchia (Port historique)",
+      "price": "Accès libre",
+      "temps": "de 8min en voiture, 35min en transport, 35min à pieds",
+      "text": "Le port de Civitavecchia, surnommé le Port de Rome, est l’un des plus importants d’Italie pour les croisières et le commerce maritime. Fondé par l’empereur Trajan au IIe siècle, il mêle aujourd’hui histoire et modernité. Son imposante forteresse, le Fort Michelangelo, et sa promenade côtière en font un lieu emblématique pour les voyageurs en escale.",
+      "lien": "https://civitavecchia.portmobility.it/it/porto-di-civitavecchia"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/19.jpg",
+      "name": "Piazza Leandra",
+      "price": "Accès libre",
+      "temps": "de 5min en voiture, 20min à pieds",
+      "text": "La Piazza Leandra est l’une des plus anciennes et pittoresques places de Civitavecchia. Avec sa charmante fontaine centrale et ses bâtiments aux façades colorées, elle offre une atmosphère authentique. Située dans le vieux quartier médiéval, elle constitue un point de départ idéal pour explorer l’histoire et le patrimoine de la ville.",
+      "lien": "http://www.portofrome.it/piazza-leandra/?lang=fr"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/20.jpg",
+      "name": "Fontana del Vanvitelli",
+      "price": "Accès libre",
+      "temps": "de 3min en voiture, 17min à pieds",
+      "text": "La Fontana del Vanvitelli, située sur la place principale de Civitavecchia, est une élégante fontaine conçue par l’architecte Luigi Vanvitelli au XVIIIe siècle. Alimentée par un ancien aqueduc romain, elle servait autrefois de point d’approvisionnement en eau pour les habitants. Aujourd’hui, elle est un symbole historique et un lieu de passage incontournable en centre-ville.",
+      "lien": "https://www.portofrome.it/la-fontaine-de-vanvitelli/?lang=fr"
+    },
+    {
+      "image": "/Assets/etapes/civitavecchia/voir/21.jpg",
+      "name": "Piazza Aurelio Saffi",
+      "price": "Accès libre",
+      "temps": "de 5min en voiture, 20min à pieds",
+      "text": "La Piazza Aurelio Saffi est une place historique de Civitavecchia, entourée de bâtiments anciens et imprégnée de l’atmosphère locale. Lieu de rencontre des habitants, elle reflète le charme authentique de la ville. Idéale pour une pause lors d’une promenade, elle permet d’admirer l’architecture environnante et de profiter de l’ambiance méditerranéenne.",
+      "lien": "https://www.tripadvisor.fr/Attraction_Review-g230071-d6739306-Reviews-Piazza_Aurelio_Saffi-Forli_Province_of_Forli_Cesena_Emilia_Romagna.html"
     }
   ],
   "excursion": [
     {
+      "index": "1",
       "image": "/Assets/etapes/civitavecchia/excursion/1.jpg",
-      "name": "",
-      "time": "",
-      "price": "",
-      "horaire": "",
-      "text": "",
-      "plus": "",
-      "info": "",
-      "lien": ""
+      "name": "à rome avec Costa GoRound (en train respectueux de l’environnement) 1 billet pour le centre ville",
+      "time": "9h",
+      "price": "55€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "Explorez à votre rythme avec Costa GoRound. Un train électrique réservé uniquement aux hôtes de Costa vous emmène de la gare de Civitavecchia à celle de Saint-Pierre à Rome pour une expérience extrêmement pratique, écologique et libre: à votre arrivée, baladez-vous là où vous le souhaitez, comme vous le souhaitez.",
+      "plus": "C’est parti! Depuis la gare de Civitavecchia, montez à bord du train écologique et partez à la découverte de Rome. Arrêt prévu: Roma S.Pietro. En 5 min à pied, vous êtes déjà sur la place Saint-Pierre, face à la basilique et à son iconique dôme de Michel-Ange. En traversant la via della Conciliazione, vous atteignez le château Saint-Ange, l’imposante forteresse qui offre une vue unique sur le Tibre et la ville. De là, vous pouvez choisir de traverser le pont Saint-Ange et d’arriver dans ce qui a toujours été considéré comme le véritable centre historique de Rome, le dédale de ruelles et de places animées entre Campo de’ Fiori, le Panthéon et Piazza Navona.",
+      "info": "Pendant le transfert à Rome, un accompagnateur local vous assistera et vous donnera des informations.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=2182603&ICode=0114&date=2025-05-29&previousCategory=true"
     },
     {
+      "index": "2",
       "image": "/Assets/etapes/civitavecchia/excursion/2.jpg",
-      "name": "",
-      "time": "",
-      "price": "",
-      "horaire": "",
-      "text": "",
-      "plus": "",
-      "info": "",
-      "lien": ""
+      "name": "à rome avec Costa GoRound billet multi-arrêts",
+      "time": "9h",
+      "price": "65€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "Montez, descendez et explorez avec notre bus Costa GoRound. Il vous attend sous le bateau et vous emmène directement au centre de Rome pour vous faire découvrir les attractions les plus emblématiques. Déplacez-vous en toute liberté entre les arrêts prévus et profitez de la ville jusqu’à la dernière minute: le bus vous ramènera à bord au bon moment.",
+      "plus": "Au port de Civitavecchia, vous montez à bord de notre bus Costa GoRound et partez à la découverte de Rome. Les arrêts prévus sont les suivants: Vaticano (Gianicolo). Vous voici au cœur de la chrétienté: la place Saint-Pierre et sa majestueuse basilique. Ludovisi, vous êtes au centre de Rome, à deux pas de la place d’Espagne. Le magnifique escalier de Trinità dei Monti et les élégantes vitrines de la via Condotti et de la via Frattina. Colosseo/ Via Claudia, vous êtes juste devant le monument le plus emblématique de Rome. De là vous pouvez atteindre facilement le Circus Maximus et la célèbre Bouche de la Vérité.",
+      "info": "L’excursion ne prévoit pas de guide. Le bus est attribué: vous pourrez laisser vos effets personnels dans le bus et n’oubliez pas de remonter dans le même bus à la fin de chaque arrêt.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=325960864&ICode=04QE&date=2025-05-29&previousCategory=true"
     },
     {
+      "index": "3",
       "image": "/Assets/etapes/civitavecchia/excursion/3.jpg",
-      "name": "",
-      "time": "",
-      "price": "",
-      "horaire": "",
-      "text": "",
-      "plus": "",
-      "info": "",
-      "lien": ""
+      "name": "à rome avec Costa GoRound billet multi-arrêts + entrée au colisée",
+      "time": "9h",
+      "price": "89€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "Montez, descendez et explorez avec notre bus Costa GoRound. Il vous attend sous le bateau et vous emmène directement au centre de Rome pour vous faire découvrir les attractions les plus emblématiques. Déplacez-vous en toute liberté entre les arrêts prévus et profitez de la ville jusqu’à la dernière minute: le bus vous ramènera à bord au bon moment.",
+      "plus": "Au port de Civitavecchia, vous montez à bord de notre bus Costa GoRound et partez à la découverte de Rome. Les arrêts prévus sont les suivants: Vaticano (Gianicolo). Vous voici au cœur de la chrétienté: la place Saint-Pierre et sa majestueuse basilique. Ludovisi, vous êtes au centre de Rome, à deux pas de la place d’Espagne. Aventurez-vous jusqu’à la fontaine de Trevi, au Panthéon et à Piazza Navona. Ou encore, le magnifique escalier de Trinità dei Monti et les vitrines de la via Condotti et de la via Frattina. Colosseo/ Via Claudia, descendez pour découvrir le symbole de Rome: l’entrée du Colisée est comprise dans le billet! S’il vous reste de l’énergie, rejoignez le Circus Maximus et la fameuse Bouche de la Vérité.",
+      "info": "L’excursion ne prévoit pas de guide. Billets pour le Colisée avec entrée à 15h. N’oubliez pas votre carte d’identité nécessaire pour entrer dans le Colisée. Votre bus est attribué: vous pourrez laisser vos effets personnels dans le bus et n’oubliez pas de remonter dans le même bus à la fin de chaque arrêt.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=325960868&ICode=04QF&date=2025-05-29&previousCategory=true"
     },
     {
+      "index": "4",
       "image": "/Assets/etapes/civitavecchia/excursion/4.jpg",
-      "name": "",
-      "time": "",
-      "price": "",
-      "horaire": "",
-      "text": "",
-      "plus": "",
-      "info": "",
-      "lien": ""
+      "name": "civita di bagnoregio: le village qui “meurt”",
+      "time": "7h",
+      "price": "119€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "Sur un contrefort en tuf fragile se dresse un village de conte de fées voué à disparaître sous les yeux de ses 11 habitants à la vitesse de 7 cm par an. Ne le manquez pas: traversez le pont suspendu qui le sépare du reste du monde et découvrez ses légendes en vous promenant dans les ruelles où Fellini a tourné “La Strada”.",
+      "plus": "Au-delà du pont panoramique, d’où l’on jouit d’une vue sur la vallée et les calanques, vous aurez l’occasion de visiter un petit village médiéval. Lors d’une promenade sur les pavés au milieu d’un dédale de ruelles et de petites places, notre guide vous racontera les nombreuses histoires et légendes de ce lieu. Gardez toujours votre téléphone à la main, car Civita di Bagnoregio est un véritable décor de cinéma à ciel ouvert. Après de nombreuses découvertes, la dernière vous attend: un déjeuner typique dans un restaurant local.",
+      "info": "Le transfert du port au village dure environ 1h30. Le déjeuner est compris.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=236751617&ICode=043N&date=2025-05-29&previousCategory=true"
     },
     {
+      "index": "5",
       "image": "/Assets/etapes/civitavecchia/excursion/5.jpg",
-      "name": "",
-      "time": "",
-      "price": "",
-      "horaire": "",
-      "text": "",
-      "plus": "",
-      "info": "",
-      "lien": ""
+      "name": "civitavecchia, une petite rome sur mer",
+      "time": "2.5h",
+      "price": "39€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "Retrouvez la grandeur et l’histoire de Rome à Civitavecchia avec un guide qui vous fait vivre une expérience exclusive Costa. Sur vos pas vous découvrirez des monuments dignes de la Capitale, notamment les ouvrages d’ingénierie du port de Trajan, l’art de Michel-Ange et de Vanvitelli et les trésors des Papes. Pour une touche supplémentaire de romanité, faites-vous plaisir avec une dégustation au quartier juif.",
+      "plus": "Lors d’une promenade dans les rues de Civitavecchia, vous aurez l’impression d’être dans une Rome sur mer. Des ouvrages du port de Trajan aux murailles d’Urbain VIII jusqu’au système de digues des jetées, vous comprendrez qu’ici, tout comme à Rome, les œuvres monumentales ne manquent pas. Pour découvrir les œuvres signées par des Romains, rendez-vous à la fontaine de Vanvitelli et devant la tour du fort de Michel-Ange. A propos, dans le quartier juif des spécialités de la mer et de l’arrière-pays local vous attendent.",
+      "info": "Dégustation incluse.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=262547282&ICode=04AK&date=2025-05-29&previousCategory=true"
     },
     {
+      "index": "6",
       "image": "/Assets/etapes/civitavecchia/excursion/6.jpg",
-      "name": "",
-      "time": "",
-      "price": "",
-      "horaire": "",
-      "text": "",
-      "plus": "",
-      "info": "",
-      "lien": ""
+      "name": "confort et divertissement sous le soleil de tarquinia",
+      "time": "7h",
+      "price": "55€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "Savez-vous que c’est au Lido di Tarquinia que se trouve le lieu le plus populaire de tout le front de mer? Aujourd’hui, le transat et le parasol d’un beach club vous attendent dans une zone réservée. Là, tout est conçu pour votre détente et votre relaxation: aire de jeu pour les petits, zone consacrée aux sports et même un apéritif avec des fruits frais locaux.",
+      "plus": "Prenez place dans le bus qui vous emmène directement devant la plage brune et sablonneuse du Lido di Tarquinia, sur le territoire de l’ancienne civilisation étrusque. A partir de maintenant, le mot d’ordre c’est la détente. Nous vous réservons un transat et un parasol dans une zone exclusive. Si vous ne voulez rien manquer, il y a aussi un apéritif de bienvenue avec un encas salé et des fruits frais locaux. Les plus petits trouveront des jeux et des piscines, mais le divertissement est assuré aussi pour les passionnés de sports de plage.",
+      "info": "Pour deux personnes, nous fournissons un parasol et un transat.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=212944825&ICode=03XQ&date=2025-05-29&previousCategory=true"
     },
     {
+      "index": "7",
       "image": "/Assets/etapes/civitavecchia/excursion/7.jpg",
-      "name": "",
-      "time": "",
-      "price": "",
-      "horaire": "",
-      "text": "",
-      "plus": "",
-      "info": "",
-      "lien": ""
+      "name": "dans les mains de michel-ange: musées du vatican, chapelle sixtine et autres chefs-d’oeuvre",
+      "time": "9.5h",
+      "price": "155€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "Des musées du Vatican au Jugement Universel, de la Colonnade de Saint Pierre au Moise, du Tibre au Colisée: en sautant les files d’attente, vous vous trouverez seul à seul avec certains chefs-d’œuvre absolus. Une occasion unique pour admirer l’éternelle beauté de Rome et les célèbres œuvres de Michel-Ange. Et pour rendre votre expérience encore plus mémorable: une visite panoramique en bus au centre de Rome et un déjeuner de vrai romain.",
+      "plus": "En sautant des files d’attentes interminables, cette expérience vous ouvrira les portes de certains des endroits les plus exclusifs: les Musée du Vatican et la Chapelle Sixtine, où en levant les yeux vers le ciel vous pourrez admirer en personne le Jugement Universel. Et avec un passage réservé à la Basilique Saint-Pierre depuis les Musées du Vatican. Sur la Place Saint Pierre pour atteindre ensuite le Tibre en passant par le Château Saint-Ange et le Pont Saint-Ange. La basilique Saint-Pierre-aux-Liens. Faisons une visite panoramique au centre-ville qui vous permettra de découvrir quelques autres lieux emblématiques et bien sûr le Colisée, où est prévu un arrêt photo. Pour vous restaurer, quelques mets de la tradition de la ville accompagnés d’un bon verre de vin de la région des Castelli vous attendent pour le déjeuner dans un restaurant typique.",
+      "info": "La durée du transfert du port à Rome est d’environ 1h30. En cas de célébrations religieuses ou de fermetures soudaines, la Basilique Saint-Pierre ne sera visitée qu’à l’extérieur.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=27128433&ICode=2095&date=2025-05-29&previousCategory=true"
     },
     {
+      "index": "8",
       "image": "/Assets/etapes/civitavecchia/excursion/8.jpg",
-      "name": "",
-      "time": "",
-      "price": "",
-      "horaire": "",
-      "text": "",
-      "plus": "",
-      "info": "",
-      "lien": ""
+      "name": "en bus parmi les sites emblématiques de rome",
+      "time": "7h",
+      "price": "59€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "Découvrez l’une des façons les plus confortables de visiter la ville éternelle. Cette visite vous donnera l’occasion de voir les principaux sites de Rome tout en étant assis dans votre bus confortable.",
+      "plus": "Votre visite commence par une promenade panoramique de Rome en passant par les principaux sites tels que la Pyramide de Rome, les thermes de Caracalla, le Cirque maximum, le Colisée, Colle Oppio et Santa Maria Maggiore, Lungotevere et le château Saint-Ange. A la fin de la visite panoramique, tu sera déposé dans la région du Vatican, où vous pourrez profiter d’un peu de temps libre pour visiter la place Saint-Pierre. Certaines des places les plus célèbres de Rome, comme la Piazza di Spagna ou la Piazza Navona. Retrouvez enfin votre accompagnateur au point de rendez-vous pour votre retour au port de Civitavecchia.",
+      "info": "Vue sur les monuments emblématiques de Rome depuis le bus. Temps libre pour déjeuner et visiter la ville.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=109283672&ICode=03G6&date=2025-05-29&previousCategory=true"
     },
     {
+      "index": "9",
       "image": "/Assets/etapes/civitavecchia/excursion/9.jpg",
-      "name": "",
-      "time": "",
-      "price": "",
-      "horaire": "",
-      "text": "",
-      "plus": "",
-      "info": "",
-      "lien": ""
+      "name": "les milles vies du colisée et les milles visages de la ville éternelle",
+      "time": "9h",
+      "price": "109€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "A Rome, le passé et le présent se rejoignent: une pierre après l’autre, la ville éternelle a repris vie de nombreuses fois. Découvrez où sont passées les pièces manquantes du Colisée en traversant ses lieux emblématiques: depuis les Forums Impériaux jusqu’au palais Sénatorial et au palais des Conservateurs en passant par l’escalier de l’Ara Coeli, vous comprendrez que les blocs du glorieux amphithéâtre ont vraiment mille vies.",
+      "plus": "Avec votre guide lors de ce voyage dans le temps qui commence justement depuis le plus grand et le plus emblématique amphithéâtre du monde. En écoutant les légendes des Forums Impériaux et les anecdotes sur la place Venezia, vous apercevrez le palazzetto Venezia et la basilique Saint-Marc. Un hommage à la place Saint Pierre est de rigueur, autant que profiter de Rome dans tous les sens du terme et avec tous les sens: vous aurez donc du temps libre pour déguster des spécialités romaines.",
+      "info": "La durée du transfert en bus du port à Rome est d’environ 1h30.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=77921597&ICode=02FY&date=2025-05-29&previousCategory=true"
     },
     {
+      "index": "10",
       "image": "/Assets/etapes/civitavecchia/excursion/10.jpg",
-      "name": "",
-      "time": "",
-      "price": "",
-      "horaire": "",
-      "text": "",
-      "plus": "",
-      "info": "",
-      "lien": ""
+      "name": "randonnée au monte raschio: l’écologie d’une hêtraie centenaire",
+      "time": "5.5h",
+      "price": "140€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "Vous embarquez pour une expérience magique qui vous emmène en promenade dans une forêt des hêtres protégée, classée site du Patrimoine Mondial Naturel de l’UNESCO. Le guide de randonnée vous expliquera l’importance de cette forêt et vous parlera du projet de recherche financé par la National Geographic Society. Il est mené par l’explorateur Alfredo di Filippo pour étudier, préserver et reconstruire cette forêt unique.",
+      "plus": "Vous partirez pour une randonnée pédestre circulaire travers cette zone protégée, pouvant profiter de la majesté et des couleurs de la forêt de hêtres qui vous entourent. Elle fait partie du site des “forêts primaires de hêtres des Carpates et d’autres régions d’Europe”, reconnue en 2017 par l’UNESCO comme Patrimoine Mondial de l’Humanité. Tout au long du parcours, vous en apprendrez plus sur cette ancienne forêt et sur son importance au niveau mondial. Les hêtres de Monte Raschio sont uniques en leur genre. Selon Alfredo di Filippo, la découverte de Monte Raschio doit être considérée comme unique et exceptionnelle. Cet environnement abrite également des espèces menacées. Après votre randonnée au sommet de Monte Raschio, vous terminerez par une dégustation de saveurs typiques dans la ville d’Oriolo.",
+      "info": "Portez des chaussures de randonnée et des vêtements adaptés au parcours, sans oublier un chapeau et une gourde remplie d’eau.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=217735457&ICode=03YY&date=2025-05-29&previousCategory=true"
     },
     {
+      "index": "11",
       "image": "/Assets/etapes/civitavecchia/excursion/11.jpg",
-      "name": "",
-      "time": "",
-      "price": "",
-      "horaire": "",
-      "text": "",
-      "plus": "",
-      "info": "",
-      "lien": ""
+      "name": "rome de manière confortable sur les rails du développement durable",
+      "time": "9h",
+      "price": "79€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "Si vous vous rendez à Rome en train électrique réservé uniquement aux hôtes de Costa, les trois mots d’ordre qui vous changeront la vie seront: commodité, rapidité et durabilité. Ici, un guide expert vous fera découvrir les anecdotes les moins connues à propos des monuments les plus célèbres de la ville: le voyage de l'obélisque du Vatican, les célèbres prisonniers du Château Saint-Ange, la légende de la sorcière et des amoureux de la place Navona. Ensuite, c’est vous qui décidez comment terminer.",
+      "plus": "Le train électrique Civitavecchia-Rome est extrêmement pratique et viable. Vous arrivez immédiatement au centre ville pour le découvrir d’abord avec un guide expert puis à votre façon. La Place Saint Pierre, il faut la voir et l’écouter. Découvrez le secret des jeux optiques de la colonnade du Bernin et l’histoire de l’obélisque égyptien. Traversez la fine ligne de travertin qui sépare l’Italie de l’Etat du Vatican sur via della Conciliazione, pendant que le guide vous présente “il passetto”, le passage secret qui amenait les papes et les prisonniers au Château Saint-Ange. Ensuite traversez le pont entre les 10 anges de la Passion et pénétrez dans le centre jusqu’à la Place Navona et la Fontaine des Quatre Fleuves. Après, visitez comme vous le souhaitez voir, faire et goûter, en profitant des conseils de votre guide local.",
+      "info": "Portez des vêtements adaptés aux lieux de culte que vous allez visiter. La visite se fera en train ou en bus, en fonction des escales.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=151079116&ICode=03QY&date=2025-05-29&previousCategory=true"
     },
     {
+      "index": "12",
       "image": "/Assets/etapes/civitavecchia/excursion/12.jpg",
-      "name": "",
-      "time": "",
-      "price": "",
-      "horaire": "",
-      "text": "",
-      "plus": "",
-      "info": "",
-      "lien": ""
+      "name": "rome pour toute la famille entre temples et mythes",
+      "time": "9h",
+      "price": "59€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "Une expérience dans la capitale qui plaira aux petits et aux grands: une promenade à travers les monuments de la ville des empereurs, du Circus Maximus au Forum romain, au milieu des histoires, des mythes et des légendes de la Rome antique. Temps libre dans le guetto juif pour un déjeuner en famille et de nombreuses photos devant le Colisée.",
+      "plus": "La promenade commence au Circus Maximus. L’étape suivante est la Bouche de la Vérité. Devant le temple d’Hercule et de Portunus, le véritable voyage dans le temps commence, parmi les histoires et légendes de la Rome antique. Montez la Cordonata, l’escalier qui mène du théâtre de Marcellus à la Piazza del Campidoglio. Ensuite, tout le monde se rend au Forum romain et à la Piazza Venezia. C’est la famille qui décide de ce que l’on va manger, entre les restaurants typiques et la nourriture de rue du ghetto juif. Mais on ne peut pas dire que l’on a visité Rome sans avoir jeté un coup d'œil au Colisée. Enfin, un délicieux goûter pour les petits, c’est ce qu’il vous faut. Et puis la surprise du grand final: un “ami spécial” vous accueille et vous attend pour une dernière photo.",
+      "info": "Visite panoramique en bus du Circus Maximus. Ghetto juif: temps libre pour le déjeuner. Collation pour les enfants et temps libre au Colisée.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=285612620&ICode=04HI&date=2025-05-29&previousCategory=true"
+    },
+    {
+      "index": "13",
+      "image": "/Assets/etapes/civitavecchia/excursion/13.jpg",
+      "name": "rome la reine des eaux",
+      "time": "9h",
+      "price": "99€ par adulte",
+      "horaire": "L'heure de départ sera communiquée à bord",
+      "text": "Tous les chemins mènent à Rome, mais seulement l’un d’entre eux reste invisible pour la plupart des gens: elle est faite d’eau et s’écoule depuis toujours sous la ville. En suivant son écoulement éternel, vous découvrirez les lieux les plus magnifiques et emblématiques de Rome: la Place d’Espagne, la Fontaine de Trevi, le Panthéon, la place Navone, le Tibre et Saint Pierre. Voilà ce qui fait de Rome une véritable Reine des Eaux.",
+      "plus": "En dessous de Rome se trouve un monde secret et fascinant qui ne monte à la surface que de temps en temps: il s’agit des eaux souterraines qui s’écoulent dans des aqueducs. Lorsque l’eau monte à la surface, il y a toujours quelque chose à voir et souvent une histoire ou une légende inoubliable. Depuis la Barcaccia de la Place d’Espagne jusqu’au trou de 9 mètres sur le toit du Panthéon dont on dit qu’il n’y pleut pas, de la fontaine de la Place Navone, qui nourrit à l’époque la rivalité entre le Bernin et Borromini, jusqu’à la Place Saint Pierre, où naquit un fameux dicton italien, en passant par le Pont Saint-Ange et le Tibre, cette excursion vous permettra de découvrir un aspect de Rome que la plupart des gens ignorent mais pas notre guide local. Et pour finir en beauté, arrêtez-vous devant la plus célèbre de toutes: la fontaine de Trevi.",
+      "info": "Place d'Espagne. Fontaine de Trevi: temps libre. Le Panthéon: visite externe. Place Navone. Pont Saint-Ange et le Tibre. Place Saint Pierre et la Basilique: visite externe. Temps libre pour déjeuner.",
+      "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=262547286&ICode=04AL&date=2025-05-29&previousCategory=true"
     }
   ]
 }
