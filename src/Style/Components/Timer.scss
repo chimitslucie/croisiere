@@ -1,0 +1,51 @@
+.timer-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #003366;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.hidden {
+    opacity: 0;
+    transform: translateY(100%);
+    pointer-events: none;
+}
+
+.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.timer h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.time-box {
+    background: #0055aa;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.time-box span {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.time-box p {
+    font-size: 12px;
+    margin: 0;
+}

@@ -2,6 +2,7 @@ import Hero from "../Components/hero";
 import Title from "../Components/Title";
 import datas from "../Data/data.json";
 import SliderSteps from "../Components/sliderSteps";
+import Timer from "../Components/Timer";
 
 function HomePage() {
     return (
@@ -40,10 +41,10 @@ function HomePage() {
                                 <img className="img" src={animation.image} />
                             </div>
                         ))}
-
                     </div>
                 </div>
             </section>
+            <Timer />
         </div>
     )
 }
