@@ -5,6 +5,8 @@ import datas from "../Data/data.json";
 import Card from "../Components/Card";
 import Slider from "react-slick";
 import SliderRestaurant from "../Components/SliderRestaurant";
+import diaro from "../Assets/Img/bateau/diaro-di-bordo.jpg";
+import tarif from "../Assets/Img/bateau/tarifs.jpg";
 
 function Bateau() {
 
@@ -45,7 +47,9 @@ function Bateau() {
             <div className="information">
                 <div className="container">
                     <p className="informationText textSecondary">
-                        Information: un sèche cheveux est fourni dans chaque cabine.
+                        Information : les appareils chauffant de type fer à repasser, les appareils chauffant de coiffure (lisseur, sèche-cheveux,
+                        fer à boucler) sont interdits à bord. Dans chaque cabine, le linge de lit, serviette de bain, serviettes de plage et sèche-cheveux
+                        sont fournis.
                     </p>
                 </div>
             </div>
@@ -110,6 +114,35 @@ function Bateau() {
                                 </div>
                             ))}
                         </Slider>
+                    </div>
+                </div>
+            </section>
+            <section className="cabin">
+                <div className="container">
+                    <Title title="services dans les cabines" />
+                    <div className="cabinContent">
+                        <div className="card">
+                            <img src={diaro} alt="photo d'une page d'un journal" />
+                            <div className="cardContent">
+                                <h3 className="textUppercase textDarkblue textBold">diaro di bordo</h3>
+                                <p className="textSecondary textSemibold">
+                                    Journal de bord distribué tous les soirs en cabine. Il contient toutes les informations nécessaires sur les activités
+                                    des jours suivants, les ports d'escales, les excursions disponibles, ainsi que les horaires des restaurants et de
+                                    nombreuses autres informations utiles.
+                                </p>
+                            </div>
+                        </div>
+                        <div className="card">
+                            <img src={tarif} alt="grille de tarifs" />
+                            <div className="cardContent">
+                                <h3 className="textUppercase textDarkblue textBold">service de blanchisserie</h3>
+                                <p className="textSecondary textSemibold">
+                                    Pour faire nettoyer un vêtement, il vous suffit de remplir le formulaire et de mettre les vêtements dans le sac prévu.
+                                    Le cabinier l’amènera au Service Blanchisserie et vous le récupérerez dans la journée (si donner le matin) ou le
+                                    lendemain (si donner le soir).
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>

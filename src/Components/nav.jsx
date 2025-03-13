@@ -59,7 +59,7 @@ function Nav() {
                                 </Link>
                             </li>
                             <li className="subnavItem">
-                                <Link to={"/Gênes"} className="subnavLink  textUppercase textBold">
+                                <Link to={"/Genes"} className="subnavLink  textUppercase textBold">
                                     Gênes
                                 </Link>
                             </li>
