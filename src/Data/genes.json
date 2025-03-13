@@ -1,5 +1,5 @@
 {
-  "voir": [
+  "voirs": [
     {
       "image": "/Assets/etapes/genes/voir/1.jpg",
       "name": "Acquario di Genova",
@@ -105,7 +105,7 @@
       "lien": "https://www.visitgenoa.it/fr/node/4087"
     }
   ],
-  "excursion": [
+  "excursions": [
     {
       "image": "/Assets/etapes/genes/excursion/1.jpg",
       "name": "adrénaline à l’état pur au parc d’aventure de gènes",

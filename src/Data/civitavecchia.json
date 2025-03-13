@@ -1,5 +1,5 @@
 {
-  "voir": [
+  "voirs": [
     {
       "image": "/Assets/etapes/civitavecchia/voir/1.jpg",
       "name": "Colisée et Forum Romain",
@@ -168,7 +168,7 @@
       "lien": "https://www.tripadvisor.fr/Attraction_Review-g230071-d6739306-Reviews-Piazza_Aurelio_Saffi-Forli_Province_of_Forli_Cesena_Emilia_Romagna.html"
     }
   ],
-  "excursion": [
+  "excursions": [
     {
       "image": "/Assets/etapes/civitavecchia/excursion/1.jpg",
       "name": "à rome avec Costa GoRound (en train respectueux de l’environnement) 1 billet pour le centre ville",

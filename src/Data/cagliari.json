@@ -1,5 +1,5 @@
 {
-  "voir": [
+  "voirs": [
     {
       "image": "/Assets/etapes/cagliari/voir/1.jpg",
       "name": "Bastione di Saint Remy",
@@ -81,7 +81,7 @@
       "lien": "https://bonaria.eu/"
     }
   ],
-  "excursion": [
+  "excursions": [
     {
       "image": "/Assets/etapes/cagliari/excursion/1.jpg",
       "name": "Cagliari, entre histoires anciennes et marins",

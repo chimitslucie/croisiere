@@ -1,5 +1,5 @@
 {
-  "voir": [
+  "voirs": [
     {
       "image": "/Assets/etapes/naples/voir/1.jpg",
       "name": "Centre historique de Naples",
@@ -121,7 +121,7 @@
       "lien": "https://visitercapri.it/ https://www.naples.fr/capri#:~:text=La%20liaison%20par%20ferry%20entre,la%20journ%C3%A9e%20et%20la%20compagnie). https://www.directferries.fr/naples_capri_ferry.htm#:~:text=Sur%20la%20route%20Naples%20%E2%80%93%20Capri,Capri%20est%20de%2056%20minutes."
     }
   ],
-  "excursion": [
+  "excursions": [
     {
       "image": "/Assets/etapes/naples/excursion/1.jpg",
       "name": "anacapri et capri, entre art et jet-set",
