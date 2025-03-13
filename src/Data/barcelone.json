@@ -1,7 +1,7 @@
 {
   "voirs": [
     {
-      "image": "/Assets/etapes/barcelone/voir/1.jpg",
+      "image": "Assets/etapes/barcelone/voir/1.jpg",
       "name": "sagrada familia",
       "price": "Entrée générale: 26€, entrée avec visite guidée: 30€, entrée avec accès aux tours: 40€",
       "temps": "de 28min en voiture, 45min en transport, 2h45 à pieds",
@@ -9,7 +9,7 @@
       "lien": "https://sagradafamilia.org/"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/2.jpg",
+      "image": "Assets/etapes/barcelone/voir/2.jpg",
       "name": "parc güell",
       "price": "Entrée: 18€",
       "temps": "de 29min en voiture, 1h12 en transport, 2h11 à pieds",
@@ -17,7 +17,7 @@
       "lien": "https://parkguell.barcelona/"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/3.jpg",
+      "image": "Assets/etapes/barcelone/voir/3.jpg",
       "name": "casa batlló",
       "price": "Entrée environ 25€ ",
       "temps": "de 21min en voiture, 48min en transport, 1h21 à pieds",
@@ -25,7 +25,7 @@
       "lien": "https://www.casabatllo.es/"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/4.jpg",
+      "image": "Assets/etapes/barcelone/voir/4.jpg",
       "name": "casa milà",
       "price": "Entrée 29€",
       "temps": "de 23min en voiture, 53min en transport, 1h29 à pieds",
@@ -33,7 +33,7 @@
       "lien": "https://www.lapedrera.com/fr"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/5.jpg",
+      "image": "Assets/etapes/barcelone/voir/5.jpg",
       "name": "cathédrale de barcelone",
       "price": "Entrée 14€",
       "temps": "de 24min en voiture, 52min en transport, 1h7 à pieds",
@@ -41,7 +41,7 @@
       "lien": "https://catedralbcn.org/"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/6.jpg",
+      "image": "Assets/etapes/barcelone/voir/6.jpg",
       "name": "Barri Gòtic",
       "price": "Accès libre",
       "temps": "de 21min en voiture, 48min en transport, 1h2 à pieds",
@@ -49,7 +49,7 @@
       "lien": "https://barcelonesite.fr/barri-gotic.html"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/7.jpg",
+      "image": "Assets/etapes/barcelone/voir/7.jpg",
       "name": "Palais de la Musique Catalane",
       "price": "Entrée 18€, avec guide audio ou guide 22€",
       "temps": "de 22min en voiture, 55min en transport, 1h12 à pieds",
@@ -57,7 +57,7 @@
       "lien": "https://www.palaumusica.cat/ca"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/8.jpg",
+      "image": "Assets/etapes/barcelone/voir/8.jpg",
       "name": "La Rambla",
       "price": "Accès libre",
       "temps": "de 17min en voiture, 46min en transport, 1h8 à pieds",
@@ -65,7 +65,7 @@
       "lien": "https://barcelonesite.fr/ramblas.html"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/9.jpg",
+      "image": "Assets/etapes/barcelone/voir/9.jpg",
       "name": "Marché de la Boqueria",
       "price": "Accès libre",
       "temps": "de 14min en voiture, 47min en transport, 1h2 à pieds",
@@ -73,7 +73,7 @@
       "lien": "https://www.barcelona-tourist-guide.com/fr/attractions/marche-boqueria-la-rambla-dans-barcelone.html"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/10.jpg",
+      "image": "Assets/etapes/barcelone/voir/10.jpg",
       "name": "Le Port Vell et la Barceloneta",
       "price": "Accès libre",
       "temps": "de 12min en voiture, 51min en transport, 1h13 à pieds",
@@ -81,7 +81,7 @@
       "lien": "https://barcelonesite.fr/port-vell.html"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/11.jpg",
+      "image": "Assets/etapes/barcelone/voir/11.jpg",
       "name": "Passeig de Gràcia",
       "price": "Accès libre",
       "temps": "de 19min en voiture, 49min en transport, 1h13 à pieds",
@@ -89,7 +89,7 @@
       "lien": "https://barcelonesite.fr/passeigdegracia.html"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/12.jpg",
+      "image": "Assets/etapes/barcelone/voir/12.jpg",
       "name": "El Born",
       "price": "Accès libre",
       "temps": "de 12min en voiture, 47min en transport, 1h6 à pieds",
@@ -97,7 +97,7 @@
       "lien": "https://www.spain.info/fr/curiosites/quartier-el-born/"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/13.jpg",
+      "image": "Assets/etapes/barcelone/voir/13.jpg",
       "name": "Marchés artisanaux",
       "price": "Accès libre",
       "temps": "de 13min en voiture, 49min en transport, 1h5 à pieds",
@@ -105,7 +105,7 @@
       "lien": "https://www.meet.barcelona/es/visitala-y-amala/los-mercados/mercados-en-la-calle"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/14.jpg",
+      "image": "Assets/etapes/barcelone/voir/14.jpg",
       "name": "Musée de Picasso",
       "price": "Entrée 12€",
       "temps": "de 17min en voiture, 52min en transport, 1h9 à pieds",
@@ -113,7 +113,7 @@
       "lien": "https://museupicassobcn.cat/en"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/15.jpg",
+      "image": "Assets/etapes/barcelone/voir/15.jpg",
       "name": "Musée National d’Art de Catalogne",
       "price": "Entrée 12€",
       "temps": "de 14min en voiture, 1h4 en transport, 1h20 à pieds",
@@ -121,7 +121,7 @@
       "lien": "https://www.museunacional.cat/en/node/61802"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/16.jpg",
+      "image": "Assets/etapes/barcelone/voir/16.jpg",
       "name": "Fundació Joan Miró",
       "price": "Entrée 15€",
       "temps": "de 13min en voiture, 59min en transport, 1h13 à pieds",
@@ -129,7 +129,7 @@
       "lien": "https://www.fmirobcn.org/en/"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/17.jpg",
+      "image": "Assets/etapes/barcelone/voir/17.jpg",
       "name": "Bunkers del Carmel",
       "price": "Accès libre",
       "temps": "de 35min en voiture, 1h26 en transport, 2h32 à pieds",
@@ -137,7 +137,7 @@
       "lien": "https://barcelonesite.fr/bunkers-del-carmel.html"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/18.jpg",
+      "image": "Assets/etapes/barcelone/voir/18.jpg",
       "name": "Montjuïc",
       "price": "Château de Montjuic accès libre le dimanche à partir de 15h",
       "temps": "de 15min en voiture, 1h11 en transport, 1h23 à pieds",
@@ -145,7 +145,7 @@
       "lien": "https://barcelonesite.fr/montjuic.html"
     },
     {
-      "image": "/Assets/etapes/barcelone/voir/19.jpg",
+      "image": "Assets/etapes/barcelone/voir/19.jpg",
       "name": "teleferic de montjuic",
       "price": "Entrée 17€",
       "temps": "de 17min en voiture, 48min en transport, 1h14 à pieds",
@@ -155,7 +155,7 @@
   ],
   "excursions": [
     {
-      "image": "/Assets/etapes/barcelone/excursion/1.jpg",
+      "image": "Assets/etapes/barcelone/excursion/1.jpg",
       "name": "costa goround, 1 billet pour le centre ville",
       "time": "8h",
       "price": "13€ par adulte",
@@ -165,7 +165,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=325960826&ICode=04Q5&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/2.jpg",
+      "image": "Assets/etapes/barcelone/excursion/2.jpg",
       "name": "costa goround, 1 billet multi-arrêt",
       "time": "8h",
       "price": "21€ par adulte",
@@ -175,7 +175,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=325960827&ICode=04Q6&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/3.jpg",
+      "image": "Assets/etapes/barcelone/excursion/3.jpg",
       "name": "Costa GoRound, 1 billet multi-arrêt + entré à la casa milà",
       "time": "8h",
       "price": "59€ par adulte",
@@ -185,7 +185,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=325960836&ICode=04Q7&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/4.jpg",
+      "image": "Assets/etapes/barcelone/excursion/4.jpg",
       "name": "Barcelone au rythme du flamenco",
       "time": "4h",
       "price": "85€ par adulte",
@@ -195,7 +195,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=2187853&ICode=0758&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/5.jpg",
+      "image": "Assets/etapes/barcelone/excursion/5.jpg",
       "name": "Barcelone en un clic",
       "time": "3.5h",
       "price": "49€ par adulte",
@@ -205,7 +205,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=18616092&ICode=0765&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/6.jpg",
+      "image": "Assets/etapes/barcelone/excursion/6.jpg",
       "name": "Barcelone en vélo électrique",
       "time": "3.5h",
       "price": "85€ par adulte",
@@ -215,7 +215,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=21072048&ICode=0518&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/7.jpg",
+      "image": "Assets/etapes/barcelone/excursion/7.jpg",
       "name": "Barcelone et le barrio gotico",
       "time": "4h",
       "price": "49€ par adulte",
@@ -225,7 +225,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=36158043&ICode=00FW&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/8.jpg",
+      "image": "Assets/etapes/barcelone/excursion/8.jpg",
       "name": "Barcelone et montserrat: entre brouhaha et silence",
       "time": "8h",
       "price": "89€ par adulte",
@@ -235,7 +235,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=2178895&ICode=0525&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/9.jpg",
+      "image": "Assets/etapes/barcelone/excursion/9.jpg",
       "name": "Barcelone la douce en famille: quartier gothique et nougats.",
       "time": "3h",
       "price": "52€ par adulte",
@@ -245,7 +245,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=289991616&ICode=04JW&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/10.jpg",
+      "image": "Assets/etapes/barcelone/excursion/10.jpg",
       "name": "La Barcelone de Gaudì",
       "time": "5h",
       "price": "99€ par adulte",
@@ -255,7 +255,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=2185987&ICode=0523&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/11.jpg",
+      "image": "Assets/etapes/barcelone/excursion/11.jpg",
       "name": "la légendaire barcelone",
       "time": "4h",
       "price": "69€ par adulte",
@@ -265,7 +265,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=262547240&ICode=04AG&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/12.jpg",
+      "image": "Assets/etapes/barcelone/excursion/12.jpg",
       "name": "La nature se transforme en art dans la barcelone de Gaudì",
       "time": "4h",
       "price": "99€ par adulte",
@@ -275,7 +275,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=31375263&ICode=0658&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/13.jpg",
+      "image": "Assets/etapes/barcelone/excursion/13.jpg",
       "name": "La sagrada familia, symbole de la ville",
       "time": "2h",
       "price": "45€ par adulte",
@@ -285,7 +285,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=261361580&ICode=048Z&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/14.jpg",
+      "image": "Assets/etapes/barcelone/excursion/14.jpg",
       "name": "Les mille visages de barcelone",
       "time": "4.5h",
       "price": "75€ par adulte",
@@ -295,7 +295,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=262547234&ICode=04AF&date=2025-05-25&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/barcelone/excursion/15.jpg",
+      "image": "Assets/etapes/barcelone/excursion/15.jpg",
       "name": "Plage et tapas: la barceloneta en liberté",
       "time": "4h",
       "price": "39€ par adulte",

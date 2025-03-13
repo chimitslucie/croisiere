@@ -1,7 +1,7 @@
 {
   "voirs": [
     {
-      "image": "/Assets/etapes/genes/voir/1.jpg",
+      "image": "Assets/etapes/genes/voir/1.jpg",
       "name": "Acquario di Genova",
       "price": "Entrée 26€",
       "temps": "de 3min en voiture, 9min en transport, 19min à pieds",
@@ -9,7 +9,7 @@
       "lien": "https://www.acquariodigenova.it/"
     },
     {
-      "image": "/Assets/etapes/genes/voir/2.jpg",
+      "image": "Assets/etapes/genes/voir/2.jpg",
       "name": "Centre historique de Gênes",
       "price": "Accès libre",
       "temps": "de 3min en voiture, 8min en transport, 14min à pieds",
@@ -17,7 +17,7 @@
       "lien": "https://www.vanupied.com/genes/quartiers-genes/vieille-ville-de-genes-centre.html"
     },
     {
-      "image": "/Assets/etapes/genes/voir/3.jpg",
+      "image": "Assets/etapes/genes/voir/3.jpg",
       "name": "via Garibaldi",
       "price": "Accès libre",
       "temps": "de 11min en voiture, 15min en transport, 20min à pieds",
@@ -25,7 +25,7 @@
       "lien": "https://www.genoa.in/fr/g%C3%AAnes/que-voir/details/via-garibaldi"
     },
     {
-      "image": "/Assets/etapes/genes/voir/4.jpg",
+      "image": "Assets/etapes/genes/voir/4.jpg",
       "name": "Cattedrale di San Lorenzo",
       "price": "Accès libre",
       "temps": "de 7min en voiture, 11min en transport, 22min à pieds",
@@ -33,7 +33,7 @@
       "lien": "https://www.vanupied.com/genes/monuments-genes/cathedrale-san-lorenzo-a-genes-elegant-mariage-des-styles-vieille-ville.html"
     },
     {
-      "image": "/Assets/etapes/genes/voir/5.jpg",
+      "image": "Assets/etapes/genes/voir/5.jpg",
       "name": "Piazza De Ferrari",
       "price": "Accès libre",
       "temps": "de 10min en voiture, 11min en transport, 25min à pieds",
@@ -41,7 +41,7 @@
       "lien": "https://www.vanupied.com/genes/monuments-genes/piazza-de-ferrari-monumentale-place-de-genes-san-vincenzo.html"
     },
     {
-      "image": "/Assets/etapes/genes/voir/6.jpg",
+      "image": "Assets/etapes/genes/voir/6.jpg",
       "name": "Bigo - Ascenseur panoramique",
       "price": "Entrée 6€",
       "temps": "de 7min en voiture, 9min en transport, 19min à pieds",
@@ -49,7 +49,7 @@
       "lien": "https://www.acquariodigenova.it/biglietti"
     },
     {
-      "image": "/Assets/etapes/genes/voir/7.jpg",
+      "image": "Assets/etapes/genes/voir/7.jpg",
       "name": "Musée de la Mer Galata (Galata Museo del Mare)",
       "price": "Entrée 17€",
       "temps": "de 2min en voiture, 7min à pieds",
@@ -57,7 +57,7 @@
       "lien": "https://www.galatamuseodelmare.it/en"
     },
     {
-      "image": "/Assets/etapes/genes/voir/8.jpg",
+      "image": "Assets/etapes/genes/voir/8.jpg",
       "name": "Palazzo Ducale",
       "price": "Tarif variable en fonction des expositions en cours",
       "temps": "de 10min en voiture, 13min en transport, 24min à pieds",
@@ -65,7 +65,7 @@
       "lien": "https://palazzoducale.genova.it/"
     },
     {
-      "image": "/Assets/etapes/genes/voir/9.jpg",
+      "image": "Assets/etapes/genes/voir/9.jpg",
       "name": "Boccadasse",
       "price": "Accès libre",
       "temps": "de 18min en voiture, 38min en transport, 1h24 à pieds",
@@ -73,7 +73,7 @@
       "lien": "https://www.vanupied.com/genes/quartiers-genes/quartier-de-boccadasse-a-genes-village-de-pecheurs-aux-couleurs-pastels.html"
     },
     {
-      "image": "/Assets/etapes/genes/voir/10.jpg",
+      "image": "Assets/etapes/genes/voir/10.jpg",
       "name": "Phare de Gênes (la Lanterna)",
       "price": "Tarif variable",
       "temps": "de 8min en voiture, 25min en transport, 30min à pieds",
@@ -81,7 +81,7 @@
       "lien": "https://www.lanternadigenova.com/"
     },
     {
-      "image": "/Assets/etapes/genes/voir/11.jpg",
+      "image": "Assets/etapes/genes/voir/11.jpg",
       "name": "Castello D'Albertis",
       "price": "Entrée 6€",
       "temps": "de 15min en voiture, 19min à pieds",
@@ -89,7 +89,7 @@
       "lien": "https://www.museidigenova.it/it/castello-dalbertis-museo-delle-culture-del-mondo"
     },
     {
-      "image": "/Assets/etapes/genes/voir/12.jpg",
+      "image": "Assets/etapes/genes/voir/12.jpg",
       "name": "Palais royal de Gênes",
       "price": "Entrée 4€",
       "temps": "de 9min en voiture, 11min à pieds",
@@ -97,7 +97,7 @@
       "lien": "https://www.genes-tourisme.com/palais-royal-genes/"
     },
     {
-      "image": "/Assets/etapes/genes/voir/13.jpg",
+      "image": "Assets/etapes/genes/voir/13.jpg",
       "name": "Spianata Castelletto",
       "price": "Accès libre",
       "temps": "de 12min en voiture, 18min en transport, 23min à pieds",
@@ -107,7 +107,7 @@
   ],
   "excursions": [
     {
-      "image": "/Assets/etapes/genes/excursion/1.jpg",
+      "image": "Assets/etapes/genes/excursion/1.jpg",
       "name": "adrénaline à l’état pur au parc d’aventure de gènes",
       "time": "4h",
       "price": "52€ par adulte",
@@ -117,7 +117,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=285612601&ICode=04HF&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/2.jpg",
+      "image": "Assets/etapes/genes/excursion/2.jpg",
       "name": "cours de cuisine pour apprendre à faire le pesto dans le restaurant des stars",
       "time": "3h",
       "price": "79€ par adulte",
@@ -127,7 +127,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=234360691&ICode=042R&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/3.jpg",
+      "image": "Assets/etapes/genes/excursion/3.jpg",
       "name": "découvrez milan à votre façon",
       "time": "8h",
       "price": "55€ par adulte",
@@ -137,7 +137,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=234360647&ICode=042Q&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/4.jpg",
+      "image": "Assets/etapes/genes/excursion/4.jpg",
       "name": "en vtt électrique sur les sentier des forts de gênes",
       "time": "4.5h",
       "price": "99€ par adulte",
@@ -147,7 +147,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=179433732&ICode=03SM&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/5.jpg",
+      "image": "Assets/etapes/genes/excursion/5.jpg",
       "name": "Gênes de vrai génois",
       "time": "7.5h",
       "price": "99€ par adulte",
@@ -157,7 +157,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=89790291&ICode=02QW&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/6.jpg",
+      "image": "Assets/etapes/genes/excursion/6.jpg",
       "name": "Gênes en e-bike pour grands et petits",
       "time": "4.5h",
       "price": "85€ par adulte",
@@ -167,7 +167,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=50237407&ICode=01HZ&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/7.jpg",
+      "image": "Assets/etapes/genes/excursion/7.jpg",
       "name": "Gênes en segway",
       "time": "2h",
       "price": "85€ par adulte",
@@ -177,7 +177,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=89790803&ICode=02QY&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/8.jpg",
+      "image": "Assets/etapes/genes/excursion/8.jpg",
       "name": "Gênes et ses ateliers artisanaux historiques",
       "time": "3.5h",
       "price": "45€ par adulte",
@@ -187,7 +187,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=266997392&ICode=04C3&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/9.jpg",
+      "image": "Assets/etapes/genes/excursion/9.jpg",
       "name": "Gênes panoramique",
       "time": "4h",
       "price": "55€ par adulte",
@@ -197,7 +197,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=96869329&ICode=031N&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/10.jpg",
+      "image": "Assets/etapes/genes/excursion/10.jpg",
       "name": "Gênes parmi les fantômes",
       "time": "4h",
       "price": "65€ par adulte",
@@ -207,7 +207,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=266997398&ICode=04C4&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/11.jpg",
+      "image": "Assets/etapes/genes/excursion/11.jpg",
       "name": "Gênes, république maritime",
       "time": "5h",
       "price": "59€ par adulte",
@@ -217,7 +217,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=181244903&ICode=03SR&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/12.jpg",
+      "image": "Assets/etapes/genes/excursion/12.jpg",
       "name": "journée en zodiac dans les paradis de la ligurie",
       "time": "7.5h",
       "price": "159€ par adulte",
@@ -227,7 +227,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=287381962&ICode=04IM&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/13.jpg",
+      "image": "Assets/etapes/genes/excursion/13.jpg",
       "name": "la saveur de la Gênes antique et strada nuova",
       "time": "4h",
       "price": "79€ par adulte",
@@ -237,7 +237,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=266997403&ICode=04C5&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/14.jpg",
+      "image": "Assets/etapes/genes/excursion/14.jpg",
       "name": "le domaine la scolca, entre tradition et innovation vitivinicole",
       "time": "6h",
       "price": "119€ par adulte",
@@ -247,7 +247,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=225081723&ICode=040P&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/15.jpg",
+      "image": "Assets/etapes/genes/excursion/15.jpg",
       "name": "ligurie style dolce vita en zodiac vers punta chiappa",
       "time": "4h",
       "price": "115€ par adulte",
@@ -257,7 +257,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=230972559&ICode=042F&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/16.jpg",
+      "image": "Assets/etapes/genes/excursion/16.jpg",
       "name": "parmi les sons et les lieux de fabrizio de andré",
       "time": "2h",
       "price": "19€ par adulte",
@@ -267,7 +267,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=268143941&ICode=04CW&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/17.jpg",
+      "image": "Assets/etapes/genes/excursion/17.jpg",
       "name": "portofino et camogli: entre jet-set et dolce vita",
       "time": "7h",
       "price": "99€ par adulte",
@@ -277,7 +277,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=95950479&ICode=02ZW&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/18.jpg",
+      "image": "Assets/etapes/genes/excursion/18.jpg",
       "name": "toutes les mers du monde dans l’aquarium de Gênes",
       "time": "3.5h",
       "price": "59€ par adulte",
@@ -287,7 +287,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=2181076&ICode=0174&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/19.jpg",
+      "image": "Assets/etapes/genes/excursion/19.jpg",
       "name": "trekking sur les forts",
       "time": "5h",
       "price": "65€ par adulte",
@@ -297,7 +297,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=89795124&ICode=02R3&date=2025-05-30&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/genes/excursion/20.jpg",
+      "image": "Assets/etapes/genes/excursion/20.jpg",
       "name": "voyage dans le système solaire pour grands et petits",
       "time": "4h",
       "price": "59€ par adulte",

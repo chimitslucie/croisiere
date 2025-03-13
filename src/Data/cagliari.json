@@ -1,7 +1,7 @@
 {
   "voirs": [
     {
-      "image": "/Assets/etapes/cagliari/voir/1.jpg",
+      "image": "Assets/etapes/cagliari/voir/1.jpg",
       "name": "Bastione di Saint Remy",
       "price": "Promenade couverte entière + tunnel éperon à partir de 3€",
       "temps": "de 13min en voiture, 27min en transport, 29min à pieds",
@@ -9,7 +9,7 @@
       "lien": "https://cagliariturismo.comune.cagliari.it/it/vivicagliari/bastione-di-saint-remy"
     },
     {
-      "image": "/Assets/etapes/cagliari/voir/2.jpg",
+      "image": "Assets/etapes/cagliari/voir/2.jpg",
       "name": "Castello (vieille ville médiévale)",
       "price": "Accès libre",
       "temps": "de 14min en voiture, 27min en transport, 33min à pieds",
@@ -17,7 +17,7 @@
       "lien": "https://cagliariturismo.comune.cagliari.it/"
     },
     {
-      "image": "/Assets/etapes/cagliari/voir/3.jpg",
+      "image": "Assets/etapes/cagliari/voir/3.jpg",
       "name": "Cathédrale de Santa Maria",
       "price": "Accès libre",
       "temps": "de 14min en voiture, 27min en transport, 35min à pieds",
@@ -25,7 +25,7 @@
       "lien": "https://www.duomodicagliari.it/fr/l-histoire.php"
     },
     {
-      "image": "/Assets/etapes/cagliari/voir/4.jpg",
+      "image": "Assets/etapes/cagliari/voir/4.jpg",
       "name": "Musée Archéologique National",
       "price": "Entrée 10€",
       "temps": "de 12min en voiture, 27min en transport, 39min à pieds",
@@ -33,7 +33,7 @@
       "lien": "https://museinazionalicagliari.cultura.gov.it/"
     },
     {
-      "image": "/Assets/etapes/cagliari/voir/5.jpg",
+      "image": "Assets/etapes/cagliari/voir/5.jpg",
       "name": "Torre dell’Elefante",
       "price": "Entrée 3€",
       "temps": "de 12min en voiture, 27min en transport, 30min à pieds",
@@ -41,7 +41,7 @@
       "lien": "https://www.comune.cagliari.it/portale/page/it/torre_dellelefante"
     },
     {
-      "image": "/Assets/etapes/cagliari/voir/6.jpg",
+      "image": "Assets/etapes/cagliari/voir/6.jpg",
       "name": "Monte Urpinu",
       "price": "Accès libre",
       "temps": "de 14min en voiture, 43min en transport, 56min à pieds",
@@ -49,7 +49,7 @@
       "lien": "https://www.comune.cagliari.it/portale/page/it/parco_di_monte_urpinu?contentId=LGO12343"
     },
     {
-      "image": "/Assets/etapes/cagliari/voir/7.jpg",
+      "image": "Assets/etapes/cagliari/voir/7.jpg",
       "name": "Poetto Beach",
       "price": "Accès libre",
       "temps": "de 16min en voiture, 49min en transport, 1h59 à pieds",
@@ -57,7 +57,7 @@
       "lien": "https://www.tourismesardaigne.fr/plage-de-poetto/"
     },
     {
-      "image": "/Assets/etapes/cagliari/voir/8.jpg",
+      "image": "Assets/etapes/cagliari/voir/8.jpg",
       "name": "Parc naturel de Molentargius",
       "price": "Accès libre",
       "temps": "de 10min en voiture, 41min en transport, 1h12 à pieds",
@@ -65,7 +65,7 @@
       "lien": "https://www.sardegnaturismo.it/fr/explorer/le-parc-de-molentargius-saline"
     },
     {
-      "image": "/Assets/etapes/cagliari/voir/9.jpg",
+      "image": "Assets/etapes/cagliari/voir/9.jpg",
       "name": "Marché de San Benedetto",
       "price": "Accès libre",
       "temps": "de 14min en voiture, 30min en transport, 43min à pieds",
@@ -73,7 +73,7 @@
       "lien": "https://www.arrivalguides.com/fr/Travelguide/CAGLIARI/shopping/marche-de-san-benedetto-120012"
     },
     {
-      "image": "/Assets/etapes/cagliari/voir/10.jpg",
+      "image": "Assets/etapes/cagliari/voir/10.jpg",
       "name": "Basilica et Santuario di Nostra Signora di Bonaria",
       "price": "Accès libre",
       "temps": "de 10min en voiture, 28min en transport, 39min à pieds",
@@ -83,7 +83,7 @@
   ],
   "excursions": [
     {
-      "image": "/Assets/etapes/cagliari/excursion/1.jpg",
+      "image": "Assets/etapes/cagliari/excursion/1.jpg",
       "name": "Cagliari, entre histoires anciennes et marins",
       "time": "4h",
       "price": "65€ par adulte",
@@ -93,7 +93,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=2178952&ICode=0132&date=2025-05-27&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/cagliari/excursion/2.jpg",
+      "image": "Assets/etapes/cagliari/excursion/2.jpg",
       "name": "Enfants à la recherche de trésors dans l’oasis WWF",
       "time": "5.5h",
       "price": "89€ par adulte",
@@ -103,7 +103,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=293593618&ICode=04KB&date=2025-05-27&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/cagliari/excursion/3.jpg",
+      "image": "Assets/etapes/cagliari/excursion/3.jpg",
       "name": "l’imposant bastion saint-rémy",
       "time": "2h",
       "price": "19€ par adulte",
@@ -113,7 +113,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=267803937&ICode=04CT&date=2025-05-27&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/cagliari/excursion/4.jpg",
+      "image": "Assets/etapes/cagliari/excursion/4.jpg",
       "name": "la nécropole de tuvixeddu",
       "time": "2h",
       "price": "19€ par adulte",
@@ -123,7 +123,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=267803943&ICode=04CV&date=2025-05-27&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/cagliari/excursion/5.jpg",
+      "image": "Assets/etapes/cagliari/excursion/5.jpg",
       "name": "la sardaigne de gozzo: plages cachées et recoins azurs",
       "time": "3.5h",
       "price": "109€ par adulte",
@@ -133,7 +133,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=76999760&ICode=02EC&date=2025-05-27&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/cagliari/excursion/6.jpg",
+      "image": "Assets/etapes/cagliari/excursion/6.jpg",
       "name": "Nager et bains de soleil en famille au poetto",
       "time": "5h",
       "price": "69€ par adulte",
@@ -143,7 +143,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=228742868&ICode=041L&date=2025-05-27&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/cagliari/excursion/7.jpg",
+      "image": "Assets/etapes/cagliari/excursion/7.jpg",
       "name": "oliveraies, art et vignobles",
       "time": "5h",
       "price": "75€ par adulte",
@@ -153,7 +153,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=18625697&ICode=0137&date=2025-05-27&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/cagliari/excursion/8.jpg",
+      "image": "Assets/etapes/cagliari/excursion/8.jpg",
       "name": "panoramas de cagliari",
       "time": "2.5h",
       "price": "49€ par adulte",
@@ -163,7 +163,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=47335543&ICode=018H&date=2025-05-27&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/cagliari/excursion/9.jpg",
+      "image": "Assets/etapes/cagliari/excursion/9.jpg",
       "name": "sardaigne en canot pneumatique entre grottes et criques",
       "time": "3h",
       "price": "85€ par adulte",
@@ -173,7 +173,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=227154301&ICode=041B&date=2025-05-27&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/cagliari/excursion/10.jpg",
+      "image": "Assets/etapes/cagliari/excursion/10.jpg",
       "name": "sur la crête des vagues à la plage du poetto",
       "time": "5h",
       "price": "85€ par adulte",
@@ -183,7 +183,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=285612626&ICode=04HK&date=2025-05-27&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/cagliari/excursion/11.jpg",
+      "image": "Assets/etapes/cagliari/excursion/11.jpg",
       "name": "tous les joyaux du jardin botanique",
       "time": "2h",
       "price": "19€ par adulte",
@@ -193,7 +193,7 @@
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=267803939&ICode=04CU&date=2025-05-27&previousCategory=true"
     },
     {
-      "image": "/Assets/etapes/cagliari/excursion/12.jpg",
+      "image": "Assets/etapes/cagliari/excursion/12.jpg",
       "name": "un aperçu de cagliari",
       "time": "4h",
       "price": "55€ par adulte",
