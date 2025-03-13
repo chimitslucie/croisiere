@@ -44,6 +44,7 @@ function Barcelone() {
                                     <img src={excursion.image} />
                                     <div className="cardContent">
                                         <h2 className="textUppercase textDarkblue textBold">{excursion.name}</h2>
+                                        <p className="cardContentInfos textSecondary">L'excursion durera {excursion.time} / {excursion.price}</p>
                                         <p className="text textSecondary textSemibold">{excursion.text}</p>
                                         <p className="info textSecondary textlight">{excursion.info}</p>
                                         <a href={excursion.lien} className="link textDarkblue">Pour plus d'informations</a>

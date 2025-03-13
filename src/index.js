@@ -22,7 +22,7 @@ root.render(
         <Route exact path="/Cagliari" element={<Cagliari />} />
         <Route exact path="/Naples" element={<Naples />} />
         <Route exact path="/Civitavecchia" element={<Civitavecchia />} />
-        <Route exact path="/Gênes" element={<Genes />} />
+        <Route exact path="/Genes" element={<Genes />} />
       </Routes>
     </HashRouter>
   </React.StrictMode>
