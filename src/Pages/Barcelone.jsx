@@ -2,17 +2,8 @@ import Hero from "../Components/hero";
 import Intro from "../Components/Intro";
 import Title from "../Components/Title";
 import barcelone from "../Data/barcelone.json";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faChevronDown } from '@fortawesome/free-solid-svg-icons';
-import { useState } from "react";
 
 function Barcelone() {
-    const [show, setShow] = useState(false);
-
-    const handleShow = () => {
-        setShow(!show)
-    }
-
     return (
         <div id="barcelone">
             <Hero title="barcelone" />
@@ -50,19 +41,13 @@ function Barcelone() {
                         {
                             barcelone.excursions.map((excursion, index) => (
                                 <div className="card" key={index}>
+                                    <img src={excursion.image} />
                                     <div className="cardContent">
-                                        <img src={excursion.image} />
-                                        <div className="cardContentText">
-                                            <h2 className="textUppercase textDarkblue textBold">{excursion.name}</h2>
-                                            <p className="time textSecondary">La durée de l'excursion est de {excursion.time}</p>
-                                            <p className="price textSecondary">{excursion.price}</p>
-                                            <p className="text textSecondary textSemibold">{excursion.text}</p>
-                                            <p className="info textSecondary textSemibold">{excursion.info}</p>
-                                            <a href={excursion.lien} className="link textDarkblue">Lien pour réserver: {excursion.lien}</a>
-                                        </div>
-                                        <button className="btn" onClick={handleShow}><FontAwesomeIcon icon={faChevronDown} className="btnIcon" /></button>
+                                        <h2 className="textUppercase textDarkblue textBold">{excursion.name}</h2>
+                                        <p className="text textSecondary textSemibold">{excursion.text}</p>
+                                        <p className="info textSecondary textlight">{excursion.info}</p>
+                                        <a href={excursion.lien} className="link textDarkblue">Pour plus d'informations</a>
                                     </div>
-                                    <p className={`plus textSecondary textSemibold ${show ? 'show' : ""}`}>{excursion.plus}</p>
                                 </div>
                             ))
                         }
