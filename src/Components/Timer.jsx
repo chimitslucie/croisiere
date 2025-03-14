@@ -4,26 +4,27 @@ function Timer() {
     // Récupérer la date cible en UTC
     const isSummerTime = new Date().getTimezoneOffset() === -120; // Vérifie si on est en UTC+2
     const targetDate = new Date(`2025-05-24T${isSummerTime ? "18:00" : "19:00"}`).getTime();
+
+    const getTimeRemaining = () => {
+        const now = new Date().getTime();
+        const difference = targetDate - now;
+
+        if (difference <= 0) {
+            return { days: 0, hours: 0, minutes: 0, seconds: 0 };
+        }
+
+        return {
+            days: Math.floor(difference / (1000 * 60 * 60 * 24)),
+            hours: Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)),
+            minutes: Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60)),
+            seconds: Math.floor((difference % (1000 * 60)) / 1000),
+        };
+    };
+
     const [timeLeft, setTimeLeft] = useState(getTimeRemaining());
     const [visible, setVisible] = useState(true);
 
     useEffect(() => {
-        const getTimeRemaining = () => {
-            const now = new Date().getTime();
-            const difference = targetDate - now;
-
-            if (difference <= 0) {
-                return { days: 0, hours: 0, minutes: 0, seconds: 0 };
-            }
-
-            return {
-                days: Math.floor(difference / (1000 * 60 * 60 * 24)),
-                hours: Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)),
-                minutes: Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60)),
-                seconds: Math.floor((difference % (1000 * 60)) / 1000),
-            };
-        };
-
         const interval = setInterval(() => {
             setTimeLeft(getTimeRemaining());
         }, 1000);
