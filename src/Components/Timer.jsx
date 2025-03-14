@@ -34,7 +34,6 @@ function Timer() {
             } else {
                 setVisible(true);
             }
-            console.log("ScrollY:", window.scrollY, "Visible:", visible); // Debug
         };
 
         window.addEventListener("scroll", handleScroll);
