@@ -42,7 +42,7 @@ function Timer() {
             clearInterval(interval);
             window.removeEventListener("scroll", handleScroll);
         };
-    }, [visible]);
+    }, [getTimeRemaining, visible]);
 
     return (
         <div className={`timer-container ${visible ? "visible" : "hidden"}`}>
