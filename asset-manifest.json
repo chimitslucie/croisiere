@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/croisiere/static/css/main.e02fbb4f.css",
-    "main.js": "/croisiere/static/js/main.31248223.js",
+    "main.js": "/croisiere/static/js/main.f7eed3f7.js",
     "static/js/488.d6616595.chunk.js": "/croisiere/static/js/488.d6616595.chunk.js",
     "static/media/marseille.jpg": "/croisiere/static/media/marseille.ab993068e69f62aadf2f.jpg",
     "static/media/hero.jpg": "/croisiere/static/media/hero.cfdf0b30ac2934c50bd8.jpg",
@@ -19,11 +19,11 @@
     "static/media/slick.woff": "/croisiere/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/croisiere/index.html",
     "main.e02fbb4f.css.map": "/croisiere/static/css/main.e02fbb4f.css.map",
-    "main.31248223.js.map": "/croisiere/static/js/main.31248223.js.map",
+    "main.f7eed3f7.js.map": "/croisiere/static/js/main.f7eed3f7.js.map",
     "488.d6616595.chunk.js.map": "/croisiere/static/js/488.d6616595.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e02fbb4f.css",
-    "static/js/main.31248223.js"
+    "static/js/main.f7eed3f7.js"
   ]
 }
