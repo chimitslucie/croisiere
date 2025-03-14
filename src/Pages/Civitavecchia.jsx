@@ -9,7 +9,7 @@ function Civitavecchia() {
             <Hero title="civitavecchia/rome" />
             <Intro
                 text="Découvrez Civitavecchia, porte d'entrée majestueuse vers Rome, la ville Éternelle. Flânez le long du port et imprégnez-vous de 
-                son ambiance maritime Admirez la majestueuse Forteresse Michel-Ange, témoin de l'histoire. Entre plages dorées et vestiges antiques 
+                son ambiance maritime admirez la majestueuse Forteresse Michel-ange, témoin de l'histoire. Entre plages dorées et vestiges antiques 
                 fascinants. Chaque recoin respire l'authenticité italienne. Entre culture, gastronomie et dolce vita, une escapade inoubliable vous attend."
             />
             <div className="information">
