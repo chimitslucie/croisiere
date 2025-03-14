@@ -7,33 +7,29 @@ function Timer() {
     const [timeLeft, setTimeLeft] = useState(getTimeRemaining());
     const [visible, setVisible] = useState(true);
 
-    function getTimeRemaining() {
-        const now = new Date().getTime();
-        const difference = targetDate - now;
-
-        if (difference <= 0) {
-            return { days: 0, hours: 0, minutes: 0, seconds: 0 };
-        }
-
-        return {
-            days: Math.floor(difference / (1000 * 60 * 60 * 24)),
-            hours: Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)),
-            minutes: Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60)),
-            seconds: Math.floor((difference % (1000 * 60)) / 1000),
-        };
-    }
-
     useEffect(() => {
+        const getTimeRemaining = () => {
+            const now = new Date().getTime();
+            const difference = targetDate - now;
+
+            if (difference <= 0) {
+                return { days: 0, hours: 0, minutes: 0, seconds: 0 };
+            }
+
+            return {
+                days: Math.floor(difference / (1000 * 60 * 60 * 24)),
+                hours: Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)),
+                minutes: Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60)),
+                seconds: Math.floor((difference % (1000 * 60)) / 1000),
+            };
+        };
+
         const interval = setInterval(() => {
             setTimeLeft(getTimeRemaining());
         }, 1000);
 
         const handleScroll = () => {
-            if (window.scrollY >= 10) {
-                setVisible(false);
-            } else {
-                setVisible(true);
-            }
+            setVisible(window.scrollY < 10);
         };
 
         window.addEventListener("scroll", handleScroll);
@@ -42,7 +38,44 @@ function Timer() {
             clearInterval(interval);
             window.removeEventListener("scroll", handleScroll);
         };
-    }, []);
+    }, [targetDate]);  //  Enlever `getTimeRemaining` et `visible` des dépendances
+
+    // function getTimeRemaining() {
+    //     const now = new Date().getTime();
+    //     const difference = targetDate - now;
+
+    //     if (difference <= 0) {
+    //         return { days: 0, hours: 0, minutes: 0, seconds: 0 };
+    //     }
+
+    //     return {
+    //         days: Math.floor(difference / (1000 * 60 * 60 * 24)),
+    //         hours: Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)),
+    //         minutes: Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60)),
+    //         seconds: Math.floor((difference % (1000 * 60)) / 1000),
+    //     };
+    // }
+
+    // useEffect(() => {
+    //     const interval = setInterval(() => {
+    //         setTimeLeft(getTimeRemaining());
+    //     }, 1000);
+
+    //     const handleScroll = () => {
+    //         if (window.scrollY >= 10) {
+    //             setVisible(false);
+    //         } else {
+    //             setVisible(true);
+    //         }
+    //     };
+
+    //     window.addEventListener("scroll", handleScroll);
+
+    //     return () => {
+    //         clearInterval(interval);
+    //         window.removeEventListener("scroll", handleScroll);
+    //     };
+    // }, []);
 
     return (
         <div className={`timer-container ${visible ? "visible" : "hidden"}`}>
