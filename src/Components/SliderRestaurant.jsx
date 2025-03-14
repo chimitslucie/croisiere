@@ -56,7 +56,7 @@ function SliderRestaurant() {
             <Slider {...settings}>
                 {datas.restaurants.map((restaurant, index) => (
                     <div className="restaurantSlider" key={index}>
-                        <img src={restaurant.image} className="restaurantSliderImage" />
+                        <img src={restaurant.image} alt={restaurant.alt} className="restaurantSliderImage" />
                         <div className="restaurantSliderContent">
                             <h3 className="restaurantSliderContentTitle textUppercase textBold">{restaurant.name}</h3>
                             <p className="restaurantSliderContentPont textUppercase textSemibold">{restaurant.pont}</p>

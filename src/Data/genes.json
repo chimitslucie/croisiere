@@ -2,6 +2,7 @@
   "voirs": [
     {
       "image": "Assets/etapes/genes/voir/1.jpg",
+      "alt": "photo de l'aquarium",
       "name": "Acquario di Genova",
       "price": "Entrée 26€",
       "temps": "de 3min en voiture, 9min en transport, 19min à pieds",
@@ -10,6 +11,7 @@
     },
     {
       "image": "Assets/etapes/genes/voir/2.jpg",
+      "alt": "photo du centre historique de gênes",
       "name": "Centre historique de Gênes",
       "price": "Accès libre",
       "temps": "de 3min en voiture, 8min en transport, 14min à pieds",
@@ -18,6 +20,7 @@
     },
     {
       "image": "Assets/etapes/genes/voir/3.jpg",
+      "alt": "photo de la via garibaldi",
       "name": "via Garibaldi",
       "price": "Accès libre",
       "temps": "de 11min en voiture, 15min en transport, 20min à pieds",
@@ -26,6 +29,7 @@
     },
     {
       "image": "Assets/etapes/genes/voir/4.jpg",
+      "alt": "photo de la cathédrale de san lorenzo",
       "name": "Cattedrale di San Lorenzo",
       "price": "Accès libre",
       "temps": "de 7min en voiture, 11min en transport, 22min à pieds",
@@ -34,6 +38,7 @@
     },
     {
       "image": "Assets/etapes/genes/voir/5.jpg",
+      "alt": "photo place de ferrari",
       "name": "Piazza De Ferrari",
       "price": "Accès libre",
       "temps": "de 10min en voiture, 11min en transport, 25min à pieds",
@@ -42,6 +47,7 @@
     },
     {
       "image": "Assets/etapes/genes/voir/6.jpg",
+      "alt": "photo de l'ascenseur panoramique",
       "name": "Bigo - Ascenseur panoramique",
       "price": "Entrée 6€",
       "temps": "de 7min en voiture, 9min en transport, 19min à pieds",
@@ -50,6 +56,7 @@
     },
     {
       "image": "Assets/etapes/genes/voir/7.jpg",
+      "alt": "photo du musée de la mer galata",
       "name": "Musée de la Mer Galata (Galata Museo del Mare)",
       "price": "Entrée 17€",
       "temps": "de 2min en voiture, 7min à pieds",
@@ -58,6 +65,7 @@
     },
     {
       "image": "Assets/etapes/genes/voir/8.jpg",
+      "alt": "photo de la place ducale",
       "name": "Palazzo Ducale",
       "price": "Tarif variable en fonction des expositions en cours",
       "temps": "de 10min en voiture, 13min en transport, 24min à pieds",
@@ -66,6 +74,7 @@
     },
     {
       "image": "Assets/etapes/genes/voir/9.jpg",
+      "alt": "photo de bocadasse",
       "name": "Boccadasse",
       "price": "Accès libre",
       "temps": "de 18min en voiture, 38min en transport, 1h24 à pieds",
@@ -74,6 +83,7 @@
     },
     {
       "image": "Assets/etapes/genes/voir/10.jpg",
+      "alt": "photo du phare de gênes",
       "name": "Phare de Gênes (la Lanterna)",
       "price": "Tarif variable",
       "temps": "de 8min en voiture, 25min en transport, 30min à pieds",
@@ -82,6 +92,7 @@
     },
     {
       "image": "Assets/etapes/genes/voir/11.jpg",
+      "alt": "photo du chateau d'albertis",
       "name": "Castello D'Albertis",
       "price": "Entrée 6€",
       "temps": "de 15min en voiture, 19min à pieds",
@@ -90,6 +101,7 @@
     },
     {
       "image": "Assets/etapes/genes/voir/12.jpg",
+      "alt": "photo du palais royal de gênes",
       "name": "Palais royal de Gênes",
       "price": "Entrée 4€",
       "temps": "de 9min en voiture, 11min à pieds",
@@ -98,6 +110,7 @@
     },
     {
       "image": "Assets/etapes/genes/voir/13.jpg",
+      "alt": "photo de la spianata castelletto",
       "name": "Spianata Castelletto",
       "price": "Accès libre",
       "temps": "de 12min en voiture, 18min en transport, 23min à pieds",
@@ -108,6 +121,7 @@
   "excursions": [
     {
       "image": "Assets/etapes/genes/excursion/1.jpg",
+      "alt": "photo d'un enfant faisant de la tirolienne",
       "name": "adrénaline à l’état pur au parc d’aventure de gènes",
       "time": "4h",
       "price": "52€ par adulte",
@@ -118,6 +132,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/2.jpg",
+      "alt": "photo de pesto dans un mortier",
       "name": "cours de cuisine pour apprendre à faire le pesto dans le restaurant des stars",
       "time": "3h",
       "price": "79€ par adulte",
@@ -128,6 +143,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/3.jpg",
+      "alt": "photo de la cathédrale de milan",
       "name": "découvrez milan à votre façon",
       "time": "8h",
       "price": "55€ par adulte",
@@ -138,6 +154,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/4.jpg",
+      "alt": "photo de vélo avec une vue sur gênes",
       "name": "en vtt électrique sur les sentier des forts de gênes",
       "time": "4.5h",
       "price": "99€ par adulte",
@@ -148,6 +165,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/5.jpg",
+      "alt": "photo de la spianata castelletto",
       "name": "Gênes de vrai génois",
       "time": "7.5h",
       "price": "99€ par adulte",
@@ -158,6 +176,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/6.jpg",
+      "alt": "photo de deux personnes en vélos",
       "name": "Gênes en e-bike pour grands et petits",
       "time": "4.5h",
       "price": "85€ par adulte",
@@ -168,6 +187,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/7.jpg",
+      "alt": "photo de segway",
       "name": "Gênes en segway",
       "time": "2h",
       "price": "85€ par adulte",
@@ -178,6 +198,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/8.jpg",
+      "alt": "photo du centre historique",
       "name": "Gênes et ses ateliers artisanaux historiques",
       "time": "3.5h",
       "price": "45€ par adulte",
@@ -188,6 +209,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/9.jpg",
+      "alt": "photo d'une vue panoramique de gênes",
       "name": "Gênes panoramique",
       "time": "4h",
       "price": "55€ par adulte",
@@ -198,6 +220,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/10.jpg",
+      "alt": "photo d'une ruelle",
       "name": "Gênes parmi les fantômes",
       "time": "4h",
       "price": "65€ par adulte",
@@ -208,6 +231,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/11.jpg",
+      "alt": "photo du Palazzo San Giorgio",
       "name": "Gênes, république maritime",
       "time": "5h",
       "price": "59€ par adulte",
@@ -218,6 +242,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/12.jpg",
+      "alt": "photo de la statue du christ des abysses",
       "name": "journée en zodiac dans les paradis de la ligurie",
       "time": "7.5h",
       "price": "159€ par adulte",
@@ -228,6 +253,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/13.jpg",
+      "alt": "photo de la cathédrale de san lorenzo",
       "name": "la saveur de la Gênes antique et strada nuova",
       "time": "4h",
       "price": "79€ par adulte",
@@ -238,6 +264,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/14.jpg",
+      "alt": "photo du domaine de la scolca",
       "name": "le domaine la scolca, entre tradition et innovation vitivinicole",
       "time": "6h",
       "price": "119€ par adulte",
@@ -248,6 +275,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/15.jpg",
+      "alt": "photo de la ligurie",
       "name": "ligurie style dolce vita en zodiac vers punta chiappa",
       "time": "4h",
       "price": "115€ par adulte",
@@ -258,6 +286,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/16.jpg",
+      "alt": "photo d'une personne devant la chathédrale san lorenzo",
       "name": "parmi les sons et les lieux de fabrizio de andré",
       "time": "2h",
       "price": "19€ par adulte",
@@ -268,6 +297,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/17.jpg",
+      "alt": "photo de camogli",
       "name": "portofino et camogli: entre jet-set et dolce vita",
       "time": "7h",
       "price": "99€ par adulte",
@@ -278,6 +308,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/18.jpg",
+      "alt": "photo de l'aquarium",
       "name": "toutes les mers du monde dans l’aquarium de Gênes",
       "time": "3.5h",
       "price": "59€ par adulte",
@@ -288,6 +319,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/19.jpg",
+      "alt": "photo d'une montagne avec un fort",
       "name": "trekking sur les forts",
       "time": "5h",
       "price": "65€ par adulte",
@@ -298,6 +330,7 @@
     },
     {
       "image": "Assets/etapes/genes/excursion/20.jpg",
+      "alt": "photo d'un enfant avec un télescope",
       "name": "voyage dans le système solaire pour grands et petits",
       "time": "4h",
       "price": "59€ par adulte",

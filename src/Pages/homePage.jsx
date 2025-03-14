@@ -38,7 +38,7 @@ function HomePage() {
                                     <h3 className="cardTitle textUppercase textDarkblue">{animation.activite}</h3>
                                     <p className="text textSecondary">{animation.text}</p>
                                 </div>
-                                <img className="img" src={animation.image} />
+                                <img className="img" src={animation.image} alt={animation.alt} />
                             </div>
                         ))}
                     </div>

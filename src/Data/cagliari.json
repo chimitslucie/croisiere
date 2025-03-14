@@ -2,6 +2,7 @@
   "voirs": [
     {
       "image": "Assets/etapes/cagliari/voir/1.jpg",
+      "alt": "photo de la bastione di saint remy",
       "name": "Bastione di Saint Remy",
       "price": "Promenade couverte entière + tunnel éperon à partir de 3€",
       "temps": "de 13min en voiture, 27min en transport, 29min à pieds",
@@ -10,6 +11,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/voir/2.jpg",
+      "alt": "photo du quartier de castello",
       "name": "Castello (vieille ville médiévale)",
       "price": "Accès libre",
       "temps": "de 14min en voiture, 27min en transport, 33min à pieds",
@@ -18,6 +20,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/voir/3.jpg",
+      "alt": "photo de la cathédrale de santa maria",
       "name": "Cathédrale de Santa Maria",
       "price": "Accès libre",
       "temps": "de 14min en voiture, 27min en transport, 35min à pieds",
@@ -26,6 +29,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/voir/4.jpg",
+      "alt": "photo du musée archéologique national",
       "name": "Musée Archéologique National",
       "price": "Entrée 10€",
       "temps": "de 12min en voiture, 27min en transport, 39min à pieds",
@@ -34,6 +38,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/voir/5.jpg",
+      "alt": "photo torre dell'elefante",
       "name": "Torre dell’Elefante",
       "price": "Entrée 3€",
       "temps": "de 12min en voiture, 27min en transport, 30min à pieds",
@@ -42,6 +47,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/voir/6.jpg",
+      "alt": "photo monte urpinu",
       "name": "Monte Urpinu",
       "price": "Accès libre",
       "temps": "de 14min en voiture, 43min en transport, 56min à pieds",
@@ -50,6 +56,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/voir/7.jpg",
+      "alt": "photo de la plage poetto beach",
       "name": "Poetto Beach",
       "price": "Accès libre",
       "temps": "de 16min en voiture, 49min en transport, 1h59 à pieds",
@@ -58,6 +65,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/voir/8.jpg",
+      "alt": "photo de flamand rose au parc naturel de molentargius",
       "name": "Parc naturel de Molentargius",
       "price": "Accès libre",
       "temps": "de 10min en voiture, 41min en transport, 1h12 à pieds",
@@ -66,6 +74,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/voir/9.jpg",
+      "alt": "photo du marché de san benedetto",
       "name": "Marché de San Benedetto",
       "price": "Accès libre",
       "temps": "de 14min en voiture, 30min en transport, 43min à pieds",
@@ -74,6 +83,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/voir/10.jpg",
+      "alt": "photo de la basilica et santuario di nostra signora di bonaria",
       "name": "Basilica et Santuario di Nostra Signora di Bonaria",
       "price": "Accès libre",
       "temps": "de 10min en voiture, 28min en transport, 39min à pieds",
@@ -84,6 +94,7 @@
   "excursions": [
     {
       "image": "Assets/etapes/cagliari/excursion/1.jpg",
+      "alt": "photo du monte urpinu",
       "name": "Cagliari, entre histoires anciennes et marins",
       "time": "4h",
       "price": "65€ par adulte",
@@ -94,6 +105,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/excursion/2.jpg",
+      "alt": "photo d'un enfant et un adulte dans la forêt",
       "name": "Enfants à la recherche de trésors dans l’oasis WWF",
       "time": "5.5h",
       "price": "89€ par adulte",
@@ -104,6 +116,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/excursion/3.jpg",
+      "alt": "photo du bastion saint-remy",
       "name": "l’imposant bastion saint-rémy",
       "time": "2h",
       "price": "19€ par adulte",
@@ -114,6 +127,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/excursion/4.jpg",
+      "alt": "photo de la nécropole de tuvixeddu",
       "name": "la nécropole de tuvixeddu",
       "time": "2h",
       "price": "19€ par adulte",
@@ -124,6 +138,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/excursion/5.jpg",
+      "alt": "photo d'un bateau avec une ile en fond",
       "name": "la sardaigne de gozzo: plages cachées et recoins azurs",
       "time": "3.5h",
       "price": "109€ par adulte",
@@ -134,6 +149,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/excursion/6.jpg",
+      "alt": "photo de deux personnes entrain de se baigner",
       "name": "Nager et bains de soleil en famille au poetto",
       "time": "5h",
       "price": "69€ par adulte",
@@ -144,6 +160,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/excursion/7.jpg",
+      "alt": "photo d'olives fraiches",
       "name": "oliveraies, art et vignobles",
       "time": "5h",
       "price": "75€ par adulte",
@@ -154,6 +171,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/excursion/8.jpg",
+      "alt": "photo panoramique de cagliari",
       "name": "panoramas de cagliari",
       "time": "2.5h",
       "price": "49€ par adulte",
@@ -164,6 +182,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/excursion/9.jpg",
+      "alt": "photo de personne dans un petit bateau",
       "name": "sardaigne en canot pneumatique entre grottes et criques",
       "time": "3h",
       "price": "85€ par adulte",
@@ -174,6 +193,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/excursion/10.jpg",
+      "alt": "photo d'un enfant sur un paddle",
       "name": "sur la crête des vagues à la plage du poetto",
       "time": "5h",
       "price": "85€ par adulte",
@@ -184,6 +204,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/excursion/11.jpg",
+      "alt": "photo d'un arbre",
       "name": "tous les joyaux du jardin botanique",
       "time": "2h",
       "price": "19€ par adulte",
@@ -194,6 +215,7 @@
     },
     {
       "image": "Assets/etapes/cagliari/excursion/12.jpg",
+      "alt": "photo de la cathédrale de santa maria",
       "name": "un aperçu de cagliari",
       "time": "4h",
       "price": "55€ par adulte",

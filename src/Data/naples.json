@@ -2,6 +2,7 @@
   "voirs": [
     {
       "image": "Assets/etapes/naples/voir/1.jpg",
+      "alt": "photo du centre historique",
       "name": "Centre historique de Naples",
       "price": "Accès libre",
       "temps": "de 11min en voiture, 20min en transport, 27min à pieds",
@@ -10,6 +11,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/2.jpg",
+      "alt": "photo du duomi di napoli",
       "name": "Duomo di Napoli",
       "price": "Accès cathédrale gratuit, chapelle de san gennaro + musée tesoro di san gennaro 13€, chapelle de san gennaro + musée tesoro di san gennaro + museo filangieri 15€",
       "temps": "de 17min en voiture, 29min en transport, 34min à pieds",
@@ -18,6 +20,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/3.jpg",
+      "alt": "photo de la chapelle sansevero",
       "name": "Chapelle Sansevero",
       "price": "Entrée 12€",
       "temps": "de 14min en voiture, 20min en transport, 20min à pieds",
@@ -26,6 +29,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/4.jpg",
+      "alt": "photo du castel dell'ovo",
       "name": "Castel dell’Ovo",
       "price": "Accès libre",
       "temps": "de 19min en voiture, 31min en transport, 34min à pieds",
@@ -34,6 +38,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/5.jpg",
+      "alt": "photo du musée archéologique national de naples",
       "name": "Musée Archéologique National de Naples",
       "price": "Entrée 20€",
       "temps": "de 20min en voiture, 23min en transport, 38min à pieds",
@@ -42,6 +47,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/6.jpg",
+      "alt": "photo palais royal de naples",
       "name": "Palais Royal de Naples",
       "price": "Entrée 10€",
       "temps": "de 14min en voiture, 18min en transport, 19min à pieds",
@@ -50,6 +56,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/7.jpg",
+      "alt": "photo église de gesu nuovo",
       "name": "Église du Gesù Nuovo",
       "price": "Accès libre",
       "temps": "de 15min en voiture, 25min en transport, 27min à pieds",
@@ -58,6 +65,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/8.jpg",
+      "alt": "photo castel nuovo",
       "name": "Castel Nuovo",
       "price": "Entrée 6€",
       "temps": "de 13min en voiture, 15min à pieds",
@@ -66,6 +74,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/9.jpg",
+      "alt": "photo basilique santa chiara de naples",
       "name": "Basilique Santa Chiara de Naples",
       "price": "Entrée 7€",
       "temps": "de 15min en voiture, 24min en transport, 27min à pieds",
@@ -74,6 +83,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/10.jpg",
+      "alt": "photo piazza del plebiscito",
       "name": "piazza del Plebiscito",
       "price": "Accès libre",
       "temps": "de 19min en voiture, 23min à pieds",
@@ -82,6 +92,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/11.jpg",
+      "alt": "photo vomero",
       "name": "Vomero",
       "price": "Accès libre",
       "temps": "de 31min en voiture, 28min en transport, 52min à pieds",
@@ -90,6 +101,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/12.jpg",
+      "alt": "photo pompei",
       "name": "Pompéi",
       "price": "Entrée 22€",
       "temps": "de 25min en voiture, 59min en transport",
@@ -98,6 +110,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/13.jpg",
+      "alt": "photo herculanum",
       "name": "Herculanum",
       "price": "Entrée 13€",
       "temps": "de 23min en voiture, 1h1 en transport, 2h35 à pieds",
@@ -106,6 +119,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/14.jpg",
+      "alt": "photo vésuve",
       "name": "Vésuve",
       "price": "Accès au cratère 11€",
       "temps": "de 38min en voiture, 2h56 en transport",
@@ -114,6 +128,7 @@
     },
     {
       "image": "Assets/etapes/naples/voir/15.jpg",
+      "alt": "photo capri",
       "name": "Capri",
       "price": "Aller-retour pour deux environ 100€",
       "temps": "d'environ 1h en ferry",
@@ -124,6 +139,7 @@
   "excursions": [
     {
       "image": "Assets/etapes/naples/excursion/1.jpg",
+      "alt": "photo de capri",
       "name": "anacapri et capri, entre art et jet-set",
       "time": "6.5h",
       "price": "109€ par adulte",
@@ -134,6 +150,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/2.jpg",
+      "alt": "photo piazza del municipo",
       "name": "art urbain et monuments anciens",
       "time": "2h",
       "price": "19€ par adulte",
@@ -144,6 +161,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/3.jpg",
+      "alt": "photo de la mer vue de capri",
       "name": "capri, par la mer et par la terre",
       "time": "6.5h",
       "price": "129€ par adulte",
@@ -154,6 +172,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/4.jpg",
+      "alt": "photo du cloitre de santa chiara",
       "name": "église et cloître de santa chiara",
       "time": "2h",
       "price": "19€ par adulte",
@@ -164,6 +183,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/5.jpg",
+      "alt": "photo d'un enfant à pompei",
       "name": "grands et petits explorateurs à la découverte de pompéi",
       "time": "4h",
       "price": "75€ par adulte",
@@ -174,6 +194,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/6.jpg",
+      "alt": "photo d'herculanum",
       "name": "l’écho du vésuve: d’herculanum",
       "time": "4h",
       "price": "95€ par adulte",
@@ -184,6 +205,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/7.jpg",
+      "alt": "photo christ voilé",
       "name": "le christ voilé et spaccanapoli",
       "time": "1h",
       "price": "25€ par adulte",
@@ -194,6 +216,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/8.jpg",
+      "alt": "photo de sorrente",
       "name": "maisons sur la mer: une journée à la découverte de sorrente et d'amalfi",
       "time": "7h",
       "price": "135€ par adulte",
@@ -204,6 +227,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/9.jpg",
+      "alt": "photo d'une rue de naples",
       "name": "naples entre adolescents: quelle histoire",
       "time": "3.5h",
       "price": "47€ par adulte",
@@ -214,6 +238,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/10.jpg",
+      "alt": "phot de la baie de naples",
       "name": "naples sur mesure pour toi",
       "time": "3.5h",
       "price": "55€ par adulte",
@@ -224,6 +249,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/11.jpg",
+      "alt": "photo d'une pizza",
       "name": "pizzaioli pour une journée: préparez une vrai pizza napolitaine",
       "time": "4h",
       "price": "109€ par adulte",
@@ -234,6 +260,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/12.jpg",
+      "alt": "photo d'une crèche",
       "name": "pizzas, crèches et sfogliatelle",
       "time": "4.5h",
       "price": "65€ par adulte",
@@ -244,6 +271,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/13.jpg",
+      "alt": "photo de statues devant une cascade",
       "name": "reggia de caserte",
       "time": "4h",
       "price": "79€ par adulte",
@@ -254,6 +282,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/14.jpg",
+      "alt": "photo de la porte san gennaro",
       "name": "rione sanità: à pied entre baroque et art de rue, rédemption et saveurs",
       "time": "4.5h",
       "price": "65€ par adulte",
@@ -264,6 +293,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/15.jpg",
+      "alt": "photo d'une personne sous l'eau avec un masque et un tuba",
       "name": "snorkeling dans le parc submergé de baia",
       "time": "5h",
       "price": "89€ par adulte",
@@ -274,6 +304,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/16.jpg",
+      "alt": "photo de sorrente",
       "name": "sorrento, la terre des sirènes",
       "time": "6h",
       "price": "65€ par adulte",
@@ -284,6 +315,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/17.jpg",
+      "alt": "photo d'un bateau dans la baie de capri",
       "name": "un plongeon dans la mer de capri & amalfi",
       "time": "9h",
       "price": "109€ par adulte",
@@ -294,6 +326,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/18.jpg",
+      "alt": "photo du maschio angiono",
       "name": "une journée de parthénopéen",
       "time": "4h",
       "price": "49€ par adulte",
@@ -304,6 +337,7 @@
     },
     {
       "image": "Assets/etapes/naples/excursion/19.jpg",
+      "alt": "photo de pompei",
       "name": "voyage dans le temps à pompéi",
       "time": "4.5h",
       "price": "95€ par adulte",

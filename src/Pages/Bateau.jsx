@@ -65,7 +65,7 @@ function Bateau() {
                                         <p className="entertainmentCardPont textUppercase textSemibold">{divertissement.pont}</p>
                                         <p className="entertainmentCardText textBold">{divertissement.text}</p>
                                     </div>
-                                    <img src={divertissement.image} className="entertainmentCardImg" />
+                                    <img src={divertissement.image} alt={divertissement.alt} className="entertainmentCardImg" />
                                 </div>
                             ))
                         }
@@ -83,7 +83,7 @@ function Bateau() {
                     <Title title="sports et bien-être" />
                     <div className="sportContent">
                         {datas.sports.map((sport, index) => (
-                            <Card key={index} src={sport.image} title={sport.name} pont={sport.pont} text={sport.text} />
+                            <Card key={index} src={sport.image} alt={sport.alt} title={sport.name} pont={sport.pont} text={sport.text} />
                         ))}
                     </div>
                 </div>
@@ -93,7 +93,7 @@ function Bateau() {
                     <Title title="boutiques" />
                     <div className="shopContent">
                         {datas.boutiques.map((boutique, index) => (
-                            <Card key={index} src={boutique.image} title={boutique.name} pont={boutique.pont} text={boutique.text} />
+                            <Card key={index} src={boutique.image} alt={boutique.alt} title={boutique.name} pont={boutique.pont} text={boutique.text} />
                         ))}
                     </div>
                 </div>
@@ -105,7 +105,7 @@ function Bateau() {
                         <Slider {...settings}>
                             {datas.autres.map((autre, index) => (
                                 <div className="otherSlider" key={index}>
-                                    <img src={autre.image} className="otherSliderImage" />
+                                    <img src={autre.image} alt={autre.alt} className="otherSliderImage" />
                                     <div className="otherSliderContent">
                                         <h3 className="otherSliderContentTitle textUppercase textDarkblue">{autre.name}</h3>
                                         <p className="otherSliderContentPont textUppercase textDarkblue textLight">{autre.pont}</p>

@@ -2,6 +2,7 @@
   "voirs": [
     {
       "image": "Assets/etapes/barcelone/voir/1.jpg",
+      "alt": "photo de la sagrada familia",
       "name": "sagrada familia",
       "price": "Entrée générale: 26€, entrée avec visite guidée: 30€, entrée avec accès aux tours: 40€",
       "temps": "de 28min en voiture, 45min en transport, 2h45 à pieds",
@@ -10,6 +11,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/2.jpg",
+      "alt": "photo du parc güel",
       "name": "parc güell",
       "price": "Entrée: 18€",
       "temps": "de 29min en voiture, 1h12 en transport, 2h11 à pieds",
@@ -18,6 +20,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/3.jpg",
+      "alt": "photo de la casa batllo",
       "name": "casa batlló",
       "price": "Entrée environ 25€ ",
       "temps": "de 21min en voiture, 48min en transport, 1h21 à pieds",
@@ -26,6 +29,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/4.jpg",
+      "alt": "photo de la casa milà",
       "name": "casa milà",
       "price": "Entrée 29€",
       "temps": "de 23min en voiture, 53min en transport, 1h29 à pieds",
@@ -34,6 +38,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/5.jpg",
+      "alt": "photo de la cathédrale de Barcelone",
       "name": "cathédrale de barcelone",
       "price": "Entrée 14€",
       "temps": "de 24min en voiture, 52min en transport, 1h7 à pieds",
@@ -42,6 +47,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/6.jpg",
+      "alt": "photo du barri gotic",
       "name": "Barri Gòtic",
       "price": "Accès libre",
       "temps": "de 21min en voiture, 48min en transport, 1h2 à pieds",
@@ -50,6 +56,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/7.jpg",
+      "alt": "photo du palais de la musique catalane",
       "name": "Palais de la Musique Catalane",
       "price": "Entrée 18€, avec guide audio ou guide 22€",
       "temps": "de 22min en voiture, 55min en transport, 1h12 à pieds",
@@ -58,6 +65,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/8.jpg",
+      "alt": "photo de la Rambla",
       "name": "La Rambla",
       "price": "Accès libre",
       "temps": "de 17min en voiture, 46min en transport, 1h8 à pieds",
@@ -66,6 +74,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/9.jpg",
+      "alt": "photo du marché de la boqueria",
       "name": "Marché de la Boqueria",
       "price": "Accès libre",
       "temps": "de 14min en voiture, 47min en transport, 1h2 à pieds",
@@ -74,6 +83,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/10.jpg",
+      "alt": "photo du port vell",
       "name": "Le Port Vell et la Barceloneta",
       "price": "Accès libre",
       "temps": "de 12min en voiture, 51min en transport, 1h13 à pieds",
@@ -82,6 +92,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/11.jpg",
+      "alt": "photo du passeig de gràcia",
       "name": "Passeig de Gràcia",
       "price": "Accès libre",
       "temps": "de 19min en voiture, 49min en transport, 1h13 à pieds",
@@ -90,6 +101,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/12.jpg",
+      "alt": "photo du quartier el born",
       "name": "El Born",
       "price": "Accès libre",
       "temps": "de 12min en voiture, 47min en transport, 1h6 à pieds",
@@ -98,6 +110,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/13.jpg",
+      "alt": "photo d'un marché artisanal",
       "name": "Marchés artisanaux",
       "price": "Accès libre",
       "temps": "de 13min en voiture, 49min en transport, 1h5 à pieds",
@@ -106,6 +119,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/14.jpg",
+      "alt": "photo du musée de picasso",
       "name": "Musée de Picasso",
       "price": "Entrée 12€",
       "temps": "de 17min en voiture, 52min en transport, 1h9 à pieds",
@@ -114,6 +128,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/15.jpg",
+      "alt": "photo du musée national d'art catalogne",
       "name": "Musée National d’Art de Catalogne",
       "price": "Entrée 12€",
       "temps": "de 14min en voiture, 1h4 en transport, 1h20 à pieds",
@@ -122,6 +137,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/16.jpg",
+      "alt": "photo de la fondation Joan Miro",
       "name": "Fundació Joan Miró",
       "price": "Entrée 15€",
       "temps": "de 13min en voiture, 59min en transport, 1h13 à pieds",
@@ -130,6 +146,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/17.jpg",
+      "alt": "photo du bunkers del carmel",
       "name": "Bunkers del Carmel",
       "price": "Accès libre",
       "temps": "de 35min en voiture, 1h26 en transport, 2h32 à pieds",
@@ -138,6 +155,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/18.jpg",
+      "alt": "photo du montjuic",
       "name": "Montjuïc",
       "price": "Château de Montjuic accès libre le dimanche à partir de 15h",
       "temps": "de 15min en voiture, 1h11 en transport, 1h23 à pieds",
@@ -146,6 +164,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/voir/19.jpg",
+      "alt": "photo du teleferic de montjuix",
       "name": "teleferic de montjuic",
       "price": "Entrée 17€",
       "temps": "de 17min en voiture, 48min en transport, 1h14 à pieds",
@@ -156,6 +175,7 @@
   "excursions": [
     {
       "image": "Assets/etapes/barcelone/excursion/1.jpg",
+      "alt": "photo d'une personne dans une rue de barcelone",
       "name": "costa goround, 1 billet pour le centre ville",
       "time": "8h",
       "price": "13€ par adulte",
@@ -166,6 +186,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/2.jpg",
+      "alt": "photo de la sagrada familia",
       "name": "costa goround, 1 billet multi-arrêt",
       "time": "8h",
       "price": "21€ par adulte",
@@ -176,6 +197,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/3.jpg",
+      "alt": "photo d'une personne avec en fond un peu flou la sagrada familia",
       "name": "Costa GoRound, 1 billet multi-arrêt + entré à la casa milà",
       "time": "8h",
       "price": "59€ par adulte",
@@ -186,6 +208,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/4.jpg",
+      "alt": "photo d'une danseuse de flamenco",
       "name": "Barcelone au rythme du flamenco",
       "time": "4h",
       "price": "85€ par adulte",
@@ -196,6 +219,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/5.jpg",
+      "alt": "photo d'un balcon de la casa batllo",
       "name": "Barcelone en un clic",
       "time": "3.5h",
       "price": "49€ par adulte",
@@ -206,6 +230,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/6.jpg",
+      "alt": "photo de personne avec des vélos électriques",
       "name": "Barcelone en vélo électrique",
       "time": "3.5h",
       "price": "85€ par adulte",
@@ -216,6 +241,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/7.jpg",
+      "alt": "photo du marché de la boqueria",
       "name": "Barcelone et le barrio gotico",
       "time": "4h",
       "price": "49€ par adulte",
@@ -226,6 +252,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/8.jpg",
+      "alt": "photo de la montagne montserrat",
       "name": "Barcelone et montserrat: entre brouhaha et silence",
       "time": "8h",
       "price": "89€ par adulte",
@@ -236,6 +263,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/9.jpg",
+      "alt": "photo de nougat",
       "name": "Barcelone la douce en famille: quartier gothique et nougats.",
       "time": "3h",
       "price": "52€ par adulte",
@@ -246,6 +274,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/10.jpg",
+      "alt": "photo d'oeuvre de Gaudi",
       "name": "La Barcelone de Gaudì",
       "time": "5h",
       "price": "99€ par adulte",
@@ -256,6 +285,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/11.jpg",
+      "alt": "photo de la casa batllo",
       "name": "la légendaire barcelone",
       "time": "4h",
       "price": "69€ par adulte",
@@ -266,6 +296,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/12.jpg",
+      "alt": "photo de l'intérieur de la sagrada familia",
       "name": "La nature se transforme en art dans la barcelone de Gaudì",
       "time": "4h",
       "price": "99€ par adulte",
@@ -276,6 +307,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/13.jpg",
+      "alt": "photo de la sagrada familia",
       "name": "La sagrada familia, symbole de la ville",
       "time": "2h",
       "price": "45€ par adulte",
@@ -286,6 +318,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/14.jpg",
+      "alt": "photo de personnes avec en fond la sagrada familia",
       "name": "Les mille visages de barcelone",
       "time": "4.5h",
       "price": "75€ par adulte",
@@ -296,6 +329,7 @@
     },
     {
       "image": "Assets/etapes/barcelone/excursion/15.jpg",
+      "alt": "photo de deux parsonnes en bord de mer",
       "name": "Plage et tapas: la barceloneta en liberté",
       "time": "4h",
       "price": "39€ par adulte",

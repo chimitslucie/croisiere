@@ -2,6 +2,7 @@
   "voirs": [
     {
       "image": "Assets/etapes/civitavecchia/voir/1.jpg",
+      "alt": "photo du colisée",
       "name": "Colisée et Forum Romain",
       "price": "Entrée 18€",
       "temps": "de 1h21 en voiture, 1h35 en transport",
@@ -10,6 +11,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/2.jpg",
+      "alt": "photo du plafon de la chapelle sixtine",
       "name": "Musée du Vatican et Chapelle Sixtine",
       "price": "Entrée 20€",
       "temps": "de 1h10 en voiture, 1h57 en transport",
@@ -18,6 +20,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/3.jpg",
+      "alt": "photo du plafon de la basilique saint pierre",
       "name": "Basilique Saint-Pierre",
       "price": "Entrée 7€",
       "temps": "de 1h15 en voiture, 1h23 en transport",
@@ -26,6 +29,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/4.jpg",
+      "alt": "photo de la galerie borghèse",
       "name": "Galerie Borghèse",
       "price": "Entrée 13€",
       "temps": "de 1h25 en voiture, 1h40 en transport",
@@ -34,6 +38,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/5.jpg",
+      "alt": "photo du panthéon",
       "name": "Panthéon",
       "price": "Entrée 12€",
       "temps": "de 1h19 en voiture, 1h45 en transport",
@@ -42,6 +47,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/6.jpg",
+      "alt": "photo du chateau saint ange",
       "name": "Château Saint-Ange",
       "price": "Entrée 16€",
       "temps": "de 1h14 en voiture, 1h38 en transport",
@@ -50,6 +56,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/7.jpg",
+      "alt": "photo des thermes de caracalla",
       "name": "Thermes de Caracalla",
       "price": "Entrée à partir de 36€",
       "temps": "de 1h11 en voiture, 1h42 en transport",
@@ -58,6 +65,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/8.jpg",
+      "alt": "photo du musée du capitole",
       "name": "Musée du Capitole",
       "price": "Entrée 16€",
       "temps": "de 1h16 en voiture, 1h41 en transport",
@@ -66,6 +74,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/9.jpg",
+      "alt": "photo de la villa d'hadrien à tivoli",
       "name": "Villa d’Hadrien à Tivoli",
       "price": "Entrée 12€",
       "temps": "de 1h43 en voiture, 2h49 en transport",
@@ -74,6 +83,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/10.jpg",
+      "alt": "photo de la galerie nationale d'art moderne",
       "name": "Galerie Nationale d’Art Moderne",
       "price": "Entrée 15€",
       "temps": "de 1h21 en voiture, 1h54 en transport",
@@ -82,6 +92,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/11.jpg",
+      "alt": "photo du fort de michelangelo",
       "name": "Fort Michelangelo",
       "price": "Accès extérieur libre",
       "temps": "de 4min en voiture, 19min en transport, 19min à pieds",
@@ -90,6 +101,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/12.jpg",
+      "alt": "photo des bains thermaux",
       "name": "Terme della Ficoncella (Bains thermaux)",
       "price": "Entrée 6€ la demi-journée, 10€ la journée complète",
       "temps": "de 17min en voiture, 1h6 en transport, 1h42 à pieds",
@@ -98,6 +110,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/13.jpg",
+      "alt": "photo d'un étale de fruits dans un marché",
       "name": "Marché traditionnel de Civitavecchia",
       "price": "Accès libre",
       "temps": "de 9min en voiture, 25min en transport, 25min à pieds",
@@ -106,6 +119,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/14.jpg",
+      "alt": "photo de la cathédrale de civitavecchia",
       "name": "Cathédrale de Civitavecchia",
       "price": "Accès libre",
       "temps": "de 13min en voiture, 27min en transport, 29min à pieds",
@@ -114,6 +128,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/15.jpg",
+      "alt": "photo de la viale garibaldi",
       "name": "La promenade du front de mer (Viale Garibaldi)",
       "price": "Accès libre",
       "temps": "de 12min en voiture, 22min en transport, 22min à pieds",
@@ -122,6 +137,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/16.jpg",
+      "alt": "photo du musée archéologique national de civitavecchia",
       "name": "Musée Archéologique National de Civitavecchia",
       "price": "Entrée 5€",
       "temps": "de 12min en voiture, 22min en transport, 22min à pieds",
@@ -130,6 +146,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/17.jpg",
+      "alt": "photo de la plage de civitavecchia",
       "name": "La plage de Civitavecchia (Spiaggia la Marina)",
       "price": "Accès libre",
       "temps": "de 11min en voiture, 22min en transport, 22min à pieds",
@@ -137,6 +154,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/18.jpg",
+      "alt": "photo du port",
       "name": "Porto di Civitavecchia (Port historique)",
       "price": "Accès libre",
       "temps": "de 8min en voiture, 35min en transport, 35min à pieds",
@@ -145,6 +163,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/19.jpg",
+      "alt": "photo de la place leandra",
       "name": "Piazza Leandra",
       "price": "Accès libre",
       "temps": "de 5min en voiture, 20min à pieds",
@@ -153,6 +172,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/20.jpg",
+      "alt": "photo de la fontaine de vanvitelli",
       "name": "Fontana del Vanvitelli",
       "price": "Accès libre",
       "temps": "de 3min en voiture, 17min à pieds",
@@ -161,6 +181,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/voir/21.jpg",
+      "alt": "photo de la place aurelio saffi",
       "name": "Piazza Aurelio Saffi",
       "price": "Accès libre",
       "temps": "de 5min en voiture, 20min à pieds",
@@ -171,6 +192,7 @@
   "excursions": [
     {
       "image": "Assets/etapes/civitavecchia/excursion/1.jpg",
+      "alt": "photo du colisée",
       "name": "à rome avec Costa GoRound (en train respectueux de l’environnement) 1 billet pour le centre ville",
       "time": "9h",
       "price": "55€ par adulte",
@@ -181,6 +203,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/excursion/2.jpg",
+      "alt": "photo de la place d'espagne",
       "name": "à rome avec Costa GoRound billet multi-arrêts",
       "time": "9h",
       "price": "65€ par adulte",
@@ -191,6 +214,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/excursion/3.jpg",
+      "alt": "photo du colisée",
       "name": "à rome avec Costa GoRound billet multi-arrêts + entrée au colisée",
       "time": "9h",
       "price": "89€ par adulte",
@@ -201,6 +225,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/excursion/4.jpg",
+      "alt": "photo d'une personne marchant vers civita di bagnoregio",
       "name": "civita di bagnoregio: le village qui “meurt”",
       "time": "7h",
       "price": "119€ par adulte",
@@ -211,6 +236,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/excursion/5.jpg",
+      "alt": "photo d'un cote du fort de michelangelo",
       "name": "civitavecchia, une petite rome sur mer",
       "time": "2.5h",
       "price": "39€ par adulte",
@@ -221,6 +247,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/excursion/6.jpg",
+      "alt": "photo deux personnes avec un cocktail",
       "name": "confort et divertissement sous le soleil de tarquinia",
       "time": "7h",
       "price": "55€ par adulte",
@@ -231,6 +258,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/excursion/7.jpg",
+      "alt": "photo du plafon de la chapelle sixtine",
       "name": "dans les mains de michel-ange: musées du vatican, chapelle sixtine et autres chefs-d’œuvre",
       "time": "9.5h",
       "price": "155€ par adulte",
@@ -241,6 +269,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/excursion/8.jpg",
+      "alt": "photo du toit du vatican",
       "name": "en bus parmi les sites emblématiques de rome",
       "time": "7h",
       "price": "59€ par adulte",
@@ -251,6 +280,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/excursion/9.jpg",
+      "alt": "photo d'une famille devant le vatican",
       "name": "les milles vies du colisée et les milles visages de la ville éternelle",
       "time": "9h",
       "price": "109€ par adulte",
@@ -261,6 +291,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/excursion/10.jpg",
+      "alt": "photo d'une forêt",
       "name": "randonnée au monte raschio: l’écologie d’une hêtraie centenaire",
       "time": "5.5h",
       "price": "140€ par adulte",
@@ -271,6 +302,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/excursion/11.jpg",
+      "alt": "photo du chateau saint ange",
       "name": "rome de manière confortable sur les rails du développement durable",
       "time": "9h",
       "price": "19€ par adulte",
@@ -281,6 +313,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/excursion/12.jpg",
+      "alt": "photo d'enfants devant le colisée",
       "name": "rome pour toute la famille entre temples et mythes",
       "time": "9h",
       "price": "59€ par adulte",
@@ -291,6 +324,7 @@
     },
     {
       "image": "Assets/etapes/civitavecchia/excursion/13.jpg",
+      "alt": "photo d'une fontaine",
       "name": "rome la reine des eaux",
       "time": "9h",
       "price": "99€ par adulte",

@@ -46,7 +46,7 @@ function SliderSteps() {
                 <Slider {...settings}>
                     {datas.etapes.map((etape, index) => (
                         <div className="sliderStepsCard" key={index}>
-                            <img src={etape.image} className="image" />
+                            <img src={etape.image} alt={etape.alt} className="image" />
                             <div className="sliderStepsCardText">
                                 <p className="date textUppercase">{etape.date}</p>
                                 <h2 className="city textUppercase">{etape.ville}</h2>

@@ -2,42 +2,49 @@
   "etapes": [
     {
       "image": "Assets/home/etapes/barcelone.jpg",
+      "alt": "barcelone",
       "date": "le 25 mai",
       "ville": "barcelone",
       "text": "On pourra descendre du bateau à partir de 8h et il faudra revenir à 17h30 pour un départ du bateau à 18h"
     },
     {
       "image": "Assets/home/etapes/smeralda.jpg",
+      "alt": "bateau costa smeralda",
       "date": "le 26 mai",
       "ville": "journée en mer",
       "text": "Durant cette journée, on naviguera vers la mer des Baléares. On pourra profiter de toute les activités que propose le Sméralda."
     },
     {
       "image": "Assets/home/etapes/cagliari.jpg",
+      "alt": "cagliari",
       "date": "le 27 mai",
       "ville": "cagliari",
       "text": "On pourra descendre du bateau à partir de 7h30 et il faudra revenir à 16h pour un départ du bateau à 16h30"
     },
     {
       "image": "Assets/home/etapes/naples.jpg",
+      "alt": "naples",
       "date": "le 28 mai",
       "ville": "naples",
       "text": "On pourra descendre du bateau à partir de 9h et il faudra revenir à 18h30 pour un départ du bateau à 19h"
     },
     {
       "image": "Assets/home/etapes/Civitavecchia.jpg",
+      "alt": "civitavecchia",
       "date": "le 29 mai",
       "ville": "civitavecchia / rome",
       "text": "On pourra descendre du bateau à partir de 8h et il faudra revenir à 18h pour un départ du bateau à 18h30"
     },
     {
       "image": "Assets/home/etapes/gênes.jpg",
+      "alt": "gênes",
       "date": "le 30 mai",
       "ville": "gênes",
       "text": "On pourra descendre du bateau à partir de 8h30 et il faudra revenir à 16h30 pour un départ du bateau à 17h"
     },
     {
       "image": "Assets/home/etapes/marseille.jpg",
+      "alt": "marseille",
       "date": "le 31 mai",
       "ville": "marseille",
       "text": "La croisière s'achève, le bateau arrivera à 9h avec la descente de tous les voyageurs"
@@ -48,110 +55,128 @@
       "time": "le 25 mai de 23h30 à 00h",
       "activite": "mer d'étoiles",
       "text": "En haute mer, dans la mer des Baléares, on pourra admirer étoiles et planètes. Le commandant nous guidera avec son récit. On peut télécharger l'appli Stellarium pour identifier les constellations.",
-      "image": "Assets/home/animations/1.jpg"
+      "image": "Assets/home/animations/1.jpg",
+      "alt": "personnes regardant les étoiles"
     },
     {
       "time": "le 26 mai de 00h à 00h30",
       "activite": "mer d'étoiles",
       "text": "En haute mer, dans la mer des Baléares, on pourra admirer étoiles et planètes. Le commandant nous guidera avec son récit. On peut télécharger l'appli Stellarium pour identifier les constellations.",
-      "image": "Assets/home/animations/2.jpg"
+      "image": "Assets/home/animations/2.jpg",
+      "alt": "personnes regardant les étoiles"
     },
     {
       "time": "le 28 mai de 6h30 à 7h30",
       "activite": "baie de capri",
       "subtitle": "“petit-déjeuner capriote”",
       "text": "Devant le spectacle des Faraglioni à l'aube. On pourra savourer un café napolitain. Admirons Capri tandis que le navire ralentit pour une vue à couper le souffle, tout en dégustant une torta caprese.",
-      "image": "Assets/home/animations/3.jpg"
+      "image": "Assets/home/animations/3.jpg",
+      "alt": "baie de capri"
     },
     {
       "time": "le 29 mai de 23h à 00h",
       "activite": "sanctuaire des cétacés",
       "subtitle": "“spectacle de lumières”",
       "text": "Plongeons dans le monde mystérieux des créatures marines. Un fascinant spectacle de lumières nous enveloppera dans l'obscurité de la nuit. Grâce à des projections à couper le souffle, vivons une expérience inoubliable.",
-      "image": "Assets/home/animations/4.jpg"
+      "image": "Assets/home/animations/4.jpg",
+      "alt": "photo du bateau de nuit"
     }
   ],
   "divertissements": [
     {
       "image": "Assets/bateau/divertissements/aquapark.jpg",
+      "alt": "aquapark",
       "name": "aquapark",
       "pont": "pont 17 à 19",
       "text": "Il contient plusieurs toboggans permettant aux enfants et aux adultes de s'offrir des sensations fortes."
     },
     {
       "image": "Assets/bateau/divertissements/lido-caracalla.jpg",
+      "alt": "lido caracalla",
       "name": "lido caracalla",
       "pont": "pont 16",
       "text": "Espace en plein air avec une vue sur la mer, des jeux d'équipe et un baby-foot, des piscines et un bar."
     },
     {
       "image": "Assets/bateau/divertissements/spiaggia-beach-club.jpg",
+      "alt": "spiaggia beach club",
       "name": "la spiaggia beach club",
       "pont": "pont 16 à 17",
       "text": "Une piscine d'eau salée centrale couverte. Cet espace installé sous un dôme transparent qui laisse passer les rayons du soleil."
     },
     {
       "image": "Assets/bateau/divertissements/piazza-di-spagna.jpg",
+      "alt": "piazza di spagna",
       "name": "piazzi di spagna",
       "pont": "pont 16 à 18",
       "text": "Un grand escalier sur l'eau avec une vue sur le sillage du bateau. L'endroit idéal pour les jeux avec animation."
     },
     {
       "image": "Assets/bateau/divertissements/piazza-tratevere.jpg",
+      "alt": "piazza trastevere",
       "name": "piazza trastevere",
       "pont": "pont 8",
       "text": "Petite place où l'on peut se détendre. Tout au fond, un mur LED géant montre des vues des grandes places italiennes."
     },
     {
       "image": "Assets/bateau/divertissements/colosseo.jpg",
+      "alt": "colosseo",
       "name": "colosseo",
       "pont": "pont 6 à 8",
       "text": "C'est dans cet espace que sont présentés les meilleurs spectacles proposés à bord. Toute la journée, les écrans lumineux racontent une nouvelle histoire en rapport avec l'escale du jour."
     },
     {
       "image": "Assets/bateau/divertissements/sanremo-theatre.jpg",
+      "alt": "sanremo théâtre",
       "name": "sanremo théâtre",
       "pont": "pont 6 à 7",
       "text": "Chaque soir des spectacles grandioses vous attendent. En fin de soirée, il se transforme en Mito Disco."
     },
     {
       "image": "Assets/bateau/divertissements/mito-disco.jpg",
+      "alt": "mito disco",
       "name": "mito disco",
       "pont": "pont 6 à 7",
       "text": "Le mito disco est le dernier rendez-vous de la journée. vous pourrez danser et faire la fête sur la mer."
     },
     {
       "image": "Assets/bateau/divertissements/laguna-casino.jpg",
+      "alt": "laguna casino",
       "name": "laguna casino",
       "pont": "pont 7",
       "text": "Casino avec tout les classiques et de nombreux jeux électroniques de dernière génération. Réservé aux adultes de plus de 18 ans."
     },
     {
       "image": "Assets/bateau/divertissements/code-museum.jpg",
+      "alt": "code museo",
       "name": "code museo",
       "pont": "pont 7",
       "text": "Ce musée en mer, d'une superficie de 400m² présente le meilleur du design italien en matière de mode, transport ou encore cinéma."
     },
     {
       "image": "Assets/bateau/divertissements/vr-space.jpg",
+      "alt": "vr space",
       "name": "vr space",
       "pont": "pont 6",
       "text": "Explorez de nouveaux mondes avec la Réalité Virtuelle."
     },
     {
       "image": "Assets/bateau/divertissements/salle-d-arcade.jpg",
+      "alt": "salle d'arcade",
       "name": "salle d'arcade",
       "pont": "pont 16",
       "text": "Zone où tout le monde peut s'amuser grâce à une variété de jeux et de jeux vidéo."
     },
     {
       "image": "Assets/bateau/divertissements/squok-baby-club.jpg",
+      "alt": "squok baby area",
       "name": "squok baby area",
       "pont": "pont 16",
       "text": "Un espace dédié au divertissementdes enfants de 0 à 6 ans. Ils auront l'occasion de s'amuser avec leurs parents dans une salle dédiée. "
     },
     {
       "image": "Assets/bateau/divertissements/squok-club.jpg",
+      "alt": "squok area",
       "name": "squok area",
       "pont": "pont 16",
       "text": "Pour les enfants de 3 à 11 ans, en leur proposant de nombreuses activités amusantes et stimulantes."
@@ -160,6 +185,7 @@
   "restaurants": [
     {
       "image": "Assets/bateau/restos/1.jpg",
+      "alt": "la colombina restaurant",
       "name": "la colombina restaurant",
       "pont": "pont 5",
       "status": "inclus",
@@ -167,18 +193,21 @@
     },
     {
       "image": "Assets/bateau/restos/2.jpg",
+      "alt": "grand bar mastroanni",
       "name": "grand bar mastroanni",
       "pont": "pont 6",
       "text": "Principale piste de danse du navire mais aussi un lieu de détente pour écouter de la musique tout en sirotant des boissons."
     },
     {
       "image": "Assets/bateau/restos/3.jpg",
+      "alt": "caffè vergnano 1882",
       "name": "caffè vergnano 1882",
       "pont": "pont 6",
       "text": "Ouvert du matin au soir. Vous pourrez y goûter des mélanges spéciaux de cafés mais aussi des croissants ainsi que des focaccia et d'autres snacks."
     },
     {
       "image": "Assets/bateau/restos/4.jpg",
+      "alt": "arlecchino restaurant",
       "name": "arlecchino restaurant",
       "pont": "pont 6",
       "status": "inclus",
@@ -186,12 +215,14 @@
     },
     {
       "image": "Assets/bateau/restos/5.jpg",
+      "alt": "quelli della notte jazz club",
       "name": "quelli della notte jazz club",
       "pont": "pont 6",
       "text": "L'endroit idéal pour les amateurs de jazz avec musique et danse le soir."
     },
     {
       "image": "Assets/bateau/restos/6.jpg",
+      "alt": "il meneghino restaurant",
       "name": "il meneghino restaurant",
       "pont": "pont 6",
       "status": "inclus",
@@ -199,12 +230,14 @@
     },
     {
       "image": "Assets/bateau/restos/7.jpg",
+      "alt": "bar il mattino",
       "name": "bar il mattino",
       "pont": "pont 7",
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
     },
     {
       "image": "Assets/bateau/restos/8.jpg",
+      "alt": "sushino at costa",
       "name": "sushino at costa",
       "pont": "pont 7",
       "status": "payant",
@@ -212,24 +245,28 @@
     },
     {
       "image": "Assets/bateau/restos/9.jpg",
+      "alt": "campari bar",
       "name": "campari bar",
       "pont": "pont 7",
       "text": "Ce bar à thème propose un large choix de cocktails originaux avec des produits de la marque Campari."
     },
     {
       "image": "Assets/bateau/restos/10.jpg",
+      "alt": "bar laguna",
       "name": "bar laguna",
       "pont": "pont 7",
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
     },
     {
       "image": "Assets/bateau/restos/11.jpg",
+      "alt": "il cielo in una stranza piano bar",
       "name": "il cielo in una stranza piano bar",
       "pont": "pont 7",
       "text": "La façon la plus savoureuse de commencer la soirée, un bonverre de vin rouge ou blanc de nos oenothèques et bars à vin."
     },
     {
       "image": "Assets/bateau/restos/12.jpg",
+      "alt": "il rugantino restaurant",
       "name": "il rugantino restaurant",
       "pont": "pont 7",
       "status": "inclus",
@@ -237,12 +274,14 @@
     },
     {
       "image": "Assets/bateau/restos/13.jpg",
+      "alt": "bar superba",
       "name": "bar superba",
       "pont": "pont 7",
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
     },
     {
       "image": "Assets/bateau/restos/14.jpg",
+      "alt": "bellavista restaurant",
       "name": "bellavista restaurant",
       "pont": "pont 8",
       "status": "payant sur réservation",
@@ -250,12 +289,14 @@
     },
     {
       "image": "Assets/bateau/restos/15.jpg",
+      "alt": "bar sport",
       "name": "bar sport",
       "pont": "pont 8",
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
     },
     {
       "image": "Assets/bateau/restos/16.jpg",
+      "alt": "archipelago",
       "name": "archipelago",
       "pont": "pont 8",
       "status": "payant sur réservation",
@@ -263,18 +304,21 @@
     },
     {
       "image": "Assets/bateau/restos/17.jpg",
+      "alt": "osteria frescobaldi",
       "name": "osteria frescobaldi",
       "pont": "pont 8",
       "text": "Premier restaurant en bord de mer du célèbre producteur de vin toscan. Il propose une cuisine locale revisitée."
     },
     {
       "image": "Assets/bateau/restos/18.jpg",
+      "alt": "frescobaldi wine expérience",
       "name": "frescobaldi wine expérience",
       "pont": "pont 8",
       "text": "La façon la plus savoureuse de commencer la soirée, un bonverre de vin rouge ou blanc de nos oenothèques et bars à vin."
     },
     {
       "image": "Assets/bateau/restos/19.jpg",
+      "alt": "gelateria amarillo",
       "name": "gelateria amarillo",
       "pont": "pont 8 et 17",
       "status": "payant",
@@ -282,6 +326,7 @@
     },
     {
       "image": "Assets/bateau/restos/20.jpg",
+      "alt": "food lab",
       "name": "food lab",
       "pont": "pont 8",
       "status": "payant sur réservation",
@@ -289,6 +334,7 @@
     },
     {
       "image": "Assets/bateau/restos/21.jpg",
+      "alt": "teppanyaki restaurant",
       "name": "teppanyaki restaurant",
       "pont": "pont 8",
       "status": "payant sur réservation",
@@ -296,6 +342,7 @@
     },
     {
       "image": "Assets/bateau/restos/22.jpg",
+      "alt": "pummid'oro pizzeria",
       "name": "pummid'oro pizzeria",
       "pont": "pont 8",
       "status": "payant",
@@ -303,12 +350,14 @@
     },
     {
       "image": "Assets/bateau/restos/23.jpg",
+      "alt": "ferrari spazio bollicine",
       "name": "ferrari spazio bollicine",
       "pont": "pont 8",
       "text": "A la carte, on trouve l'ensemble de la gamme prestigieuse des vins pétillants Ferrari. Ils s'y servent également des plats légers pour accompagner les apéritifs et les verres de fin de soirée."
     },
     {
       "image": "Assets/bateau/restos/24.jpg",
+      "alt": "la sagra dei sapori",
       "name": "la sagra dei sapori",
       "pont": "pont 8",
       "status": "inclus",
@@ -316,6 +365,7 @@
     },
     {
       "image": "Assets/bateau/restos/25.jpg",
+      "alt": "the salty beach street food",
       "name": "the salty beach street food",
       "pont": "pont 16",
       "status": "payant",
@@ -323,18 +373,21 @@
     },
     {
       "image": "Assets/bateau/restos/26.jpg",
+      "alt": "bar sole",
       "name": "bar sole",
       "pont": "pont 16",
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
     },
     {
       "image": "Assets/bateau/restos/27.jpg",
+      "alt": "bar la cascata",
       "name": "bar la cascata",
       "pont": "pont 16",
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
     },
     {
       "image": "Assets/bateau/restos/28.jpg",
+      "alt": "family restaurant",
       "name": "family restaurant",
       "pont": "pont 16",
       "status": "inclus",
@@ -342,6 +395,7 @@
     },
     {
       "image": "Assets/bateau/restos/29.jpg",
+      "alt": "nutella at costa",
       "name": "nutella at costa",
       "pont": "pont 17",
       "status": "payant",
@@ -349,12 +403,14 @@
     },
     {
       "image": "Assets/bateau/restos/30.jpg",
+      "alt": "aperol spritz bar",
       "name": "aperol spritz bar",
       "pont": "pont 16",
       "text": "Ce bar à thème propose un large choix d'aperol spritz."
     },
     {
       "image": "Assets/bateau/restos/31.jpg",
+      "alt": "kiki poke",
       "name": "kiki poke",
       "pont": "pont 17",
       "status": "payant",
@@ -362,6 +418,7 @@
     },
     {
       "image": "Assets/bateau/restos/32.jpg",
+      "alt": "green healthy food",
       "name": "green healthy food",
       "pont": "pont 18",
       "status": "payant",
@@ -369,12 +426,14 @@
     },
     {
       "image": "Assets/bateau/restos/33.jpg",
+      "alt": "settimo cielo bar",
       "name": "settimo cielo bar",
       "pont": "pont 18",
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
     },
     {
       "image": "Assets/bateau/restos/34.jpg",
+      "alt": "bar orizzonte",
       "name": "bar orizzonte",
       "pont": "pont 18",
       "text": "Vous pourrez retrouver le goût italien, dans les bars comme sur les tables de restaurant, grâce à des produits et des marques sélectionnés."
@@ -383,48 +442,56 @@
   "sports": [
     {
       "image": "Assets/bateau/sport/solarium.jpg",
+      "alt": "solarium",
       "name": "solarium",
       "pont": "pont 17, 18 et 19",
       "text": "L'endroit idéal pour bronzer, boire un cocktail. Il y a plusieurs solariums à bord. Mettez votre serviette sur votre transat et profitez du soleil."
     },
     {
       "image": "Assets/bateau/sport/piscine-settimo-cielo.jpg",
+      "alt": "piscine settimo cielo",
       "name": "piscine settimo cielo",
       "pont": "pont 18",
       "text": "Les piscines à bord sont le lieu de divertissement."
     },
     {
       "image": "Assets/bateau/sport/volare-skywalk.jpg",
+      "alt": "volare skywalk",
       "name": "volare skywalk",
       "pont": "pont 18",
       "text": "Avec ses 65 mètres de haut et son plancher de verre, la promenade offre une vue panoramique spectaculaire. "
     },
     {
       "image": "Assets/bateau/sport/espace-sport.jpg",
+      "alt": "espace sport",
       "name": "espace sport",
       "pont": "pont 18",
       "text": "Le terrain multisport où sont organisées toutes sortes de tournois en équipe, du football, du volley-ball, du basket ou du tennis."
     },
     {
       "image": "Assets/bateau/sport/espace-beauté.jpg",
+      "alt": "espace beauté",
       "name": "espace beauté",
       "pont": "pont 16",
       "text": "Dans ce salon, vous y trouverez manucure, pédicure, maquillage, salon de coiffure, barbier, blanchiment dentaire GoSMILE."
     },
     {
       "image": "Assets/bateau/sport/beauty-spa-solemio.jpg",
+      "alt": "beauty spa solemio",
       "name": "beauty spa solemio",
       "pont": "pont 16",
       "text": "Un espace pour vous détendre avec hammam, sauna, bain à remous ainsi que la possibilité de vous faire masser."
     },
     {
       "image": "Assets/bateau/sport/gym.jpg",
+      "alt": "gym",
       "name": "gym",
       "pont": "pont 16",
       "text": "Vous pourrez garder la forme dans la salle de sport équipée des dernières machines."
     },
     {
       "image": "Assets/bateau/sport/lungomare.jpg",
+      "alt": "lungomare riviera",
       "name": "lungomare riviera",
       "pont": "pont 8",
       "text": "L'endroit idéal pour marcher le long du pont."
@@ -433,30 +500,35 @@
   "boutiques": [
     {
       "image": "Assets/bateau/boutiques/my-moments-photo-store.jpg",
+      "alt": "my moments photo store",
       "name": "my moments photo store",
       "pont": "pont 6",
       "text": "Tirages, photos numériques, magnets, gadgets originaux et bien d'autres articles."
     },
     {
       "image": "Assets/bateau/boutiques/galleria-shop.jpg",
+      "alt": "galleria shops",
       "name": "galleria shops",
       "pont": "pont 7",
       "text": "A bord, vous avez la possibilité d'acheter de beaux cadeaux mais aussi tout ce dont vous pourriez avoir besoin."
     },
     {
       "image": "Assets/bateau/boutiques/galleria-shop.jpg",
+      "alt": "costa shop",
       "name": "costa shop",
       "pont": "pont 7",
       "text": "Des souvenirs aux grandes marques, il y en a pour tous les goûts. Choisissez parmi mille occasions pour faire ou vous offrir un cadeau."
     },
     {
       "image": "Assets/bateau/boutiques/iris-studio.jpg",
+      "alt": "iris studio",
       "name": "iris studio",
       "pont": "pont 7",
       "text": "Une photo artistique de l'iris en haute résolution qui capte l'essence de votre regard, révélant les nuances et les détails cachés au centre de l'œil."
     },
     {
       "image": "Assets/bateau/boutiques/area-shopping.jpg",
+      "alt": "area shopping il mercatino",
       "name": "area shopping il mercatino",
       "pont": "pont 8",
       "text": "A bord, vous avez la possibilité d'acheter de beaux cadeaux mais aussi tout ce dont vous pourriez avoir besoin."
@@ -465,54 +537,63 @@
   "autres": [
     {
       "image": "Assets/bateau/autres/smoking-area.jpg",
+      "alt": "smoking area",
       "name": "smoking area",
       "pont": "pont 8, 17, 18 et 19",
       "text": "L'endroit pour que les fumeurs puissent se retrouver et fumer leur cigarette. Ce sont les seuls endroits pour fumer."
     },
     {
       "image": "Assets/bateau/autres/international.jpg",
+      "alt": "international info point",
       "name": "international info point",
       "pont": "pont 8",
       "text": "Besoin d'aide dans votre langue maternelle."
     },
     {
       "image": "Assets/bateau/autres/c-dream.jpg",
+      "alt": "c-dream",
       "name": "c-dream",
       "pont": "pont 7 et 8",
       "text": "Le service de conseil gratuit où vous pouvez acheter votre prochaine croisière."
     },
     {
       "image": "Assets/bateau/autres/carte.jpg",
+      "alt": "enregistrement cartes de crédits",
       "name": "enregistrement cartes de crédits",
       "pont": "pont 3, 6, 7 et 8",
       "text": "Espace dédié pour l'enregistrement des cartes de crédit qui serviront sur le bateau."
     },
     {
       "image": "Assets/bateau/autres/reception.jpg",
+      "alt": "recption",
       "name": "recption",
       "pont": "pont 7",
       "text": "Appelez le 3333 depuis votre téléphone de cabine ou rendez vous à la réception ou le personnel pourra vous fournir toutes les informations dont vous avez besoin."
     },
     {
       "image": "Assets/bateau/autres/club.jpg",
+      "alt": "c/club point",
       "name": "c/club point",
       "pont": "pont 7",
       "text": "Les Guest Relation Managers ou les ambassadeurs sont à votre disposition pour les informer des avantages réservés pendant la croisière."
     },
     {
       "image": "Assets/bateau/autres/inert.jpg",
+      "alt": "internet & app info point",
       "name": "internet & app info point",
       "pont": "pont 7",
       "text": "Vous trouverez des informations et de l’assistance du personnel à bord pour le support de connexion en ligne, l’achat de forfaits internet et l’utilisation de l’application Costa."
     },
     {
       "image": "Assets/bateau/autres/mytour.jpg",
+      "alt": "services d'excursion mytour",
       "name": "services d'excursion mytour",
       "pont": "pont 6",
       "text": "Un espace dédié aux excursions, où vous trouverez les experts en tourisme à votre disposition pour organiser des visites aux lieux d’intérêt des ports d’escale."
     },
     {
       "image": "Assets/bateau/autres/hopital.jpg",
+      "alt": "hopital",
       "name": "hopital",
       "pont": "pont 3",
       "text": "L’espace où les médecins et les infirmières prennent soin de votre santé et celle de vos proches, si nécessaire."

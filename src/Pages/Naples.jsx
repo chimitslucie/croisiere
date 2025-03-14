@@ -20,7 +20,7 @@ function Naples() {
                         {
                             naples.voirs.map((voir, index) => (
                                 <div className="card" key={index}>
-                                    <img src={voir.image} />
+                                    <img src={voir.image} alt={voir.alt} />
                                     <div className="cardContent">
                                         <h2 className="textUppercase textDarkblue textBold">{voir.name}</h2>
                                         <p className="text textSecondary textSemibold">{voir.text}</p>
@@ -41,7 +41,7 @@ function Naples() {
                         {
                             naples.excursions.map((excursion, index) => (
                                 <div className="card" key={index}>
-                                    <img src={excursion.image} />
+                                    <img src={excursion.image} alt={excursion.alt} />
                                     <div className="cardContent">
                                         <h2 className="textUppercase textDarkblue textBold">{excursion.name}</h2>
                                         <p className="cardContentInfos textSecondary">L'excursion durera {excursion.time} / {excursion.price}</p>
