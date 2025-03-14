@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/croisiere/static/css/main.e02fbb4f.css",
-    "main.js": "/croisiere/static/js/main.f4e36a5e.js",
+    "main.css": "/croisiere/static/css/main.02b889fb.css",
+    "main.js": "/croisiere/static/js/main.d1739aa7.js",
     "static/js/488.d6616595.chunk.js": "/croisiere/static/js/488.d6616595.chunk.js",
     "static/media/marseille.jpg": "/croisiere/static/media/marseille.ab993068e69f62aadf2f.jpg",
     "static/media/hero.jpg": "/croisiere/static/media/hero.cfdf0b30ac2934c50bd8.jpg",
+    "static/media/naples.jpg": "/croisiere/static/media/naples.8eeacd377bf35a771941.jpg",
     "static/media/cagliari.jpg": "/croisiere/static/media/cagliari.7fb02898465c1102d7fe.jpg",
     "static/media/genes.jpg": "/croisiere/static/media/genes.ba2dc015061f5b01c2f3.jpg",
     "static/media/barcelone.jpg": "/croisiere/static/media/barcelone.0361bd935c94e0727301.jpg",
     "static/media/civitavecchia.jpg": "/croisiere/static/media/civitavecchia.1e3a95e248b4375d62c9.jpg",
     "static/media/diaro-di-bordo.jpg": "/croisiere/static/media/diaro-di-bordo.b979e2f28b2526df4b99.jpg",
-    "static/media/naples.jpg": "/croisiere/static/media/naples.2bb99b3ba8aa6038522f.jpg",
     "static/media/tarifs.jpg": "/croisiere/static/media/tarifs.1f688d610609f2b78ef0.jpg",
     "static/media/logo.svg": "/croisiere/static/media/logo.c90acc21d53bac4172e3877a51e5f0d7.svg",
     "static/media/slick.svg": "/croisiere/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -18,12 +18,12 @@
     "static/media/slick.ttf": "/croisiere/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/croisiere/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/croisiere/index.html",
-    "main.e02fbb4f.css.map": "/croisiere/static/css/main.e02fbb4f.css.map",
-    "main.f4e36a5e.js.map": "/croisiere/static/js/main.f4e36a5e.js.map",
+    "main.02b889fb.css.map": "/croisiere/static/css/main.02b889fb.css.map",
+    "main.d1739aa7.js.map": "/croisiere/static/js/main.d1739aa7.js.map",
     "488.d6616595.chunk.js.map": "/croisiere/static/js/488.d6616595.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e02fbb4f.css",
-    "static/js/main.f4e36a5e.js"
+    "static/css/main.02b889fb.css",
+    "static/js/main.d1739aa7.js"
   ]
 }
