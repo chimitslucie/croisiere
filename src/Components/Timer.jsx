@@ -1,11 +1,13 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 
 function Timer() {
     // Récupérer la date cible en UTC
     const isSummerTime = new Date().getTimezoneOffset() === -120; // Vérifie si on est en UTC+2
     const targetDate = new Date(`2025-05-24T${isSummerTime ? "18:00" : "19:00"}`).getTime();
+    const [timeLeft, setTimeLeft] = useState(getTimeRemaining());
+    const [visible, setVisible] = useState(true);
 
-    const getTimeRemaining = () => {
+    const getTimeRemaining = useCallback(() => {
         const now = new Date().getTime();
         const difference = targetDate - now;
 
@@ -19,12 +21,11 @@ function Timer() {
             minutes: Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60)),
             seconds: Math.floor((difference % (1000 * 60)) / 1000),
         };
-    };
-
-    const [timeLeft, setTimeLeft] = useState(getTimeRemaining());
-    const [visible, setVisible] = useState(true);
+    }, [targetDate]);
 
     useEffect(() => {
+        setTimeLeft(getTimeRemaining());
+
         const interval = setInterval(() => {
             setTimeLeft(getTimeRemaining());
         }, 1000);
@@ -39,7 +40,7 @@ function Timer() {
             clearInterval(interval);
             window.removeEventListener("scroll", handleScroll);
         };
-    }, [targetDate]);  //  Enlever `getTimeRemaining` et `visible` des dépendances
+    }, [getTimeRemaining]);
 
     // function getTimeRemaining() {
     //     const now = new Date().getTime();
