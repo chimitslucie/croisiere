@@ -122,7 +122,7 @@ function Bateau() {
                     <Title title="services dans les cabines" />
                     <div className="cabinContent">
                         <div className="card">
-                            <img src={diaro} alt="photo d'une page d'un journal" />
+                            <img src={diaro} alt="page d'un journal" />
                             <div className="cardContent">
                                 <h3 className="textUppercase textDarkblue textBold">diaro di bordo</h3>
                                 <p className="textSecondary textSemibold">

@@ -1,7 +1,7 @@
-function Card({ src, title, pont, text }) {
+function Card({ src, alt, title, pont, text }) {
     return (
         <div className="card">
-            <img src={src} />
+            <img src={src} alt={alt} />
             <div className="cardContent">
                 <h3 className="cardTitle textDarkblue textUppercase">{title}</h3>
                 <p className="cardPont textDarkblue textUppercase textLight">{pont}</p>
