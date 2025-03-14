@@ -16,11 +16,11 @@ function Nav() {
             <Link to={"/"}>
                 <img src={logo} alt="costa logo" className="logo" />
             </Link>
-            <a id="navToggle" className={`navToggle ${showNav ? "toCross" : ""}`} onClick={handleShowNav}>
+            <div id="navToggle" className={`navToggle ${showNav ? "toCross" : ""}`} onClick={handleShowNav}>
                 <span className="navToggleBar navToggleBarTop"></span>
                 <span className="navToggleBar navToggleBarMiddle"></span>
                 <span className="navToggleBar navToggleBarBottom"></span>
-            </a>
+            </div>
             <nav className={`nav ${showNav ? "navOpen" : ""}`}>
                 <ul className="navList">
                     <li className="navItem">
