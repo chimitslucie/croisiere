@@ -4,7 +4,7 @@ function Timer() {
     // Récupérer la date cible en UTC
     const isSummerTime = new Date().getTimezoneOffset() === -120; // Vérifie si on est en UTC+2
     const targetDate = new Date(`2025-05-24T${isSummerTime ? "18:00" : "19:00"}`).getTime();
-    const [timeLeft, setTimeLeft] = useState(getTimeRemaining());
+    const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
     const [visible, setVisible] = useState(true);
 
     const getTimeRemaining = useCallback(() => {
