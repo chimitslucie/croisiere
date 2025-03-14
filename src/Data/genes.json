@@ -21,7 +21,7 @@
     {
       "image": "Assets/etapes/genes/voir/3.jpg",
       "alt": "photo de la via garibaldi",
-      "name": "via Garibaldi",
+      "name": "Via Garibaldi",
       "price": "Accès libre",
       "temps": "de 11min en voiture, 15min en transport, 20min à pieds",
       "text": "La Via Garibaldi, classée à l’UNESCO, est célèbre pour ses somptueux Palazzi dei Rolli, d’anciens palais aristocratiques aux façades élégantes et aux intérieurs somptueux. C’est un incontournable pour les amateurs d’histoire et d’architecture.",
@@ -87,7 +87,7 @@
       "name": "Phare de Gênes (la Lanterna)",
       "price": "Tarif variable",
       "temps": "de 8min en voiture, 25min en transport, 30min à pieds",
-      "text": "La Lanterna de Gênes est le plus ancien phare encore en activité au monde et un symbole de la ville. Haute de 77 mètres, elle offre une vue panoramique spectaculaire sur le port et la mer. Son musée adjacent retrace l’histoire maritime de Gênes, faisant de ce site un incontournable pour les passionnés de navigation et d’histoire.",
+      "text": "La Lanterna de Gênes est l’un des plus anciens phares encore en activité au monde et un symbole de la ville. Haute de 77 mètres, elle offre une vue panoramique spectaculaire sur le port et la mer. Son musée adjacent retrace l’histoire maritime de Gênes, faisant de ce site un incontournable pour les passionnés de navigation et d’histoire.",
       "lien": "https://www.lanternadigenova.com/"
     },
     {
@@ -114,7 +114,7 @@
       "name": "Spianata Castelletto",
       "price": "Accès libre",
       "temps": "de 12min en voiture, 18min en transport, 23min à pieds",
-      "text": "La Spianata Castelletto est un superbe belvédère offrant l'une des plus belles vues panoramiques sur Gênes, son port et la mer. Accessible par un ascenseur Art nouveau depuis le centre-ville, c’est un lieu idéal pour admirer la ville d’en haut, surtout au coucher du soleil. Son ambiance paisible en fait une halte parfaite pour une pause contemplative.",
+      "text": "La Spianata Castelletto est un superbe belvédère offrant l’un des plus beaux panoramas sur Gênes, son port et la mer. Accessible par un ascenseur Art nouveau depuis le centre-ville, c’est un lieu idéal pour admirer la ville d’en haut, surtout au coucher du soleil. Son ambiance paisible en fait une halte parfaite pour une pause contemplative.",
       "lien": "https://www.visitgenoa.it/fr/node/4087"
     }
   ],
@@ -126,7 +126,7 @@
       "time": "4h",
       "price": "52€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
-      "text": "Mettez-vous à l’épreuve au Parc d’aventures de Gênes avec des jeunes de votre âge. Avec votre moniteur et d’autres jeunes, vous pénétrez dans le centre historique en direction du funiculaire de Gênes. C’est alors que l’aventure commence: vous grimpez au sommet de la colline du Righi. Le personnel du Parc d’aventures vous aide ensuite à enfiler votre casque et votre harnais. Vous pouvez défier le vide sur des ponts tibétains et tyroliens et descendre à toute vitesse avec des poulies; il y a différents parcours pour chaque niveau de difficulté. Depuis les plates-formes dans les arbres, la perspective est unique et on a l’impression d’être suspendu au-dessus de la mer.",
+      "text": "Mettez-vous à l’épreuve au Parc d’aventures de Gênes avec des jeunes de votre âge. Avec votre moniteur et d’autres jeunes, vous traversez le centre historique en direction du funiculaire de Gênes. C’est alors que l’aventure commence: vous grimpez au sommet de la colline du Righi. Le personnel du Parc d’aventures vous aide ensuite à enfiler votre casque et votre harnais. Vous pouvez défier le vide sur des ponts tibétains et tyroliens et descendre à toute vitesse avec des poulies; il y a différents parcours pour chaque niveau de difficulté. Depuis les plates-formes dans les arbres, la perspective est unique et on a l’impression d’être suspendu au-dessus de la mer.",
       "info": "L’expérience est réservée exclusivement aux adolescents, qui seront accompagnés par le guide et les animateurs.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=285612601&ICode=04HF&date=2025-05-30&previousCategory=true"
     },
@@ -137,7 +137,7 @@
       "time": "3h",
       "price": "79€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
-      "text": "Apprenez à réaliser le pesto génois de manière traditionnelle, faites-le chez Zeffirino, le restaurant de Gênes, lieu de véritable institution depuis presque 150 ans et cinq générations. Vous nous retrouvez au Marcato-orientale, en compagnie de votre guide, vous vous promenez parmi les fournisseurs de Zeffirino pour apprendre à choisir les fromages, les pignons et le basilic. Dans le restaurant, suivez le chef et recréer la recette de cette sauce, avec un piston et un mortier en marbre. Entre les histoires sur la ville et les anecdotes sur les clients célèbres, il est temps de goûter votre pesto sur les croûtons de focaccia. Tous à table pour déguster les spécialités de la maison.",
+      "text": "Apprenez à réaliser le pesto génois de manière traditionnelle, faites-le chez Zeffirino, le restaurant de Gênes, lieu de véritable institution depuis presque 150 ans et cinq générations. Vous nous retrouvez au Marcato-orientale, en compagnie de votre guide, vous vous promenez parmi les fournisseurs de Zeffirino pour apprendre à choisir les fromages, les pignons et le basilic. Dans le restaurant, suivez le chef et recréer la recette de cette sauce, avec un pilon et un mortier en marbre. Entre les histoires sur la ville et les anecdotes sur les clients célèbres, il est temps de goûter votre pesto sur les croûtons de focaccia. Tous à table pour déguster les spécialités de la maison.",
       "info": "Les jours fériés, le marché Orientale est fermé, la dégustation de fromage sera effectuée par Zeffirino.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=234360691&ICode=042R&date=2025-05-30&previousCategory=true"
     },
@@ -160,7 +160,7 @@
       "price": "99€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
       "text": "Avez-vous déjà pensé voir Gênes depuis le haut en parcourant une partie des anciens remparts de la ville? Vous gravirez la pente avec le funiculaire de la Zecca qui vous amène sur la colline. Au terminus, un guide local vous présentera votre VTT électrique. Après quelques coups de pédales, vous gravirez les 400 mètres de dénivellation du fort Sperone puis découvrirez le fort Begato. Pour finir, après un surprenant raccourci dans les sous-bois, pause à un point panoramique et goûter avec l’authentique focaccia de Ligurie en contemplant toute la ville.",
-      "info": "Costa s’occupe de vous fournir le vtt électrique technique, un casque et une bouteille d’eau. Quand vous montez à bord, dites au bureau des excursions combien vous mesurez: un vtt électrique de la taille idéale vous attendra au début du parcours, hauteur minimale: 1m55.",
+      "info": "Costa s’occupe de vous fournir le vtt électrique technique, un casque et une bouteille d’eau. À votre embarquement, indiquez votre taille au bureau des excursions: un vtt électrique de la taille idéale vous attendra au début du parcours, hauteur minimale: 1m55.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=179433732&ICode=03SM&date=2025-05-30&previousCategory=true"
     },
     {
@@ -181,7 +181,7 @@
       "time": "4.5h",
       "price": "85€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
-      "text": "Au port, votre guide vous attend avec des vélos électriques et des casques pour pédaler dans la ville. Vous vous engagez sur la piste cyclable qui va directement au Palazzo San Giorgio. Sur la via San Lorenzo entièrement piétonne, vous rencontrerez des décors de palais nobles. Depuis Corso Italia, on entrevoit déjà la petite plage de Boccadasse. Quel meilleur endroit pour faire une halte? Et celle-ci sera plus agréable encore si elle permet de goûter à la focaccia génoise typique. Vous parcourez les ruelles peu fréquentées de la Gênes médiévale, jusqu’à la piazza Caricamento ou jusqu’au navire sur les pistes cyclables en bord de mer.",
+      "text": "Au port, votre guide vous attend avec des vélos électriques et des casques pour pédaler dans la ville. Vous vous engagez sur la piste cyclable qui va directement au Palazzo San Giorgio. Sur la via San Lorenzo entièrement piétonne, vous découvrirez des façades de palais nobles. Depuis Corso Italia, on entrevoit déjà la petite plage de Boccadasse. Quel meilleur endroit pour faire une halte? Et celle-ci sera plus agréable encore si elle permet de goûter à la focaccia génoise typique. Vous parcourez les ruelles peu fréquentées de la Gênes médiévale, jusqu’à la piazza Caricamento ou jusqu’au navire sur les pistes cyclables en bord de mer.",
       "info": "Taille minimale: 1m45. Les instructions et les commentaires de cette expérience seront en anglais. Des guides en langue française sont disponibles uniquement pour les groupes monolingues. Costa s’occupe de fournir le vélo et le casque. Portez des chaussures confortables et des vêtements adaptés au parcours.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=50237407&ICode=01HZ&date=2025-05-30&previousCategory=true"
     },
@@ -192,7 +192,7 @@
       "time": "2h",
       "price": "85€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
-      "text": "Après une formation rapide dans la zone du Port Antique, conduisez votre segway, une sorte de patinette électrique, dans les “carruggi”, les ruelles étroites, à la découverte de coins cachés, jusqu’à la Piazza De Ferrari. Devant vous, le Palais Ducal. Poursuivez en direction de Piazza delle Erbe. Vous traverserez la Porte Soprana avec votre segway, en quelques minutes, vous passez devant la maison de l’explorateur Christophe Colomb, pour ensuite vous enfilez dans les ruelles jusqu’à l’église de Santa Maria di Castello. Dernière étape avec les portiques de Sottoripa.",
+      "text": "Après une formation rapide dans la zone du Port Antique, conduisez votre segway, une sorte de patinette électrique, dans les “carruggi”, les ruelles étroites, à la découverte de coins cachés, jusqu’à la Piazza De Ferrari. Devant vous, le Palais Ducal. Poursuivez en direction de Piazza delle Erbe. Vous traverserez la Porte Soprana avec votre segway, en quelques minutes, vous passez devant la maison de l’explorateur Christophe Colomb, pour vous vous engagez dans les ruelles jusqu’à l’église de Santa Maria di Castello. Dernière étape avec les portiques de Sottoripa.",
       "info": "Âge minimum: 16 ans.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=89790803&ICode=02QY&date=2025-05-30&previousCategory=true"
     },
@@ -203,7 +203,7 @@
       "time": "3.5h",
       "price": "45€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
-      "text": "La visite du centre historique de la ville part du Port Antique. D’ici, notre guide vous conduira à l’intérieur des ruelles caractéristiques. En vous promenant, vous découvrirez de nombreuses boutiques anciennes, témoignage des traditions et des excellences oenogastronomiques: du pesto ay pandolce, du vin Pigato au Vermentino, vous pourrez acheter quelques produits typiques. Près de la Maison de Colomb, il est obligatoire de goûter la focaccia génoise aussi simple que délicieuse. C’est le déjeuner du vrai génois AOC.",
+      "text": "La visite du centre historique de la ville part du Port Antique. D’ici, notre guide vous conduira à l’intérieur des ruelles caractéristiques. En vous promenant, vous découvrirez de nombreuses boutiques anciennes, témoignage des traditions et des excellences oenogastronomiques: du du pesto au pandolce, du vin Pigato au Vermentino, vous pourrez acheter quelques produits typiques. Près de la Maison de Colomb, il est obligatoire de goûter la focaccia génoise aussi simple que délicieuse. C’est le déjeuner du vrai génois AOC.",
       "info": "Une dégustation est incluse.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=266997392&ICode=04C3&date=2025-05-30&previousCategory=true"
     },
@@ -324,7 +324,7 @@
       "time": "5h",
       "price": "65€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
-      "text": "En compagnie du guide, montez sur le funiculaire rouge Zecca-Righi qui vous amène sur les hauteurs de la ville. Le long d’un vieux sentier qui longe d’anciens murs du 17ème siècle, vous arrivez sous Forte Sperone, la forteresse la plus imposante. Poursuivez pour Forte Puin, où le panorama est à 360°. Vous êtes sur la via delle “neviere”. Encore à Forte Castellaccio et ensuite arrêt gastronomique à l’Ostaia de Baracche, une véritable institution ici à Gênes. Focaccia et cappuccino vous attendent!",
+      "text": "En compagnie du guide, montez sur le funiculaire rouge Zecca-Righi qui vous amène sur les hauteurs de la ville. Le long d’un vieux sentier qui longe d’anciens murs du 17ème siècle, vous arrivez sous Forte Sperone, la forteresse la plus imposante. Poursuivez pour Forte Puin, où le panorama est à 360°. Vous êtes sur la via delle “neviere”. Encore à Forte Castellaccio et ensuite arrêt gastronomique à l’Ostaia de Baracche, une véritable institution ici à Gênes. Une focaccia et un cappuccino vous attendent !",
       "info": "Âge minimum: 6 ans. Des chaussures de sport sont conseillées.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=89795124&ICode=02R3&date=2025-05-30&previousCategory=true"
     },
@@ -335,7 +335,7 @@
       "time": "4h",
       "price": "59€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
-      "text": "Vous atteignez la Zecca, en plein cœur du centre historique de Gênes. Ensuite la première aventure commence en montant dans le funiculaire. Vous êtes dans la région des anciennes Forteresses et des murailles baroques qui protégeaient Gênes. C’est ici que se trouve l’Observatoire astronomique du Righi. Votre voyage commence au Planétarium. Une projection exclusive vous dévoile les secrets du Soleil. Vous le découvrez ensuite de vos propres yeux avec le puissant télescope braqué dessus. Les astrophysiciens de l’Observatoire ne vous laisseront pas sans réponses à vos questions. Et après avoir fait le plein de découvertes, un délicieux encas vous attend au Circolo Cacciatori Castellaccio pour remettre les pieds sur terre!",
+      "text": "Vous atteignez la Zecca, en plein cœur du centre historique de Gênes. Ensuite la première aventure commence en montant dans le funiculaire. Vous êtes dans la région des anciennes Forteresses et des murailles baroques qui protégeaient Gênes. C’est ici que se trouve l’Observatoire astronomique du Righi. Votre voyage commence au planétarium, où une projection exclusive vous dévoilera les secrets du Soleil. Vous le découvrez ensuite de vos propres yeux avec le puissant télescope braqué dessus. Les astrophysiciens de l’Observatoire ne vous laisseront pas sans réponses à vos questions. Et après avoir fait le plein de découvertes, un délicieux encas vous attend au Circolo Cacciatori Castellaccio pour remettre les pieds sur terre!",
       "info": "Âge minimum: 4 ans.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=285612583&ICode=04HE&date=2025-05-30&previousCategory=true"
     }

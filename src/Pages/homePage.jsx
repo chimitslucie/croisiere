@@ -13,7 +13,7 @@ function HomePage() {
                     <p className="introText textSecondary">
                         Notre croisière en Méditerranée se fera à bord du Costa Sméralda.
                         <br />
-                        Le partira de Marseille le samedi 24 mai à 18h et reviendra à Marseille le samedi 31 mai à 9h.
+                        Le bateau partira de Marseille le samedi 24 mai à 18h et reviendra à Marseille le samedi 31 mai à 9h.
                         <br />
                         Durant cette semaine, vous aurez la chance de visiter plusieurs villes d'Espagne et d'Italie.
                     </p>

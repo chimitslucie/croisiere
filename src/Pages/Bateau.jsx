@@ -40,9 +40,9 @@ function Bateau() {
         <div id="bateau">
             <Hero title="le bateau" />
             <Intro
-                text=" Le Costa Smeralda a été construit en 2019. 
-                        Il est l'un des plus gros bateau de la flotte Costa mesurant 337m de long avec une capacité d'accueil de plus de 6500 passagers.
-                        Il contient 20 ponts, 2612 cabines, 13 piscines et jaccuzzi, 11 restaurants et snack-bar et 19 bar & lounge."
+                text=" Le Costa Smeralda a été construit en 2019. Il est l'un des plus gros bateaux de la flotte Costa mesurant 337m de long avec une 
+                capacité d'accueil de plus de 6500 passagers. Il contient 20 ponts, 2612 cabines, 13 piscines et jacuzzi, 11 restaurants et snack-bar et 
+                19 bar & lounge."
             />
             <div className="information">
                 <div className="container">
@@ -127,7 +127,7 @@ function Bateau() {
                                 <h3 className="textUppercase textDarkblue textBold">diaro di bordo</h3>
                                 <p className="textSecondary textSemibold">
                                     Journal de bord distribué tous les soirs en cabine. Il contient toutes les informations nécessaires sur les activités
-                                    des jours suivants, les ports d'escales, les excursions disponibles, ainsi que les horaires des restaurants et de
+                                    des jours suivants, les ports d'escale, les excursions disponibles, ainsi que les horaires des restaurants et de
                                     nombreuses autres informations utiles.
                                 </p>
                             </div>

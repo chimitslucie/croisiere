@@ -12,7 +12,7 @@
       "alt": "bateau costa smeralda",
       "date": "le 26 mai",
       "ville": "journée en mer",
-      "text": "Durant cette journée, on naviguera vers la mer des Baléares. On pourra profiter de toute les activités que propose le Sméralda."
+      "text": "Durant cette journée, on naviguera vers la mer des Baléares. On pourra profiter de toutes les activités que propose le Sméralda."
     },
     {
       "image": "Assets/home/etapes/cagliari.jpg",
@@ -54,7 +54,7 @@
     {
       "time": "le 25 mai de 23h30 à 00h",
       "activite": "mer d'étoiles",
-      "text": "En haute mer, dans la mer des Baléares, on pourra admirer étoiles et planètes. Le commandant nous guidera avec son récit. On peut télécharger l'appli Stellarium pour identifier les constellations.",
+      "text": "En haute mer, dans la mer des Baléares, on pourra admirer les étoiles et les planètes.. Le commandant nous guidera avec son récit. On peut télécharger l'appli Stellarium pour identifier les constellations.",
       "image": "Assets/home/animations/1.jpg",
       "alt": "personnes regardant les étoiles"
     },
@@ -69,7 +69,7 @@
       "time": "le 28 mai de 6h30 à 7h30",
       "activite": "baie de capri",
       "subtitle": "“petit-déjeuner capriote”",
-      "text": "Devant le spectacle des Faraglioni à l'aube. On pourra savourer un café napolitain. Admirons Capri tandis que le navire ralentit pour une vue à couper le souffle, tout en dégustant une torta caprese.",
+      "text": "Devant le spectacle des Faraglioni à l'aube. On pourra savourer un café napolitain. Nous admirerons Capri tandis que le navire ralentira, offrant une vue à couper le souffle, tout en dégustant une torta caprese.",
       "image": "Assets/home/animations/3.jpg",
       "alt": "baie de capri"
     },
@@ -77,7 +77,7 @@
       "time": "le 29 mai de 23h à 00h",
       "activite": "sanctuaire des cétacés",
       "subtitle": "“spectacle de lumières”",
-      "text": "Plongeons dans le monde mystérieux des créatures marines. Un fascinant spectacle de lumières nous enveloppera dans l'obscurité de la nuit. Grâce à des projections à couper le souffle, vivons une expérience inoubliable.",
+      "text": "Plongeons dans le monde mystérieux des créatures marines. Un spectacle de lumières fascinant nous enveloppera dans l'obscurité de la nuit. Grâce à des projections à couper le souffle, vivons une expérience inoubliable.",
       "image": "Assets/home/animations/4.jpg",
       "alt": "photo du bateau de nuit"
     }
@@ -102,14 +102,14 @@
       "alt": "spiaggia beach club",
       "name": "la spiaggia beach club",
       "pont": "pont 16 à 17",
-      "text": "Une piscine d'eau salée centrale couverte. Cet espace installé sous un dôme transparent qui laisse passer les rayons du soleil."
+      "text": "Une piscine d'eau salée centrale et couverte, installée sous un dôme transparent laissant passer les rayons du soleil."
     },
     {
       "image": "Assets/bateau/divertissements/piazza-di-spagna.jpg",
       "alt": "piazza di spagna",
-      "name": "piazzi di spagna",
+      "name": "piazza di spagna",
       "pont": "pont 16 à 18",
-      "text": "Un grand escalier sur l'eau avec une vue sur le sillage du bateau. L'endroit idéal pour les jeux avec animation."
+      "text": "Un grand escalier sur l'eau offrant une vue sur le sillage du bateau, idéal pour les jeux animés."
     },
     {
       "image": "Assets/bateau/divertissements/piazza-tratevere.jpg",
@@ -137,14 +137,14 @@
       "alt": "mito disco",
       "name": "mito disco",
       "pont": "pont 6 à 7",
-      "text": "Le mito disco est le dernier rendez-vous de la journée. vous pourrez danser et faire la fête sur la mer."
+      "text": "Le mito disco est le dernier rendez-vous de la journée. Vous pourrez danser et faire la fête sur la mer."
     },
     {
       "image": "Assets/bateau/divertissements/laguna-casino.jpg",
       "alt": "laguna casino",
       "name": "laguna casino",
       "pont": "pont 7",
-      "text": "Casino avec tout les classiques et de nombreux jeux électroniques de dernière génération. Réservé aux adultes de plus de 18 ans."
+      "text": "Casino avec tous les classiques et de nombreux jeux électroniques de dernière génération. Réservé aux adultes de plus de 18 ans."
     },
     {
       "image": "Assets/bateau/divertissements/code-museum.jpg",
@@ -172,7 +172,7 @@
       "alt": "squok baby area",
       "name": "squok baby area",
       "pont": "pont 16",
-      "text": "Un espace dédié au divertissementdes enfants de 0 à 6 ans. Ils auront l'occasion de s'amuser avec leurs parents dans une salle dédiée. "
+      "text": "Un espace dédié au divertissement des enfants de 0 à 6 ans. Ils auront l'occasion de s'amuser avec leurs parents dans une salle dédiée."
     },
     {
       "image": "Assets/bateau/divertissements/squok-club.jpg",
@@ -226,7 +226,7 @@
       "name": "il meneghino restaurant",
       "pont": "pont 6",
       "status": "inclus",
-      "text": "Le petit-déjeuner et le déjeuner sont servis sous forme de buffet. Le dîner vous aurez un menu à la carte et servi à table."
+      "text": "Le petit-déjeuner et le déjeuner sont servis sous forme de buffet. Pour le dîner, un menu à la carte sera servi à table."
     },
     {
       "image": "Assets/bateau/restos/7.jpg",
@@ -314,7 +314,7 @@
       "alt": "frescobaldi wine expérience",
       "name": "frescobaldi wine expérience",
       "pont": "pont 8",
-      "text": "La façon la plus savoureuse de commencer la soirée, un bonverre de vin rouge ou blanc de nos oenothèques et bars à vin."
+      "text": "La façon la plus savoureuse de commencer la soirée : un bon verre de vin rouge ou blanc de nos œnothèques et bars à vin."
     },
     {
       "image": "Assets/bateau/restos/19.jpg",
@@ -466,7 +466,7 @@
       "alt": "espace sport",
       "name": "espace sport",
       "pont": "pont 18",
-      "text": "Le terrain multisport où sont organisées toutes sortes de tournois en équipe, du football, du volley-ball, du basket ou du tennis."
+      "text": "Le terrain multisports où sont organisées toutes sortes de tournois en équipe, du football, du volley-ball, du basket ou du tennis."
     },
     {
       "image": "Assets/bateau/sport/espace-beauté.jpg",
@@ -510,7 +510,7 @@
       "alt": "galleria shops",
       "name": "galleria shops",
       "pont": "pont 7",
-      "text": "A bord, vous avez la possibilité d'acheter de beaux cadeaux mais aussi tout ce dont vous pourriez avoir besoin."
+      "text": "À bord, vous avez la possibilité d'acheter de beaux cadeaux, mais aussi tout ce dont vous pourriez avoir besoin."
     },
     {
       "image": "Assets/bateau/boutiques/galleria-shop.jpg",
@@ -531,7 +531,7 @@
       "alt": "area shopping il mercatino",
       "name": "area shopping il mercatino",
       "pont": "pont 8",
-      "text": "A bord, vous avez la possibilité d'acheter de beaux cadeaux mais aussi tout ce dont vous pourriez avoir besoin."
+      "text": "À bord, vous avez la possibilité d'acheter de beaux cadeaux, mais aussi tout ce dont vous pourriez avoir besoin."
     }
   ],
   "autres": [
@@ -566,9 +566,9 @@
     {
       "image": "Assets/bateau/autres/reception.jpg",
       "alt": "recption",
-      "name": "recption",
+      "name": "réception",
       "pont": "pont 7",
-      "text": "Appelez le 3333 depuis votre téléphone de cabine ou rendez vous à la réception ou le personnel pourra vous fournir toutes les informations dont vous avez besoin."
+      "text": "Appelez le 3333 depuis votre téléphone de cabine ou rendez-vous à la réception, où le personnel pourra vous fournir toutes les informations nécessaires."
     },
     {
       "image": "Assets/bateau/autres/club.jpg",

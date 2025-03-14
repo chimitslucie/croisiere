@@ -6,23 +6,23 @@
       "name": "sagrada familia",
       "price": "Entrée générale: 26€, entrée avec visite guidée: 30€, entrée avec accès aux tours: 40€",
       "temps": "de 28min en voiture, 45min en transport, 2h45 à pieds",
-      "text": "La Sagrada Família, chef-d'œuvre inachevée d'Antoni Gaudí, est une basilique emblématique de Barcelone mêlant art nouveau et architecture gothique. Ses façades sculptées et ses tours élancées en font un monument unique inscrit au patrimoine mondial de l'UNESCO. Toujours en construction, elle devrait être achevée d'ici 2026, marquant le centenaire de la mort de Gaudí.",
+      "text": "La Sagrada Família, chef-d'œuvre inachevé d'Antoni Gaudí, est une basilique emblématique de Barcelone mêlant l'Art nouveau et l'architecture gothique. Ses façades sculptées et ses tours élancées en font un monument unique inscrit au patrimoine mondial de l'UNESCO. Toujours en construction, elle devrait être achevée d'ici 2026, marquant le centenaire de la mort de Gaudí.",
       "lien": "https://sagradafamilia.org/"
     },
     {
       "image": "Assets/etapes/barcelone/voir/2.jpg",
-      "alt": "photo du parc güel",
+      "alt": "photo du parc Güell",
       "name": "parc güell",
       "price": "Entrée: 18€",
       "temps": "de 29min en voiture, 1h12 en transport, 2h11 à pieds",
-      "text": "Le parc Güell, conçu par Antoni Gaudí, est un espace emblématique de Barcelone alliant nature et architecture moderniste. Ses mosaïques colorées, ses formes organiques et sa célèbre salamandre en céramique en font un lieu unique classé au patrimoine mondial de l'UNESCO. Offrant une vue panoramique sur la ville, il incarne l'imaginaire créatif de Gaudí.",
+      "text": "Le parc Güell, conçu par Antoni Gaudí, est un lieu emblématique de Barcelone où nature et architecture moderniste se rejoignent. Ses mosaïques colorées, ses formes organiques et sa célèbre salamandre en céramique en font un lieu unique classé au patrimoine mondial de l'UNESCO. Offrant une vue panoramique sur la ville, il incarne l'imaginaire créatif de Gaudí.",
       "lien": "https://parkguell.barcelona/"
     },
     {
       "image": "Assets/etapes/barcelone/voir/3.jpg",
       "alt": "photo de la casa batllo",
       "name": "casa batlló",
-      "price": "Entrée environ 25€ ",
+      "price": "Entrée : environ 25€",
       "temps": "de 21min en voiture, 48min en transport, 1h21 à pieds",
       "text": "La Casa Batlló, chef-d'œuvre moderniste d'Antoni Gaudí, est une icône architecturale de Barcelone. Sa façade ondulée ornée de mosaïques colorées et son intérieur inspiré du monde marin en font un lieu unique. Classée au patrimoine mondial de l'UNESCO, elle incarne l'ingéniosité et le génie créatif de Gaudí.",
       "lien": "https://www.casabatllo.es/"
@@ -58,7 +58,7 @@
       "image": "Assets/etapes/barcelone/voir/7.jpg",
       "alt": "photo du palais de la musique catalane",
       "name": "Palais de la Musique Catalane",
-      "price": "Entrée 18€, avec guide audio ou guide 22€",
+      "price": "Entrée 18€, avec audioguide ou guide : 22€",
       "temps": "de 22min en voiture, 55min en transport, 1h12 à pieds",
       "text": "Le Palais de la Musique Catalane est un chef-d'œuvre moderniste de Barcelone conçu par Lluís Domènech i Montaner. Sa salle de concert, baignée de lumière grâce à une impressionnante verrière colorée, est un joyau architectural. Classé au patrimoine mondial de l’UNESCO, il incarne l’élégance et la créativité du modernisme catalan.",
       "lien": "https://www.palaumusica.cat/ca"
@@ -165,7 +165,7 @@
     {
       "image": "Assets/etapes/barcelone/voir/19.jpg",
       "alt": "photo du teleferic de montjuix",
-      "name": "teleferic de montjuic",
+      "name": "téléphérique de Montjuïc",
       "price": "Entrée 17€",
       "temps": "de 17min en voiture, 48min en transport, 1h14 à pieds",
       "text": "Le téléphérique de Montjuïc offre une vue imprenable sur Barcelone en reliant la ville au sommet de la colline de Montjuïc. En quelques minutes, il permet d’accéder à des sites emblématiques comme le Château de Montjuïc et les jardins environnants. Une expérience panoramique idéale pour admirer Barcelone sous un angle unique.",
@@ -198,7 +198,7 @@
     {
       "image": "Assets/etapes/barcelone/excursion/3.jpg",
       "alt": "photo d'une personne avec en fond un peu flou la sagrada familia",
-      "name": "Costa GoRound, 1 billet multi-arrêt + entré à la casa milà",
+      "name": "Costa GoRound, 1 multi-arrêts + entrée à la Casa Milà",
       "time": "8h",
       "price": "59€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
@@ -224,7 +224,7 @@
       "time": "3.5h",
       "price": "49€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
-      "text": "Devenez photographe pendant quelques heures. Donnez votre point de vue de Barcelone à travers les photos des coins les plus emblématiques de la métropole. Postez-les sur les réseaux sociaux. En premier lieu, vous devrez vous souvenir d’ajouter le hashtag #costagrammer et le tag @costacruiseofficial sur les meilleures photos de cette journée. Le tour commence sur la colline de Montjuïc qui est un point de vue. La seconde étape est la Sagrada Familia.Le reflet des façades des bâtiments dans les vitrines des grandes marques peut être une idée pour une photo originale sur Passeig de Gracia. Vous rentrerez au navire.",
+      "text": "Devenez photographe pendant quelques heures. Donnez votre point de vue de Barcelone à travers les photos des coins les plus emblématiques de la métropole. Postez-les sur les réseaux sociaux. En premier lieu, vous devrez vous souvenir d’ajouter le hashtag #costagrammer et le tag @costacruiseofficial sur les meilleures photos de cette journée. Le tour commence sur la colline de Montjuïc qui est un point de vue. La seconde étape est la Sagrada Familia. Le reflet des façades des bâtiments dans les vitrines des grandes marques peut être une excellente idée pour une photo originale sur le Passeig de Gràcia. Vous rentrerez au navire.",
       "info": "Sagrada Familia: visite externe. Promenade panoramique dans le Passeig de Gracia.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=18616092&ICode=0765&date=2025-05-25&previousCategory=true"
     },
@@ -246,7 +246,7 @@
       "time": "4h",
       "price": "49€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
-      "text": "On part du quartier élégant d’El Born où se trouve le Palais de la Musique Catalane et l’église Santa Maria del Mar. Le barrio Gotico est visité en regardant vers le haut, car les chefs-d’œuvre sont dans la verticalité des façades et des vitrages. A la fin de la visite, une dégustation typique de la Catalogne: deux tapas, tortilla et jambon serrano, vous attendent dans un restaurant vers les Ramblas. Après l’excursion, si la durée de l’escale le permet, arrêtez-vous aussi longtemps que vous le souhaitez dans le centre ville puis rentrez ensuite gratuitement à bord grâce au service de bus navette Costa, en présentant au chauffeur votre Costa Card.",
+      "text": "On part du quartier élégant d’El Born, où se trouvent le Palais de la Musique Catalane et l’église Santa Maria del Mar. Le barrio Gotico est visité en regardant vers le haut, car les chefs-d’œuvre sont dans la verticalité des façades et des vitrages. A la fin de la visite, une dégustation typique de la Catalogne: deux tapas, tortilla et jambon serrano, vous attendent dans un restaurant vers les Ramblas. Après l’excursion, si la durée de l’escale le permet, arrêtez-vous aussi longtemps que vous le souhaitez dans le centre ville puis rentrez ensuite gratuitement à bord grâce au service de bus navette Costa, en présentant au chauffeur votre Costa Card.",
       "info": "Une dégustation est comprise.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=36158043&ICode=00FW&date=2025-05-25&previousCategory=true"
     },
@@ -257,7 +257,7 @@
       "time": "8h",
       "price": "89€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
-      "text": "Découvrez une expérience exclusive Costa avec un guide commence au Passeig de Gràcia dans une ambiance animée et festive. Après avoir profité de l’atmosphère et des saveurs de la ville, le voyage se poursuit en bus vers Montserrat, un site spirituel célèbre. Les visiteurs peuvent choisir de terminer l’ascension en train à crémaillère pour admirer les formes uniques des rochers et écouter les légendes locales racontées par le guide. L’expérience se prolonge dans un cadre empreint de silence et de sérénité, notamment au cloître et dans l’église de la Madone Moreneta. Enfin, la découverte du lieu s’achève par une dégustation des liqueurs traditionnelles fabriquées par les moines bénédictins.",
+      "text": "Découvrez une expérience exclusive Costa qui commence au Passeig de Gràcia dans une ambiance animée et festive. Après avoir profité de l’atmosphère et des saveurs de la ville, le voyage se poursuit en bus vers Montserrat, un site spirituel célèbre. Les visiteurs peuvent choisir de terminer l’ascension en train à crémaillère pour admirer les formes uniques des rochers et écouter les légendes locales racontées par le guide. L’expérience se prolonge dans un cadre empreint de silence et de sérénité, notamment au cloître et dans l’église de la Madone Moreneta. Enfin, la découverte du lieu s’achève par une dégustation des liqueurs traditionnelles fabriquées par les moines bénédictins.",
       "info": "Basilique de Montserrat: fermeture quotidienne de 10h30 à 12h.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=2178895&ICode=0525&date=2025-05-25&previousCategory=true"
     },
@@ -268,7 +268,7 @@
       "time": "3h",
       "price": "52€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
-      "text": "Le quartier gothique de Barcelone est un labyrinthe de ruelles, de monuments et de petites boutiques. Avec notre guide, vous découvrirez les mystères et les légendes de ses recoins. Sur la plaza Sant Jaume, vous pouvez admirer le palais du gouvernement et l’hôtel de ville et à la plaza del Rey l’ancien palais royal. Ensuite, balade sur la Rambla en direction de Torrons Vicens, un musée interactif sur le nougat: le personnel vous raconte tous ses secrets et vous assistez à la transformation des amandes en nougat. Il est temps de goûter à ce délice et d’en essayer au moins neufs différents.",
+      "text": "Le quartier gothique de Barcelone est un labyrinthe de ruelles, de monuments et de petites boutiques. Avec notre guide, vous découvrirez les mystères et les légendes de ses recoins. Sur la plaza Sant Jaume, vous pouvez admirer le palais du gouvernement et l’hôtel de ville et à la plaza del Rey l’ancien palais royal. Ensuite, balade sur la Rambla en direction de Torrons Vicens, un musée interactif sur le nougat: le personnel vous raconte tous ses secrets et vous assistez à la transformation des amandes en nougat. Il est temps de goûter à ce délice et d’en essayer au moins neuf différents.",
       "info": "Une dégustation est comprise. Portez des chaussures confortables et des vêtements adaptés au parcours.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=289991616&ICode=04JW&date=2025-05-25&previousCategory=true"
     },
@@ -290,7 +290,7 @@
       "time": "4h",
       "price": "69€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
-      "text": "Dans un bus confortable et avec votre guide, vous découvrirez les chefs-d’œuvre de Gaudi: la Casa Battlo inspirée d’un dragon, la Casa Milà, qui rappelle une montagne et l’emblématique Sagrada Familia. Depuis le bus, le coup d'œil sur les façades est parfait: la Casa Batllo est entièrement recouverte de mosaïques colorées rappelant les écailles d’un dragon alors que la Casa Milà, dite la Pedrera, est en pierre naturelle nue. En vous promenant dans le quartier de Gràcia, vous verrez le cœur authentique de la ville, loin de la Rambla touristique. Perdez-vous avec votre guide dans les ruelles menant à la Casa Fuster puis à la charmante Plaza de la Villa avec sa Torre del Campanario.",
+      "text": "Dans un bus confortable et avec votre guide, vous découvrirez les chefs-d’œuvre de Gaudi: la Casa Batlló, inspirée d’un dragon, la Casa Milà, qui rappelle une montagne et l’emblématique Sagrada Familia. Depuis le bus, le coup d'œil sur les façades est parfait: la Casa Batllo est entièrement recouverte de mosaïques colorées rappelant les écailles d’un dragon alors que la Casa Milà, dite la Pedrera, est en pierre naturelle nue. En vous promenant dans le quartier de Gràcia, vous découvrirez le cœur authentique de la ville, loin de la Rambla touristique.. Perdez-vous avec votre guide dans les ruelles menant à la Casa Fuster puis à la charmante Plaza de la Villa avec sa Torre del Campanario.",
       "info": "Circuit panoramique en bus: Passeig de Gràcia, Casa Batlló, Casa Milà. Sagrada Familia: visite externe.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=262547240&ICode=04AG&date=2025-05-25&previousCategory=true"
     },
@@ -335,7 +335,7 @@
       "price": "39€ par adulte",
       "horaire": "L'heure de départ sera communiquée à bord",
       "text": "Barcelone n’est pas seulement la Rambla et la Sagrada Familia, si vous souhaitez découvrir un de ses autres symboles les plus vivants, la Barceloneta, un quartier historique de la ville en bord de mer, vous attend. Votre accompagnateur vous y emmènera en bus, après quoi aucun parcours n'est établi: vous pouvez vous promener en toute autonomie. Laissez-vous tenter: nous vous offrons un bon pour boire et déguster les spécialités, entre deux restaurants à choix.",
-      "info": "Nous vous offrons un bon pour goûter deux tapas et une boisson, à dépenser dans un des deux restaurants sélectionnés, à choix. Les horaires d’ouverture sont prévus à 12h, mais il faudra peut-être attendre avant de pouvoir vous asseoir. L’excursion ne prévoit pas la présence d’un guide. Les informations seront fournies par un compagnon local, en anglais ou espagnol.",
+      "info": "Nous vous offrons un bon pour déguster deux tapas et une boisson, à utiliser dans l'un des deux restaurants sélectionnés. Les horaires d’ouverture sont prévus à 12h, mais il faudra peut-être attendre avant de pouvoir vous asseoir. L’excursion ne prévoit pas la présence d’un guide. Les informations seront fournies par un compagnon local, en anglais ou espagnol.",
       "lien": "https://mycosta.costacroisieres.fr/product/details/excursion.html?productCode=235201904&ICode=042W&date=2025-05-25&previousCategory=true"
     }
   ]
