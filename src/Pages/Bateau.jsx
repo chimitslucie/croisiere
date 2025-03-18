@@ -49,7 +49,7 @@ function Bateau() {
                     <p className="informationText textSecondary">
                         Information : les appareils chauffant de type fer à repasser, les appareils chauffant de coiffure (lisseur, sèche-cheveux,
                         fer à boucler) sont interdits à bord. Dans chaque cabine, le linge de lit, serviette de bain, serviettes de plage et sèche-cheveux
-                        sont fournis.
+                        sont fournis. Il n'y a pas de tenues obligatoires à avoir, les shorts de bain sont autorisés.
                     </p>
                 </div>
             </div>

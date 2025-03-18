@@ -36,7 +36,7 @@ function Cagliari() {
             </section>
             <section className="excursion">
                 <div className="container">
-                    <Title title="excursions porposer par costa" />
+                    <Title title="excursions proposer par costa" />
                     <div className="excursionContent">
                         {
                             cagliari.excursions.map((excursion, index) => (

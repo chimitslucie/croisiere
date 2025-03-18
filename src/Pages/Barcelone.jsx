@@ -36,7 +36,7 @@ function Barcelone() {
             </section>
             <section className="excursion">
                 <div className="container">
-                    <Title title="excursions porposer par costa" />
+                    <Title title="excursions proposer par costa" />
                     <div className="excursionContent">
                         {
                             barcelone.excursions.map((excursion, index) => (
