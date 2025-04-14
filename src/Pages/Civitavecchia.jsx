@@ -15,7 +15,7 @@ function Civitavecchia() {
             <div className="information">
                 <div className="container">
                     <p className="informationText textSecondary">
-                        Information: En prévision du Jubiler de 2025, de nombreux monuments peuvent être en cours de rénovation et donc non visibles.
+                        Information: En prévision du Jubilé de 2025, de nombreux monuments peuvent être en cours de rénovation et donc non visibles.
                     </p>
                 </div>
             </div>
